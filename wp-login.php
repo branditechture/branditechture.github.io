@@ -10,6 +10,19 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Log In &lsaquo; Branditechture &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
+<script type='text/javascript' src='./wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='./wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='./wp-content/plugins/mailchimp//js/scrollTo.js?ver=1.5.7'></script>
+<script type='text/javascript' src='./wp-includes/js/jquery/jquery.form.min.js?ver=4.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mailchimpSF = {"ajax_url":".\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='./wp-content/plugins/mailchimp//js/mailchimp.js?ver=1.5.7'></script>
+<script type='text/javascript' src='./wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='./wp-content/plugins/mailchimp//js/datepicker.js?ver=5.4.1'></script>
+<link rel='stylesheet' id='flick-css'  href='./wp-content/plugins/mailchimp//css/flick/flick.css?ver=5.4.1' type='text/css' media='all' />
 <link rel='stylesheet' id='mailchimpSF_main_css-css'  href='./index.html?mcsf_action=main_css&#038;ver=5.4.1' type='text/css' media='all' />
 <!--[if IE]>
 <link rel='stylesheet' id='mailchimpSF_ie_css-css'  href='./wp-content/plugins/mailchimp/css/ie.css?ver=5.4.1' type='text/css' media='all' />
@@ -67,9 +80,7 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog"><a href="./index.html">
 		&larr; Back to Branditechture		</a></p>
 			</div>
-	<script type='text/javascript' src='./wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
-<script type='text/javascript' src='./wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
-<script type='text/javascript'>
+	<script type='text/javascript'>
 /* <![CDATA[ */
 var _zxcvbnSettings = {"src":".\/wp-includes\/js\/zxcvbn.min.js"};
 /* ]]> */
