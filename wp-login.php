@@ -9,29 +9,28 @@
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Log In &lsaquo; Branditechture &#8212; WordPress</title>
-	<link rel='dns-prefetch' href='//s.w.org' />
-<script type='text/javascript' src='./wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
-<script type='text/javascript' src='./wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
-<script type='text/javascript' src='./wp-content/plugins/mailchimp//js/scrollTo.js?ver=1.5.7'></script>
-<script type='text/javascript' src='./wp-includes/js/jquery/jquery.form.min.js?ver=4.2.1'></script>
+	<script type='text/javascript' src='./wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='./wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='./wp-content/plugins/mailchimp//js/scrollTo.js'></script>
+<script type='text/javascript' src='./wp-includes/js/jquery/jquery.form.min.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var mailchimpSF = {"ajax_url":".\/"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='./wp-content/plugins/mailchimp//js/mailchimp.js?ver=1.5.7'></script>
-<script type='text/javascript' src='./wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
-<script type='text/javascript' src='./wp-content/plugins/mailchimp//js/datepicker.js?ver=5.4.1'></script>
-<link rel='stylesheet' id='flick-css'  href='./wp-content/plugins/mailchimp//css/flick/flick.css?ver=5.4.1' type='text/css' media='all' />
-<link rel='stylesheet' id='mailchimpSF_main_css-css'  href='./index.html?mcsf_action=main_css&#038;ver=5.4.1' type='text/css' media='all' />
+<script type='text/javascript' src='./wp-content/plugins/mailchimp//js/mailchimp.js'></script>
+<script type='text/javascript' src='./wp-includes/js/jquery/ui/core.min.js'></script>
+<script type='text/javascript' src='./wp-content/plugins/mailchimp//js/datepicker.js'></script>
+<link rel='stylesheet' id='flick-css'  href='./wp-content/plugins/mailchimp//css/flick/flick.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimpSF_main_css-css'  href='./index.html?mcsf_action=main_css' type='text/css' media='all' />
 <!--[if IE]>
-<link rel='stylesheet' id='mailchimpSF_ie_css-css'  href='./wp-content/plugins/mailchimp/css/ie.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimpSF_ie_css-css'  href='./wp-content/plugins/mailchimp/css/ie.css' type='text/css' media='all' />
 <![endif]-->
-<link rel='stylesheet' id='dashicons-css'  href='./wp-includes/css/dashicons.min.css?ver=5.4.1' type='text/css' media='all' />
-<link rel='stylesheet' id='buttons-css'  href='./wp-includes/css/buttons.min.css?ver=5.4.1' type='text/css' media='all' />
-<link rel='stylesheet' id='forms-css'  href='./wp-admin/css/forms.min.css?ver=5.4.1' type='text/css' media='all' />
-<link rel='stylesheet' id='l10n-css'  href='./wp-admin/css/l10n.min.css?ver=5.4.1' type='text/css' media='all' />
-<link rel='stylesheet' id='login-css'  href='./wp-admin/css/login.min.css?ver=5.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='./wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='buttons-css'  href='./wp-includes/css/buttons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='forms-css'  href='./wp-admin/css/forms.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='l10n-css'  href='./wp-admin/css/l10n.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='login-css'  href='./wp-admin/css/login.min.css' type='text/css' media='all' />
 	<meta name='robots' content='noindex,noarchive' />
 	<meta name='referrer' content='strict-origin-when-cross-origin' />
 		<meta name="viewport" content="width=device-width" />
@@ -85,26 +84,26 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 var _zxcvbnSettings = {"src":".\/wp-includes\/js\/zxcvbn.min.js"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='./wp-includes/js/zxcvbn-async.min.js?ver=1.0'></script>
+<script type='text/javascript' src='./wp-includes/js/zxcvbn-async.min.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var pwsL10n = {"unknown":"Password strength unknown","short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='./wp-admin/js/password-strength-meter.min.js?ver=5.4.1'></script>
-<script type='text/javascript' src='./wp-includes/js/underscore.min.js?ver=1.8.3'></script>
+<script type='text/javascript' src='./wp-admin/js/password-strength-meter.min.js'></script>
+<script type='text/javascript' src='./wp-includes/js/underscore.min.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='./wp-includes/js/wp-util.min.js?ver=5.4.1'></script>
+<script type='text/javascript' src='./wp-includes/js/wp-util.min.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var userProfileL10n = {"warn":"Your new password has not been saved.","warnWeak":"Confirm use of weak password","show":"Show","hide":"Hide","cancel":"Cancel","ariaShow":"Show password","ariaHide":"Hide password"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='./wp-admin/js/user-profile.min.js?ver=5.4.1'></script>
+<script type='text/javascript' src='./wp-admin/js/user-profile.min.js'></script>
 	<div class="clear"></div>
 	</body>
 	</html>
