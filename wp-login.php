@@ -9,7 +9,8 @@
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Log In &lsaquo; Branditechture &#8212; WordPress</title>
-	<script type='text/javascript' src='./wp-includes/js/jquery/jquery.js'></script>
+	<link href='https://fonts.gstatic.com/' crossorigin rel='preconnect' />
+<script type='text/javascript' src='./wp-includes/js/jquery/jquery.js'></script>
 <script type='text/javascript' src='./wp-includes/js/jquery/jquery-migrate.min.js'></script>
 <script type='text/javascript' src='./wp-content/plugins/mailchimp//js/scrollTo.js'></script>
 <script type='text/javascript' src='./wp-includes/js/jquery/jquery.form.min.js'></script>
@@ -22,7 +23,7 @@ var mailchimpSF = {"ajax_url":".\/"};
 <script type='text/javascript' src='./wp-includes/js/jquery/ui/core.min.js'></script>
 <script type='text/javascript' src='./wp-content/plugins/mailchimp//js/datepicker.js'></script>
 <link rel='stylesheet' id='flick-css'  href='./wp-content/plugins/mailchimp//css/flick/flick.css' type='text/css' media='all' />
-<link rel='stylesheet' id='mailchimpSF_main_css-css'  href='./index.html?mcsf_action=main_css' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimpSF_main_css-css'  href='./wp-content/cache/min/1/mailchimpSF_main_css.css' type='text/css' media='all' />
 <!--[if IE]>
 <link rel='stylesheet' id='mailchimpSF_ie_css-css'  href='./wp-content/plugins/mailchimp/css/ie.css' type='text/css' media='all' />
 <![endif]-->
