@@ -4,8 +4,8 @@
 
 <channel>
 	<title>digital &ndash; Branditechture</title>
-	<link href="./index.html" rel="self" type="application/rss+xml">
-	<link>./../../../index.html
+	<link href="https://branditechture.com/tag/digital/feed/" rel="self" type="application/rss+xml">
+	<link>https://branditechture.com/
 	<description>Web &times; Design; Branditechture is an hybrid creative design agency.</description>
 	<lastbuilddate>Fri, 02 Aug 2019 05:37:34 +0000</lastbuilddate>
 	<language>en-US</language>
@@ -16,16 +16,16 @@
 	<generator>https://wordpress.org/?v=5.4.1</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2020/05/cropped-Favicon-32x32.png</url>
+	<url>https://branditechture.com/wp-content/uploads/2020/05/cropped-Favicon-32x32.png</url>
 	<title>digital &ndash; Branditechture</title>
-	<link>./../../../index.html
+	<link>https://branditechture.com/
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>How to Increase Your ROI Through scientific SEM?</title>
-		<link>./../../../2019/08/02/how-to-increase-your-roi-through-scientific-sem/index.html
-					<comments>./../../../2019/08/02/how-to-increase-your-roi-through-scientific-sem/index.html#comments</comments>
+		<link>https://branditechture.com/2019/08/02/how-to-increase-your-roi-through-scientific-sem/
+					<comments>https://branditechture.com/2019/08/02/how-to-increase-your-roi-through-scientific-sem/#comments</comments>
 		
 		<creator></creator>
 		<pubdate>Fri, 02 Aug 2019 05:37:34 +0000</pubdate>
@@ -217,7 +217,7 @@
 		
 		]]&gt;</encoded>
 					
-					<commentrss>./../../../2019/08/02/how-to-increase-your-roi-through-scientific-sem/feed/index.html</commentrss>
+					<commentrss>https://branditechture.com/2019/08/02/how-to-increase-your-roi-through-scientific-sem/feed/</commentrss>
 			<comments>2</comments>
 		
 		

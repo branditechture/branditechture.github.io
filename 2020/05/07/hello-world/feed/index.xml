@@ -4,8 +4,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<link href="./index.html" rel="self" type="application/rss+xml">
-	<link>./../index.html
+	<link href="https://branditechture.com/2020/05/07/hello-world/feed/" rel="self" type="application/rss+xml">
+	<link>https://branditechture.com/2020/05/07/hello-world/
 	<description>Web &times; Design; Branditechture is an hybrid creative design agency.</description>
 	<lastbuilddate>Thu, 07 May 2020 16:37:14 +0000</lastbuilddate>
 	<updateperiod>
@@ -16,11 +16,11 @@
 	<item>
 		<title>
 		By: A WordPress Commenter		</title>
-		<link>./../index.html#comment-1
+		<link>https://branditechture.com/2020/05/07/hello-world/#comment-1
 
 		<creator></creator>
 		<pubdate>Thu, 07 May 2020 16:37:14 +0000</pubdate>
-		<guid ispermalink="false">./../../../../../index.html?p=1#comment-1</guid>
+		<guid ispermalink="false">https://branditechture.com/?p=1#comment-1</guid>
 
 					<description></description>
 			<encoded>Hi, this is a comment.<br>

@@ -4,8 +4,8 @@
 
 <channel>
 	<title>Uncategorized &ndash; Branditechture</title>
-	<link href="./index.html" rel="self" type="application/rss+xml">
-	<link>./../../../index.html
+	<link href="https://branditechture.com/product-category/uncategorized/feed/" rel="self" type="application/rss+xml">
+	<link>https://branditechture.com/
 	<description>Web &times; Design; Branditechture is an hybrid creative design agency.</description>
 	<lastbuilddate>Wed, 03 Jun 2020 01:36:47 +0000</lastbuilddate>
 	<language>en-US</language>
@@ -16,9 +16,9 @@
 	<generator>https://wordpress.org/?v=5.4.1</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2020/05/cropped-Favicon-32x32.png</url>
+	<url>https://branditechture.com/wp-content/uploads/2020/05/cropped-Favicon-32x32.png</url>
 	<title>Uncategorized &ndash; Branditechture</title>
-	<link>./../../../index.html
+	<link>https://branditechture.com/
 	<width>32</width>
 	<height>32</height>
 </image> 

@@ -4,8 +4,8 @@
 
 <channel>
 	<title>Optimization &ndash; Branditechture</title>
-	<link href="./index.html" rel="self" type="application/rss+xml">
-	<link>./../../../index.html
+	<link href="https://branditechture.com/product-category/optimization/feed/" rel="self" type="application/rss+xml">
+	<link>https://branditechture.com/
 	<description>Web &times; Design; Branditechture is an hybrid creative design agency.</description>
 	<lastbuilddate>Thu, 01 Aug 2019 08:19:47 +0000</lastbuilddate>
 	<language>en-US</language>
@@ -16,16 +16,16 @@
 	<generator>https://wordpress.org/?v=5.4.1</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2020/05/cropped-Favicon-32x32.png</url>
+	<url>https://branditechture.com/wp-content/uploads/2020/05/cropped-Favicon-32x32.png</url>
 	<title>Optimization &ndash; Branditechture</title>
-	<link>./../../../index.html
+	<link>https://branditechture.com/
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Digital Marketing SEO</title>
-		<link>./../../../product/digital-marketing-seo/index.html
-					<comments>./../../../product/digital-marketing-seo/index.html#respond</comments>
+		<link>https://branditechture.com/product/digital-marketing-seo/
+					<comments>https://branditechture.com/product/digital-marketing-seo/#respond</comments>
 		
 		<creator></creator>
 		<pubdate>Thu, 01 Aug 2019 08:19:47 +0000</pubdate>
@@ -39,7 +39,7 @@
 										<encoded>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 ]]&gt;</encoded>
 					
-					<commentrss>./../../../product/digital-marketing-seo/feed/index.html</commentrss>
+					<commentrss>https://branditechture.com/product/digital-marketing-seo/feed/</commentrss>
 			<comments>0</comments>
 		
 		

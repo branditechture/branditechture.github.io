@@ -4,8 +4,8 @@
 
 <channel>
 	<title>SEO &ndash; Branditechture</title>
-	<link href="./index.html" rel="self" type="application/rss+xml">
-	<link>./../../../index.html
+	<link href="https://branditechture.com/portfolio-tag/seo/feed/" rel="self" type="application/rss+xml">
+	<link>https://branditechture.com/
 	<description>Web &times; Design; Branditechture is an hybrid creative design agency.</description>
 	<lastbuilddate>Mon, 15 Jul 2019 07:47:45 +0000</lastbuilddate>
 	<language>en-US</language>
@@ -16,15 +16,15 @@
 	<generator>https://wordpress.org/?v=5.4.1</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2020/05/cropped-Favicon-32x32.png</url>
+	<url>https://branditechture.com/wp-content/uploads/2020/05/cropped-Favicon-32x32.png</url>
 	<title>SEO &ndash; Branditechture</title>
-	<link>./../../../index.html
+	<link>https://branditechture.com/
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Mannix Marketing</title>
-		<link>./../../../portfolio/mannix-marketing/index.html
+		<link>https://branditechture.com/portfolio/mannix-marketing/
 		
 		<creator></creator>
 		<pubdate>Mon, 15 Jul 2019 07:47:45 +0000</pubdate>
@@ -94,12 +94,12 @@
 				<div class="elementor-element elementor-element-299c5c9 elementor-widget elementor-widget-gt3-core-sharing" data-id="299c5c9" data-element_type="widget" data-widget_type="gt3-core-sharing.default">
 				<div class="elementor-widget-container">
 				<div class="gt3_sharing_core horizontal align_left">
-		<span class="gt3_sharing_label_title">Share</span><div class="gt3_sharing_links_block"><a target="_blank" href="https://www.facebook.com/share.php?u=./portfolio/mannix-marketing/" class="core_sharing_fb"><i class="link_type_icon fa fa-facebook"></i></a><a target="_blank" href="https://twitter.com/intent/tweet?text=Mannix%20Marketing&amp;url=./portfolio/mannix-marketing/" class="core_sharing_twitter"><i class="link_type_icon fa fa-twitter"></i></a><a target="_blank" href="https://plus.google.com/share?url=./portfolio/mannix-marketing/" class="core_sharing_google"><i class="link_type_icon fa fa-google"></i></a><a target="_blank" href="mailto:?subject=Mannix%20Marketing&amp;body=./../../../portfolio/mannix-marketing/index.html" class="core_sharing_email"><i class="link_type_icon fa fa-envelope"></i></a><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=./portfolio/mannix-marketing/&amp;title=Mannix%20Marketing&amp;source=Branditechture" class="core_sharing_linkedin"><i class="link_type_icon fa fa-linkedin"></i></a></div>	</div>
+		<span class="gt3_sharing_label_title">Share</span><div class="gt3_sharing_links_block"><a target="_blank" href="https://www.facebook.com/share.php?u=https://branditechture.com/portfolio/mannix-marketing/" class="core_sharing_fb"><i class="link_type_icon fa fa-facebook"></i></a><a target="_blank" href="https://twitter.com/intent/tweet?text=Mannix%20Marketing&amp;url=https://branditechture.com/portfolio/mannix-marketing/" class="core_sharing_twitter"><i class="link_type_icon fa fa-twitter"></i></a><a target="_blank" href="https://plus.google.com/share?url=https://branditechture.com/portfolio/mannix-marketing/" class="core_sharing_google"><i class="link_type_icon fa fa-google"></i></a><a target="_blank" href="mailto:?subject=Mannix%20Marketing&amp;body=https://branditechture.com/portfolio/mannix-marketing/" class="core_sharing_email"><i class="link_type_icon fa fa-envelope"></i></a><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://branditechture.com/portfolio/mannix-marketing/&amp;title=Mannix%20Marketing&amp;source=Branditechture" class="core_sharing_linkedin"><i class="link_type_icon fa fa-linkedin"></i></a></div>	</div>
 		</div>
 				</div>
 				<div class="elementor-element elementor-element-4785e59 elementor-widget elementor-widget-gt3-core-custommeta" data-id="4785e59" data-element_type="widget" data-widget_type="gt3-core-custommeta.default">
 				<div class="elementor-widget-container">
-			<div class="gt3_meta_values_wrapper vertical align_left"><div class="gt3_meta_values_item elementor-repeater-item-def9cca"><span class="gt3_meta_label_title">Tags</span><div class="gt3_meta_value type_tags"><a href="./../index.html">SEO</a></div></div></div>		</div>
+			<div class="gt3_meta_values_wrapper vertical align_left"><div class="gt3_meta_values_item elementor-repeater-item-def9cca"><span class="gt3_meta_label_title">Tags</span><div class="gt3_meta_value type_tags"><a href="https://branditechture.com/portfolio-tag/seo/">SEO</a></div></div></div>		</div>
 				</div>
 						</div>
 			</div>
@@ -173,7 +173,7 @@
 				<div class="elementor-element elementor-element-675d elementor-widget elementor-widget-unlimited-charts" data-id="675d" data-element_type="widget" data-widget_type="unlimited-charts.default">
 				<div class="elementor-widget-container">
 						<div class="gt3_unlimited_chart_wrapper" data-chart-type="bar" data-chart-data='{"labels":["2016","2017","2018","2019"],"datasets":[{"data":["25","45"],"label":"Dataset #1","backgroundColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderWidth":1,"fill":false,"borderJoinStyle":[12,15]}]}' data-chart-options='{"responsive":true,"maintainAspectRatio":false,"animation":{"duration":1500},"layout":{"padding":{"top":0}},"legend":{"display":false,"position":"bottom","labels":{"usePointStyle":false}},"tooltips":{"enabled":true},"scales":{"xAxes":[{"gridLines":{"display":false,"color":"#c0c0c0"},"scaleLabel":{"display":false,"labelString":"","fontColor":"#3b3663","fontSize":"12"},"ticks":{"fontSize":"18","fontColor":"#3b3663"}}],"yAxes":[{"gridLines":{"display":true,"color":"#c0c0c0"},"scaleLabel":{"display":false,"labelString":"","fontColor":"#3b3663","fontSize":"18"},"ticks":{"beginAtZero":true,"suggestedMax":1,"fontSize":"18","fontColor":"#3b3663"}}]}}'>
-				<canvas class="gt3_unlimited_chart gt3_chart_7067" width="400" height="400"></canvas>
+				<canvas class="gt3_unlimited_chart gt3_chart_1602" width="400" height="400"></canvas>
 			</div>		</div>
 				</div>
 				<div class="elementor-element-custom_font_size elementor-element-custom_line_height elementor-element-custom_font_weight elementor-element-custom_color elementor-element elementor-element-8d2 elementor-widget elementor-widget-text-editor" data-id="8d2" data-element_type="widget" data-widget_type="text-editor.default">
@@ -244,7 +244,7 @@
 				<div class="elementor-element elementor-element-50f7 elementor-widget elementor-widget-unlimited-charts" data-id="50f7" data-element_type="widget" data-widget_type="unlimited-charts.default">
 				<div class="elementor-widget-container">
 						<div class="gt3_unlimited_chart_wrapper" data-chart-type="doughnut" data-chart-data='{"labels":["Done","Achieved","Queue","Loaded"],"datasets":[{"data":["25","45"],"label":"Dataset #1","backgroundColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderWidth":1,"fill":false,"borderJoinStyle":[12,15]}]}' data-chart-options='{"responsive":true,"maintainAspectRatio":false,"cutoutPercentage":"50","rotation":2.443460952792061,"animation":{"duration":1500},"layout":{"padding":{"top":0}},"legend":{"display":true,"position":"bottom","labels":{"usePointStyle":true}},"tooltips":{"enabled":true}}'>
-				<canvas class="gt3_unlimited_chart gt3_chart_5398" width="400" height="400"></canvas>
+				<canvas class="gt3_unlimited_chart gt3_chart_3533" width="400" height="400"></canvas>
 			</div>		</div>
 				</div>
 						</div>
@@ -278,7 +278,7 @@
 					<div class="elementor-widget-wrap">
 				<div class="elementor-element elementor-element-4dc9 elementor-widget elementor-widget-gt3-core-blockquote" data-id="4dc9" data-element_type="widget" data-widget_type="gt3-core-blockquote.default">
 				<div class="elementor-widget-container">
-			<div class="gt3_blockquote text_align-center" data-quote-src="./../../../wp-content/themes/ewebot/img/quote.png">
+			<div class="gt3_blockquote text_align-center" data-quote-src="https://branditechture.com/wp-content/themes/ewebot/img/quote.png">
         <div class="gt3_blockquote__text"><p>Cum et essent similique. Inani propriae menandri sed in. Pericula expetendis has no, quo populo forensibus contentiones et, nibh error in per.</p></div>
     <div class="gt3_blockquote__author_wrapper"><div class="gt3_blockquote__author_divider"></div><div class="gt3_blockquote__author_container"><div class="gt3_blockquote__author_name">Denis Robinson</div></div>        </div></div>		</div>
 				</div>
@@ -315,7 +315,7 @@
 			</item>
 		<item>
 		<title>SEO Optimization</title>
-		<link>./../../../portfolio/social-engagement/index.html
+		<link>https://branditechture.com/portfolio/social-engagement/
 		
 		<creator></creator>
 		<pubdate>Mon, 15 Jul 2019 07:31:57 +0000</pubdate>
@@ -385,12 +385,12 @@
 				<div class="elementor-element elementor-element-fc3d578 elementor-widget elementor-widget-gt3-core-sharing" data-id="fc3d578" data-element_type="widget" data-widget_type="gt3-core-sharing.default">
 				<div class="elementor-widget-container">
 				<div class="gt3_sharing_core horizontal align_left">
-		<span class="gt3_sharing_label_title">Share</span><div class="gt3_sharing_links_block"><a target="_blank" href="https://www.facebook.com/share.php?u=./portfolio/social-engagement/" class="core_sharing_fb"><i class="link_type_icon fa fa-facebook"></i></a><a target="_blank" href="https://twitter.com/intent/tweet?text=SEO%20Optimization&amp;url=./portfolio/social-engagement/" class="core_sharing_twitter"><i class="link_type_icon fa fa-twitter"></i></a><a target="_blank" href="https://plus.google.com/share?url=./portfolio/social-engagement/" class="core_sharing_google"><i class="link_type_icon fa fa-google"></i></a><a target="_blank" href="mailto:?subject=SEO%20Optimization&amp;body=./../../../portfolio/social-engagement/index.html" class="core_sharing_email"><i class="link_type_icon fa fa-envelope"></i></a><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=./portfolio/social-engagement/&amp;title=SEO%20Optimization&amp;source=Branditechture" class="core_sharing_linkedin"><i class="link_type_icon fa fa-linkedin"></i></a></div>	</div>
+		<span class="gt3_sharing_label_title">Share</span><div class="gt3_sharing_links_block"><a target="_blank" href="https://www.facebook.com/share.php?u=https://branditechture.com/portfolio/social-engagement/" class="core_sharing_fb"><i class="link_type_icon fa fa-facebook"></i></a><a target="_blank" href="https://twitter.com/intent/tweet?text=SEO%20Optimization&amp;url=https://branditechture.com/portfolio/social-engagement/" class="core_sharing_twitter"><i class="link_type_icon fa fa-twitter"></i></a><a target="_blank" href="https://plus.google.com/share?url=https://branditechture.com/portfolio/social-engagement/" class="core_sharing_google"><i class="link_type_icon fa fa-google"></i></a><a target="_blank" href="mailto:?subject=SEO%20Optimization&amp;body=https://branditechture.com/portfolio/social-engagement/" class="core_sharing_email"><i class="link_type_icon fa fa-envelope"></i></a><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://branditechture.com/portfolio/social-engagement/&amp;title=SEO%20Optimization&amp;source=Branditechture" class="core_sharing_linkedin"><i class="link_type_icon fa fa-linkedin"></i></a></div>	</div>
 		</div>
 				</div>
 				<div class="elementor-element elementor-element-08cef91 elementor-widget elementor-widget-gt3-core-custommeta" data-id="08cef91" data-element_type="widget" data-widget_type="gt3-core-custommeta.default">
 				<div class="elementor-widget-container">
-			<div class="gt3_meta_values_wrapper vertical align_left"><div class="gt3_meta_values_item elementor-repeater-item-def9cca"><span class="gt3_meta_label_title">Tags</span><div class="gt3_meta_value type_tags"><a href="./../../pps/index.html">PPS</a><a href="./../index.html">SEO</a></div></div></div>		</div>
+			<div class="gt3_meta_values_wrapper vertical align_left"><div class="gt3_meta_values_item elementor-repeater-item-def9cca"><span class="gt3_meta_label_title">Tags</span><div class="gt3_meta_value type_tags"><a href="https://branditechture.com/portfolio-tag/pps/">PPS</a><a href="https://branditechture.com/portfolio-tag/seo/">SEO</a></div></div></div>		</div>
 				</div>
 						</div>
 			</div>
@@ -464,7 +464,7 @@
 				<div class="elementor-element elementor-element-468d elementor-widget elementor-widget-unlimited-charts" data-id="468d" data-element_type="widget" data-widget_type="unlimited-charts.default">
 				<div class="elementor-widget-container">
 						<div class="gt3_unlimited_chart_wrapper" data-chart-type="bar" data-chart-data='{"labels":["2016","2017","2018","2019"],"datasets":[{"data":["25","45"],"label":"Dataset #1","backgroundColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderWidth":1,"fill":false,"borderJoinStyle":[12,15]}]}' data-chart-options='{"responsive":true,"maintainAspectRatio":false,"animation":{"duration":1500},"layout":{"padding":{"top":0}},"legend":{"display":false,"position":"bottom","labels":{"usePointStyle":false}},"tooltips":{"enabled":true},"scales":{"xAxes":[{"gridLines":{"display":false,"color":"#c0c0c0"},"scaleLabel":{"display":false,"labelString":"","fontColor":"#3b3663","fontSize":"12"},"ticks":{"fontSize":"18","fontColor":"#3b3663"}}],"yAxes":[{"gridLines":{"display":true,"color":"#c0c0c0"},"scaleLabel":{"display":false,"labelString":"","fontColor":"#3b3663","fontSize":"18"},"ticks":{"beginAtZero":true,"suggestedMax":1,"fontSize":"18","fontColor":"#3b3663"}}]}}'>
-				<canvas class="gt3_unlimited_chart gt3_chart_2270" width="400" height="400"></canvas>
+				<canvas class="gt3_unlimited_chart gt3_chart_8180" width="400" height="400"></canvas>
 			</div>		</div>
 				</div>
 				<div class="elementor-element-custom_font_size elementor-element-custom_line_height elementor-element-custom_font_weight elementor-element-custom_color elementor-element elementor-element-3042 elementor-widget elementor-widget-text-editor" data-id="3042" data-element_type="widget" data-widget_type="text-editor.default">
@@ -535,7 +535,7 @@
 				<div class="elementor-element elementor-element-3ca7 elementor-widget elementor-widget-unlimited-charts" data-id="3ca7" data-element_type="widget" data-widget_type="unlimited-charts.default">
 				<div class="elementor-widget-container">
 						<div class="gt3_unlimited_chart_wrapper" data-chart-type="doughnut" data-chart-data='{"labels":["Done","Achieved","Queue","Loaded"],"datasets":[{"data":["25","45"],"label":"Dataset #1","backgroundColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderWidth":1,"fill":false,"borderJoinStyle":[12,15]}]}' data-chart-options='{"responsive":true,"maintainAspectRatio":false,"cutoutPercentage":"50","rotation":2.443460952792061,"animation":{"duration":1500},"layout":{"padding":{"top":0}},"legend":{"display":true,"position":"bottom","labels":{"usePointStyle":true}},"tooltips":{"enabled":true}}'>
-				<canvas class="gt3_unlimited_chart gt3_chart_8079" width="400" height="400"></canvas>
+				<canvas class="gt3_unlimited_chart gt3_chart_3634" width="400" height="400"></canvas>
 			</div>		</div>
 				</div>
 						</div>
@@ -569,7 +569,7 @@
 					<div class="elementor-widget-wrap">
 				<div class="elementor-element elementor-element-5bf9 elementor-widget elementor-widget-gt3-core-blockquote" data-id="5bf9" data-element_type="widget" data-widget_type="gt3-core-blockquote.default">
 				<div class="elementor-widget-container">
-			<div class="gt3_blockquote text_align-center" data-quote-src="./../../../wp-content/themes/ewebot/img/quote.png">
+			<div class="gt3_blockquote text_align-center" data-quote-src="https://branditechture.com/wp-content/themes/ewebot/img/quote.png">
         <div class="gt3_blockquote__text"><p>Cum et essent similique. Inani propriae menandri sed in. Pericula expetendis has no, quo populo forensibus contentiones et, nibh error in per.</p></div>
     <div class="gt3_blockquote__author_wrapper"><div class="gt3_blockquote__author_divider"></div><div class="gt3_blockquote__author_container"><div class="gt3_blockquote__author_name">Denis Robinson</div></div>        </div></div>		</div>
 				</div>
@@ -606,7 +606,7 @@
 			</item>
 		<item>
 		<title>Domain Migration</title>
-		<link>./../../../portfolio/domain-migration/index.html
+		<link>https://branditechture.com/portfolio/domain-migration/
 		
 		<creator></creator>
 		<pubdate>Wed, 10 Jul 2019 07:12:14 +0000</pubdate>
@@ -676,12 +676,12 @@
 				<div class="elementor-element elementor-element-f218b92 elementor-widget elementor-widget-gt3-core-sharing" data-id="f218b92" data-element_type="widget" data-widget_type="gt3-core-sharing.default">
 				<div class="elementor-widget-container">
 				<div class="gt3_sharing_core horizontal align_left">
-		<span class="gt3_sharing_label_title">Share</span><div class="gt3_sharing_links_block"><a target="_blank" href="https://www.facebook.com/share.php?u=./portfolio/domain-migration/" class="core_sharing_fb"><i class="link_type_icon fa fa-facebook"></i></a><a target="_blank" href="https://twitter.com/intent/tweet?text=Domain%20Migration&amp;url=./portfolio/domain-migration/" class="core_sharing_twitter"><i class="link_type_icon fa fa-twitter"></i></a><a target="_blank" href="https://plus.google.com/share?url=./portfolio/domain-migration/" class="core_sharing_google"><i class="link_type_icon fa fa-google"></i></a><a target="_blank" href="mailto:?subject=Domain%20Migration&amp;body=./../../../portfolio/domain-migration/index.html" class="core_sharing_email"><i class="link_type_icon fa fa-envelope"></i></a><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=./portfolio/domain-migration/&amp;title=Domain%20Migration&amp;source=Branditechture" class="core_sharing_linkedin"><i class="link_type_icon fa fa-linkedin"></i></a></div>	</div>
+		<span class="gt3_sharing_label_title">Share</span><div class="gt3_sharing_links_block"><a target="_blank" href="https://www.facebook.com/share.php?u=https://branditechture.com/portfolio/domain-migration/" class="core_sharing_fb"><i class="link_type_icon fa fa-facebook"></i></a><a target="_blank" href="https://twitter.com/intent/tweet?text=Domain%20Migration&amp;url=https://branditechture.com/portfolio/domain-migration/" class="core_sharing_twitter"><i class="link_type_icon fa fa-twitter"></i></a><a target="_blank" href="https://plus.google.com/share?url=https://branditechture.com/portfolio/domain-migration/" class="core_sharing_google"><i class="link_type_icon fa fa-google"></i></a><a target="_blank" href="mailto:?subject=Domain%20Migration&amp;body=https://branditechture.com/portfolio/domain-migration/" class="core_sharing_email"><i class="link_type_icon fa fa-envelope"></i></a><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://branditechture.com/portfolio/domain-migration/&amp;title=Domain%20Migration&amp;source=Branditechture" class="core_sharing_linkedin"><i class="link_type_icon fa fa-linkedin"></i></a></div>	</div>
 		</div>
 				</div>
 				<div class="elementor-element elementor-element-32cabcc elementor-widget elementor-widget-gt3-core-custommeta" data-id="32cabcc" data-element_type="widget" data-widget_type="gt3-core-custommeta.default">
 				<div class="elementor-widget-container">
-			<div class="gt3_meta_values_wrapper vertical align_left"><div class="gt3_meta_values_item elementor-repeater-item-def9cca"><span class="gt3_meta_label_title">Tags</span><div class="gt3_meta_value type_tags"><a href="./../index.html">SEO</a></div></div></div>		</div>
+			<div class="gt3_meta_values_wrapper vertical align_left"><div class="gt3_meta_values_item elementor-repeater-item-def9cca"><span class="gt3_meta_label_title">Tags</span><div class="gt3_meta_value type_tags"><a href="https://branditechture.com/portfolio-tag/seo/">SEO</a></div></div></div>		</div>
 				</div>
 						</div>
 			</div>
@@ -755,7 +755,7 @@
 				<div class="elementor-element elementor-element-39a8 elementor-widget elementor-widget-unlimited-charts" data-id="39a8" data-element_type="widget" data-widget_type="unlimited-charts.default">
 				<div class="elementor-widget-container">
 						<div class="gt3_unlimited_chart_wrapper" data-chart-type="bar" data-chart-data='{"labels":["2016","2017","2018","2019"],"datasets":[{"data":["25","45"],"label":"Dataset #1","backgroundColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderWidth":1,"fill":false,"borderJoinStyle":[12,15]}]}' data-chart-options='{"responsive":true,"maintainAspectRatio":false,"animation":{"duration":1500},"layout":{"padding":{"top":0}},"legend":{"display":false,"position":"bottom","labels":{"usePointStyle":false}},"tooltips":{"enabled":true},"scales":{"xAxes":[{"gridLines":{"display":false,"color":"#c0c0c0"},"scaleLabel":{"display":false,"labelString":"","fontColor":"#3b3663","fontSize":"12"},"ticks":{"fontSize":"18","fontColor":"#3b3663"}}],"yAxes":[{"gridLines":{"display":true,"color":"#c0c0c0"},"scaleLabel":{"display":false,"labelString":"","fontColor":"#3b3663","fontSize":"18"},"ticks":{"beginAtZero":true,"suggestedMax":1,"fontSize":"18","fontColor":"#3b3663"}}]}}'>
-				<canvas class="gt3_unlimited_chart gt3_chart_8" width="400" height="400"></canvas>
+				<canvas class="gt3_unlimited_chart gt3_chart_1748" width="400" height="400"></canvas>
 			</div>		</div>
 				</div>
 				<div class="elementor-element-custom_font_size elementor-element-custom_line_height elementor-element-custom_font_weight elementor-element-custom_color elementor-element elementor-element-6cc1 elementor-widget elementor-widget-text-editor" data-id="6cc1" data-element_type="widget" data-widget_type="text-editor.default">
@@ -826,7 +826,7 @@
 				<div class="elementor-element elementor-element-44a elementor-widget elementor-widget-unlimited-charts" data-id="44a" data-element_type="widget" data-widget_type="unlimited-charts.default">
 				<div class="elementor-widget-container">
 						<div class="gt3_unlimited_chart_wrapper" data-chart-type="doughnut" data-chart-data='{"labels":["Done","Achieved","Queue","Loaded"],"datasets":[{"data":["25","45"],"label":"Dataset #1","backgroundColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderWidth":1,"fill":false,"borderJoinStyle":[12,15]}]}' data-chart-options='{"responsive":true,"maintainAspectRatio":false,"cutoutPercentage":"50","rotation":2.443460952792061,"animation":{"duration":1500},"layout":{"padding":{"top":0}},"legend":{"display":true,"position":"bottom","labels":{"usePointStyle":true}},"tooltips":{"enabled":true}}'>
-				<canvas class="gt3_unlimited_chart gt3_chart_4910" width="400" height="400"></canvas>
+				<canvas class="gt3_unlimited_chart gt3_chart_4624" width="400" height="400"></canvas>
 			</div>		</div>
 				</div>
 						</div>
@@ -860,7 +860,7 @@
 					<div class="elementor-widget-wrap">
 				<div class="elementor-element elementor-element-6e84 elementor-widget elementor-widget-gt3-core-blockquote" data-id="6e84" data-element_type="widget" data-widget_type="gt3-core-blockquote.default">
 				<div class="elementor-widget-container">
-			<div class="gt3_blockquote text_align-center" data-quote-src="./../../../wp-content/themes/ewebot/img/quote.png">
+			<div class="gt3_blockquote text_align-center" data-quote-src="https://branditechture.com/wp-content/themes/ewebot/img/quote.png">
         <div class="gt3_blockquote__text"><p>Cum et essent similique. Inani propriae menandri sed in. Pericula expetendis has no, quo populo forensibus contentiones et, nibh error in per.</p></div>
     <div class="gt3_blockquote__author_wrapper"><div class="gt3_blockquote__author_divider"></div><div class="gt3_blockquote__author_container"><div class="gt3_blockquote__author_name">Denis Robinson</div></div>        </div></div>		</div>
 				</div>
@@ -897,7 +897,7 @@
 			</item>
 		<item>
 		<title>Mannix Marketing</title>
-		<link>./../../../portfolio/mannix-marketing_112-2/index.html
+		<link>https://branditechture.com/portfolio/mannix-marketing_112-2/
 		
 		<creator></creator>
 		<pubdate>Fri, 14 Jun 2019 13:53:15 +0000</pubdate>
@@ -967,12 +967,12 @@
 				<div class="elementor-element elementor-element-72240ec elementor-widget elementor-widget-gt3-core-sharing" data-id="72240ec" data-element_type="widget" data-widget_type="gt3-core-sharing.default">
 				<div class="elementor-widget-container">
 				<div class="gt3_sharing_core horizontal align_left">
-		<span class="gt3_sharing_label_title">Share</span><div class="gt3_sharing_links_block"><a target="_blank" href="https://www.facebook.com/share.php?u=./portfolio/mannix-marketing_112-2/" class="core_sharing_fb"><i class="link_type_icon fa fa-facebook"></i></a><a target="_blank" href="https://twitter.com/intent/tweet?text=Mannix%20Marketing&amp;url=./portfolio/mannix-marketing_112-2/" class="core_sharing_twitter"><i class="link_type_icon fa fa-twitter"></i></a><a target="_blank" href="https://plus.google.com/share?url=./portfolio/mannix-marketing_112-2/" class="core_sharing_google"><i class="link_type_icon fa fa-google"></i></a><a target="_blank" href="mailto:?subject=Mannix%20Marketing&amp;body=./../../../portfolio/mannix-marketing_112-2/index.html" class="core_sharing_email"><i class="link_type_icon fa fa-envelope"></i></a><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=./portfolio/mannix-marketing_112-2/&amp;title=Mannix%20Marketing&amp;source=Branditechture" class="core_sharing_linkedin"><i class="link_type_icon fa fa-linkedin"></i></a></div>	</div>
+		<span class="gt3_sharing_label_title">Share</span><div class="gt3_sharing_links_block"><a target="_blank" href="https://www.facebook.com/share.php?u=https://branditechture.com/portfolio/mannix-marketing_112-2/" class="core_sharing_fb"><i class="link_type_icon fa fa-facebook"></i></a><a target="_blank" href="https://twitter.com/intent/tweet?text=Mannix%20Marketing&amp;url=https://branditechture.com/portfolio/mannix-marketing_112-2/" class="core_sharing_twitter"><i class="link_type_icon fa fa-twitter"></i></a><a target="_blank" href="https://plus.google.com/share?url=https://branditechture.com/portfolio/mannix-marketing_112-2/" class="core_sharing_google"><i class="link_type_icon fa fa-google"></i></a><a target="_blank" href="mailto:?subject=Mannix%20Marketing&amp;body=https://branditechture.com/portfolio/mannix-marketing_112-2/" class="core_sharing_email"><i class="link_type_icon fa fa-envelope"></i></a><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://branditechture.com/portfolio/mannix-marketing_112-2/&amp;title=Mannix%20Marketing&amp;source=Branditechture" class="core_sharing_linkedin"><i class="link_type_icon fa fa-linkedin"></i></a></div>	</div>
 		</div>
 				</div>
 				<div class="elementor-element elementor-element-43419ff elementor-widget elementor-widget-gt3-core-custommeta" data-id="43419ff" data-element_type="widget" data-widget_type="gt3-core-custommeta.default">
 				<div class="elementor-widget-container">
-			<div class="gt3_meta_values_wrapper vertical align_left"><div class="gt3_meta_values_item elementor-repeater-item-def9cca"><span class="gt3_meta_label_title">Tags</span><div class="gt3_meta_value type_tags"><a href="./../index.html">SEO</a></div></div></div>		</div>
+			<div class="gt3_meta_values_wrapper vertical align_left"><div class="gt3_meta_values_item elementor-repeater-item-def9cca"><span class="gt3_meta_label_title">Tags</span><div class="gt3_meta_value type_tags"><a href="https://branditechture.com/portfolio-tag/seo/">SEO</a></div></div></div>		</div>
 				</div>
 						</div>
 			</div>
@@ -1046,7 +1046,7 @@
 				<div class="elementor-element elementor-element-32f8db2e elementor-widget elementor-widget-unlimited-charts" data-id="32f8db2e" data-element_type="widget" data-widget_type="unlimited-charts.default">
 				<div class="elementor-widget-container">
 						<div class="gt3_unlimited_chart_wrapper" data-chart-type="bar" data-chart-data='{"labels":["2016","2017","2018","2019"],"datasets":[{"data":["25","45"],"label":"Dataset #1","backgroundColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderWidth":1,"fill":false,"borderJoinStyle":[12,15]}]}' data-chart-options='{"responsive":true,"maintainAspectRatio":false,"animation":{"duration":1500},"layout":{"padding":{"top":0}},"legend":{"display":false,"position":"bottom","labels":{"usePointStyle":false}},"tooltips":{"enabled":true},"scales":{"xAxes":[{"gridLines":{"display":false,"color":"#c0c0c0"},"scaleLabel":{"display":false,"labelString":"","fontColor":"#3b3663","fontSize":"12"},"ticks":{"fontSize":"18","fontColor":"#3b3663"}}],"yAxes":[{"gridLines":{"display":true,"color":"#c0c0c0"},"scaleLabel":{"display":false,"labelString":"","fontColor":"#3b3663","fontSize":"18"},"ticks":{"beginAtZero":true,"suggestedMax":1,"fontSize":"18","fontColor":"#3b3663"}}]}}'>
-				<canvas class="gt3_unlimited_chart gt3_chart_7873" width="400" height="400"></canvas>
+				<canvas class="gt3_unlimited_chart gt3_chart_3723" width="400" height="400"></canvas>
 			</div>		</div>
 				</div>
 				<div class="elementor-element-custom_font_size elementor-element-custom_line_height elementor-element-custom_font_weight elementor-element-custom_color elementor-element elementor-element-1e5d8ffa elementor-widget elementor-widget-text-editor" data-id="1e5d8ffa" data-element_type="widget" data-widget_type="text-editor.default">
@@ -1117,7 +1117,7 @@
 				<div class="elementor-element elementor-element-c13dc70 elementor-widget elementor-widget-unlimited-charts" data-id="c13dc70" data-element_type="widget" data-widget_type="unlimited-charts.default">
 				<div class="elementor-widget-container">
 						<div class="gt3_unlimited_chart_wrapper" data-chart-type="doughnut" data-chart-data='{"labels":["Done","Achieved","Queue","Loaded"],"datasets":[{"data":["25","45"],"label":"Dataset #1","backgroundColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderWidth":1,"fill":false,"borderJoinStyle":[12,15]}]}' data-chart-options='{"responsive":true,"maintainAspectRatio":false,"cutoutPercentage":"50","rotation":2.443460952792061,"animation":{"duration":1500},"layout":{"padding":{"top":0}},"legend":{"display":true,"position":"bottom","labels":{"usePointStyle":true}},"tooltips":{"enabled":true}}'>
-				<canvas class="gt3_unlimited_chart gt3_chart_8003" width="400" height="400"></canvas>
+				<canvas class="gt3_unlimited_chart gt3_chart_4435" width="400" height="400"></canvas>
 			</div>		</div>
 				</div>
 						</div>
@@ -1170,7 +1170,7 @@
 			</item>
 		<item>
 		<title>Mannix Marketing</title>
-		<link>./../../../portfolio/mannix-marketing_112/index.html
+		<link>https://branditechture.com/portfolio/mannix-marketing_112/
 		
 		<creator></creator>
 		<pubdate>Fri, 14 Jun 2019 13:29:18 +0000</pubdate>
@@ -1240,12 +1240,12 @@
 				<div class="elementor-element elementor-element-8f8392f elementor-widget elementor-widget-gt3-core-sharing" data-id="8f8392f" data-element_type="widget" data-widget_type="gt3-core-sharing.default">
 				<div class="elementor-widget-container">
 				<div class="gt3_sharing_core horizontal align_left">
-		<span class="gt3_sharing_label_title">Share</span><div class="gt3_sharing_links_block"><a target="_blank" href="https://www.facebook.com/share.php?u=./portfolio/mannix-marketing_112/" class="core_sharing_fb"><i class="link_type_icon fa fa-facebook"></i></a><a target="_blank" href="https://twitter.com/intent/tweet?text=Mannix%20Marketing&amp;url=./portfolio/mannix-marketing_112/" class="core_sharing_twitter"><i class="link_type_icon fa fa-twitter"></i></a><a target="_blank" href="https://plus.google.com/share?url=./portfolio/mannix-marketing_112/" class="core_sharing_google"><i class="link_type_icon fa fa-google"></i></a><a target="_blank" href="mailto:?subject=Mannix%20Marketing&amp;body=./../../../portfolio/mannix-marketing_112/index.html" class="core_sharing_email"><i class="link_type_icon fa fa-envelope"></i></a><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=./portfolio/mannix-marketing_112/&amp;title=Mannix%20Marketing&amp;source=Branditechture" class="core_sharing_linkedin"><i class="link_type_icon fa fa-linkedin"></i></a></div>	</div>
+		<span class="gt3_sharing_label_title">Share</span><div class="gt3_sharing_links_block"><a target="_blank" href="https://www.facebook.com/share.php?u=https://branditechture.com/portfolio/mannix-marketing_112/" class="core_sharing_fb"><i class="link_type_icon fa fa-facebook"></i></a><a target="_blank" href="https://twitter.com/intent/tweet?text=Mannix%20Marketing&amp;url=https://branditechture.com/portfolio/mannix-marketing_112/" class="core_sharing_twitter"><i class="link_type_icon fa fa-twitter"></i></a><a target="_blank" href="https://plus.google.com/share?url=https://branditechture.com/portfolio/mannix-marketing_112/" class="core_sharing_google"><i class="link_type_icon fa fa-google"></i></a><a target="_blank" href="mailto:?subject=Mannix%20Marketing&amp;body=https://branditechture.com/portfolio/mannix-marketing_112/" class="core_sharing_email"><i class="link_type_icon fa fa-envelope"></i></a><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://branditechture.com/portfolio/mannix-marketing_112/&amp;title=Mannix%20Marketing&amp;source=Branditechture" class="core_sharing_linkedin"><i class="link_type_icon fa fa-linkedin"></i></a></div>	</div>
 		</div>
 				</div>
 				<div class="elementor-element elementor-element-dbe6251 elementor-widget elementor-widget-gt3-core-custommeta" data-id="dbe6251" data-element_type="widget" data-widget_type="gt3-core-custommeta.default">
 				<div class="elementor-widget-container">
-			<div class="gt3_meta_values_wrapper vertical align_left"><div class="gt3_meta_values_item elementor-repeater-item-def9cca"><span class="gt3_meta_label_title">Tags</span><div class="gt3_meta_value type_tags"><a href="./../index.html">SEO</a></div></div></div>		</div>
+			<div class="gt3_meta_values_wrapper vertical align_left"><div class="gt3_meta_values_item elementor-repeater-item-def9cca"><span class="gt3_meta_label_title">Tags</span><div class="gt3_meta_value type_tags"><a href="https://branditechture.com/portfolio-tag/seo/">SEO</a></div></div></div>		</div>
 				</div>
 						</div>
 			</div>
@@ -1319,7 +1319,7 @@
 				<div class="elementor-element elementor-element-3bc0d52 elementor-widget elementor-widget-unlimited-charts" data-id="3bc0d52" data-element_type="widget" data-widget_type="unlimited-charts.default">
 				<div class="elementor-widget-container">
 						<div class="gt3_unlimited_chart_wrapper" data-chart-type="bar" data-chart-data='{"labels":["2016","2017","2018","2019"],"datasets":[{"data":["25","45"],"label":"Dataset #1","backgroundColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderWidth":1,"fill":false,"borderJoinStyle":[12,15]}]}' data-chart-options='{"responsive":true,"maintainAspectRatio":false,"animation":{"duration":1500},"layout":{"padding":{"top":0}},"legend":{"display":false,"position":"bottom","labels":{"usePointStyle":false}},"tooltips":{"enabled":true},"scales":{"xAxes":[{"gridLines":{"display":false,"color":"#c0c0c0"},"scaleLabel":{"display":false,"labelString":"","fontColor":"#3b3663","fontSize":"12"},"ticks":{"fontSize":"18","fontColor":"#3b3663"}}],"yAxes":[{"gridLines":{"display":true,"color":"#c0c0c0"},"scaleLabel":{"display":false,"labelString":"","fontColor":"#3b3663","fontSize":"18"},"ticks":{"beginAtZero":true,"suggestedMax":1,"fontSize":"18","fontColor":"#3b3663"}}]}}'>
-				<canvas class="gt3_unlimited_chart gt3_chart_5250" width="400" height="400"></canvas>
+				<canvas class="gt3_unlimited_chart gt3_chart_8531" width="400" height="400"></canvas>
 			</div>		</div>
 				</div>
 				<div class="elementor-element-custom_font_size elementor-element-custom_line_height elementor-element-custom_font_weight elementor-element-custom_color elementor-element elementor-element-462db66 elementor-widget elementor-widget-text-editor" data-id="462db66" data-element_type="widget" data-widget_type="text-editor.default">
@@ -1390,7 +1390,7 @@
 				<div class="elementor-element elementor-element-1f43964 elementor-widget elementor-widget-unlimited-charts" data-id="1f43964" data-element_type="widget" data-widget_type="unlimited-charts.default">
 				<div class="elementor-widget-container">
 						<div class="gt3_unlimited_chart_wrapper" data-chart-type="doughnut" data-chart-data='{"labels":["Done","Achieved","Queue","Loaded"],"datasets":[{"data":["25","45"],"label":"Dataset #1","backgroundColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderWidth":1,"fill":false,"borderJoinStyle":[12,15]}]}' data-chart-options='{"responsive":true,"maintainAspectRatio":false,"cutoutPercentage":"50","rotation":2.443460952792061,"animation":{"duration":1500},"layout":{"padding":{"top":0}},"legend":{"display":true,"position":"bottom","labels":{"usePointStyle":true}},"tooltips":{"enabled":true}}'>
-				<canvas class="gt3_unlimited_chart gt3_chart_1628" width="400" height="400"></canvas>
+				<canvas class="gt3_unlimited_chart gt3_chart_9991" width="400" height="400"></canvas>
 			</div>		</div>
 				</div>
 						</div>

@@ -4,8 +4,8 @@
 
 <channel>
 	<title>Marketing &ndash; Branditechture</title>
-	<link href="./index.html" rel="self" type="application/rss+xml">
-	<link>./../../../index.html
+	<link href="https://branditechture.com/category/marketing/feed/" rel="self" type="application/rss+xml">
+	<link>https://branditechture.com/
 	<description>Web &times; Design; Branditechture is an hybrid creative design agency.</description>
 	<lastbuilddate>Fri, 02 Aug 2019 04:00:20 +0000</lastbuilddate>
 	<language>en-US</language>
@@ -16,16 +16,16 @@
 	<generator>https://wordpress.org/?v=5.4.1</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2020/05/cropped-Favicon-32x32.png</url>
+	<url>https://branditechture.com/wp-content/uploads/2020/05/cropped-Favicon-32x32.png</url>
 	<title>Marketing &ndash; Branditechture</title>
-	<link>./../../../index.html
+	<link>https://branditechture.com/
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Compare Photo Views</title>
-		<link>./../../../2019/08/02/post-02/index.html
-					<comments>./../../../2019/08/02/post-02/index.html#respond</comments>
+		<link>https://branditechture.com/2019/08/02/post-02/
+					<comments>https://branditechture.com/2019/08/02/post-02/#respond</comments>
 		
 		<creator></creator>
 		<pubdate>Fri, 02 Aug 2019 04:00:20 +0000</pubdate>
@@ -217,15 +217,15 @@
 		
 		]]&gt;</encoded>
 					
-					<commentrss>./../../../2019/08/02/post-02/feed/index.html</commentrss>
+					<commentrss>https://branditechture.com/2019/08/02/post-02/feed/</commentrss>
 			<comments>0</comments>
 		
 		
 			</item>
 		<item>
 		<title>Cloud Hosting Growing Faster Ever</title>
-		<link>./../../../2019/08/01/cloud-hosting-growing-faster-ever/index.html
-					<comments>./../../../2019/08/01/cloud-hosting-growing-faster-ever/index.html#respond</comments>
+		<link>https://branditechture.com/2019/08/01/cloud-hosting-growing-faster-ever/
+					<comments>https://branditechture.com/2019/08/01/cloud-hosting-growing-faster-ever/#respond</comments>
 		
 		<creator></creator>
 		<pubdate>Thu, 01 Aug 2019 13:47:09 +0000</pubdate>
@@ -416,7 +416,7 @@
 		
 		]]&gt;</encoded>
 					
-					<commentrss>./../../../2019/08/01/cloud-hosting-growing-faster-ever/feed/index.html</commentrss>
+					<commentrss>https://branditechture.com/2019/08/01/cloud-hosting-growing-faster-ever/feed/</commentrss>
 			<comments>0</comments>
 		
 		

@@ -4,8 +4,8 @@
 
 <channel>
 	<title>PPS &ndash; Branditechture</title>
-	<link href="./index.html" rel="self" type="application/rss+xml">
-	<link>./../../../index.html
+	<link href="https://branditechture.com/portfolio-tag/pps/feed/" rel="self" type="application/rss+xml">
+	<link>https://branditechture.com/
 	<description>Web &times; Design; Branditechture is an hybrid creative design agency.</description>
 	<lastbuilddate>Mon, 15 Jul 2019 07:31:57 +0000</lastbuilddate>
 	<language>en-US</language>
@@ -16,15 +16,15 @@
 	<generator>https://wordpress.org/?v=5.4.1</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2020/05/cropped-Favicon-32x32.png</url>
+	<url>https://branditechture.com/wp-content/uploads/2020/05/cropped-Favicon-32x32.png</url>
 	<title>PPS &ndash; Branditechture</title>
-	<link>./../../../index.html
+	<link>https://branditechture.com/
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>SEO Optimization</title>
-		<link>./../../../portfolio/social-engagement/index.html
+		<link>https://branditechture.com/portfolio/social-engagement/
 		
 		<creator></creator>
 		<pubdate>Mon, 15 Jul 2019 07:31:57 +0000</pubdate>
@@ -94,12 +94,12 @@
 				<div class="elementor-element elementor-element-fc3d578 elementor-widget elementor-widget-gt3-core-sharing" data-id="fc3d578" data-element_type="widget" data-widget_type="gt3-core-sharing.default">
 				<div class="elementor-widget-container">
 				<div class="gt3_sharing_core horizontal align_left">
-		<span class="gt3_sharing_label_title">Share</span><div class="gt3_sharing_links_block"><a target="_blank" href="https://www.facebook.com/share.php?u=./portfolio/social-engagement/" class="core_sharing_fb"><i class="link_type_icon fa fa-facebook"></i></a><a target="_blank" href="https://twitter.com/intent/tweet?text=SEO%20Optimization&amp;url=./portfolio/social-engagement/" class="core_sharing_twitter"><i class="link_type_icon fa fa-twitter"></i></a><a target="_blank" href="https://plus.google.com/share?url=./portfolio/social-engagement/" class="core_sharing_google"><i class="link_type_icon fa fa-google"></i></a><a target="_blank" href="mailto:?subject=SEO%20Optimization&amp;body=./../../../portfolio/social-engagement/index.html" class="core_sharing_email"><i class="link_type_icon fa fa-envelope"></i></a><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=./portfolio/social-engagement/&amp;title=SEO%20Optimization&amp;source=Branditechture" class="core_sharing_linkedin"><i class="link_type_icon fa fa-linkedin"></i></a></div>	</div>
+		<span class="gt3_sharing_label_title">Share</span><div class="gt3_sharing_links_block"><a target="_blank" href="https://www.facebook.com/share.php?u=https://branditechture.com/portfolio/social-engagement/" class="core_sharing_fb"><i class="link_type_icon fa fa-facebook"></i></a><a target="_blank" href="https://twitter.com/intent/tweet?text=SEO%20Optimization&amp;url=https://branditechture.com/portfolio/social-engagement/" class="core_sharing_twitter"><i class="link_type_icon fa fa-twitter"></i></a><a target="_blank" href="https://plus.google.com/share?url=https://branditechture.com/portfolio/social-engagement/" class="core_sharing_google"><i class="link_type_icon fa fa-google"></i></a><a target="_blank" href="mailto:?subject=SEO%20Optimization&amp;body=https://branditechture.com/portfolio/social-engagement/" class="core_sharing_email"><i class="link_type_icon fa fa-envelope"></i></a><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://branditechture.com/portfolio/social-engagement/&amp;title=SEO%20Optimization&amp;source=Branditechture" class="core_sharing_linkedin"><i class="link_type_icon fa fa-linkedin"></i></a></div>	</div>
 		</div>
 				</div>
 				<div class="elementor-element elementor-element-08cef91 elementor-widget elementor-widget-gt3-core-custommeta" data-id="08cef91" data-element_type="widget" data-widget_type="gt3-core-custommeta.default">
 				<div class="elementor-widget-container">
-			<div class="gt3_meta_values_wrapper vertical align_left"><div class="gt3_meta_values_item elementor-repeater-item-def9cca"><span class="gt3_meta_label_title">Tags</span><div class="gt3_meta_value type_tags"><a href="./../index.html">PPS</a><a href="./../../seo/index.html">SEO</a></div></div></div>		</div>
+			<div class="gt3_meta_values_wrapper vertical align_left"><div class="gt3_meta_values_item elementor-repeater-item-def9cca"><span class="gt3_meta_label_title">Tags</span><div class="gt3_meta_value type_tags"><a href="https://branditechture.com/portfolio-tag/pps/">PPS</a><a href="https://branditechture.com/portfolio-tag/seo/">SEO</a></div></div></div>		</div>
 				</div>
 						</div>
 			</div>
@@ -173,7 +173,7 @@
 				<div class="elementor-element elementor-element-468d elementor-widget elementor-widget-unlimited-charts" data-id="468d" data-element_type="widget" data-widget_type="unlimited-charts.default">
 				<div class="elementor-widget-container">
 						<div class="gt3_unlimited_chart_wrapper" data-chart-type="bar" data-chart-data='{"labels":["2016","2017","2018","2019"],"datasets":[{"data":["25","45"],"label":"Dataset #1","backgroundColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderWidth":1,"fill":false,"borderJoinStyle":[12,15]}]}' data-chart-options='{"responsive":true,"maintainAspectRatio":false,"animation":{"duration":1500},"layout":{"padding":{"top":0}},"legend":{"display":false,"position":"bottom","labels":{"usePointStyle":false}},"tooltips":{"enabled":true},"scales":{"xAxes":[{"gridLines":{"display":false,"color":"#c0c0c0"},"scaleLabel":{"display":false,"labelString":"","fontColor":"#3b3663","fontSize":"12"},"ticks":{"fontSize":"18","fontColor":"#3b3663"}}],"yAxes":[{"gridLines":{"display":true,"color":"#c0c0c0"},"scaleLabel":{"display":false,"labelString":"","fontColor":"#3b3663","fontSize":"18"},"ticks":{"beginAtZero":true,"suggestedMax":1,"fontSize":"18","fontColor":"#3b3663"}}]}}'>
-				<canvas class="gt3_unlimited_chart gt3_chart_3437" width="400" height="400"></canvas>
+				<canvas class="gt3_unlimited_chart gt3_chart_8134" width="400" height="400"></canvas>
 			</div>		</div>
 				</div>
 				<div class="elementor-element-custom_font_size elementor-element-custom_line_height elementor-element-custom_font_weight elementor-element-custom_color elementor-element elementor-element-3042 elementor-widget elementor-widget-text-editor" data-id="3042" data-element_type="widget" data-widget_type="text-editor.default">
@@ -244,7 +244,7 @@
 				<div class="elementor-element elementor-element-3ca7 elementor-widget elementor-widget-unlimited-charts" data-id="3ca7" data-element_type="widget" data-widget_type="unlimited-charts.default">
 				<div class="elementor-widget-container">
 						<div class="gt3_unlimited_chart_wrapper" data-chart-type="doughnut" data-chart-data='{"labels":["Done","Achieved","Queue","Loaded"],"datasets":[{"data":["25","45"],"label":"Dataset #1","backgroundColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderWidth":1,"fill":false,"borderJoinStyle":[12,15]}]}' data-chart-options='{"responsive":true,"maintainAspectRatio":false,"cutoutPercentage":"50","rotation":2.443460952792061,"animation":{"duration":1500},"layout":{"padding":{"top":0}},"legend":{"display":true,"position":"bottom","labels":{"usePointStyle":true}},"tooltips":{"enabled":true}}'>
-				<canvas class="gt3_unlimited_chart gt3_chart_4492" width="400" height="400"></canvas>
+				<canvas class="gt3_unlimited_chart gt3_chart_4163" width="400" height="400"></canvas>
 			</div>		</div>
 				</div>
 						</div>
@@ -278,7 +278,7 @@
 					<div class="elementor-widget-wrap">
 				<div class="elementor-element elementor-element-5bf9 elementor-widget elementor-widget-gt3-core-blockquote" data-id="5bf9" data-element_type="widget" data-widget_type="gt3-core-blockquote.default">
 				<div class="elementor-widget-container">
-			<div class="gt3_blockquote text_align-center" data-quote-src="./../../../wp-content/themes/ewebot/img/quote.png">
+			<div class="gt3_blockquote text_align-center" data-quote-src="https://branditechture.com/wp-content/themes/ewebot/img/quote.png">
         <div class="gt3_blockquote__text"><p>Cum et essent similique. Inani propriae menandri sed in. Pericula expetendis has no, quo populo forensibus contentiones et, nibh error in per.</p></div>
     <div class="gt3_blockquote__author_wrapper"><div class="gt3_blockquote__author_divider"></div><div class="gt3_blockquote__author_container"><div class="gt3_blockquote__author_name">Denis Robinson</div></div>        </div></div>		</div>
 				</div>

@@ -4,8 +4,8 @@
 
 <channel>
 	<title>planing &ndash; Branditechture</title>
-	<link href="./index.html" rel="self" type="application/rss+xml">
-	<link>./../../../index.html
+	<link href="https://branditechture.com/tag/planing/feed/" rel="self" type="application/rss+xml">
+	<link>https://branditechture.com/
 	<description>Web &times; Design; Branditechture is an hybrid creative design agency.</description>
 	<lastbuilddate>Thu, 01 Aug 2019 13:47:09 +0000</lastbuilddate>
 	<language>en-US</language>
@@ -16,16 +16,16 @@
 	<generator>https://wordpress.org/?v=5.4.1</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2020/05/cropped-Favicon-32x32.png</url>
+	<url>https://branditechture.com/wp-content/uploads/2020/05/cropped-Favicon-32x32.png</url>
 	<title>planing &ndash; Branditechture</title>
-	<link>./../../../index.html
+	<link>https://branditechture.com/
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Cloud Hosting Growing Faster Ever</title>
-		<link>./../../../2019/08/01/cloud-hosting-growing-faster-ever/index.html
-					<comments>./../../../2019/08/01/cloud-hosting-growing-faster-ever/index.html#respond</comments>
+		<link>https://branditechture.com/2019/08/01/cloud-hosting-growing-faster-ever/
+					<comments>https://branditechture.com/2019/08/01/cloud-hosting-growing-faster-ever/#respond</comments>
 		
 		<creator></creator>
 		<pubdate>Thu, 01 Aug 2019 13:47:09 +0000</pubdate>
@@ -216,15 +216,15 @@
 		
 		]]&gt;</encoded>
 					
-					<commentrss>./../../../2019/08/01/cloud-hosting-growing-faster-ever/feed/index.html</commentrss>
+					<commentrss>https://branditechture.com/2019/08/01/cloud-hosting-growing-faster-ever/feed/</commentrss>
 			<comments>0</comments>
 		
 		
 			</item>
 		<item>
 		<title>Social media changes the relationship between companies</title>
-		<link>./../../../2019/08/01/link-post/index.html
-					<comments>./../../../2019/08/01/link-post/index.html#respond</comments>
+		<link>https://branditechture.com/2019/08/01/link-post/
+					<comments>https://branditechture.com/2019/08/01/link-post/#respond</comments>
 		
 		<creator></creator>
 		<pubdate>Thu, 01 Aug 2019 12:56:10 +0000</pubdate>
@@ -415,15 +415,15 @@
 		
 		]]&gt;</encoded>
 					
-					<commentrss>./../../../2019/08/01/link-post/feed/index.html</commentrss>
+					<commentrss>https://branditechture.com/2019/08/01/link-post/feed/</commentrss>
 			<comments>0</comments>
 		
 		
 			</item>
 		<item>
 		<title>Simple Ways To Optimize Your Website For SEO</title>
-		<link>./../../../2019/08/01/image-post/index.html
-					<comments>./../../../2019/08/01/image-post/index.html#respond</comments>
+		<link>https://branditechture.com/2019/08/01/image-post/
+					<comments>https://branditechture.com/2019/08/01/image-post/#respond</comments>
 		
 		<creator></creator>
 		<pubdate>Thu, 01 Aug 2019 09:14:44 +0000</pubdate>
@@ -615,7 +615,7 @@
 		
 		]]&gt;</encoded>
 					
-					<commentrss>./../../../2019/08/01/image-post/feed/index.html</commentrss>
+					<commentrss>https://branditechture.com/2019/08/01/image-post/feed/</commentrss>
 			<comments>0</comments>
 		
 		
