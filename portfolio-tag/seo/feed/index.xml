@@ -13,7 +13,7 @@
 	hourly	</updateperiod>
 	<updatefrequency>
 	1	</updatefrequency>
-	<generator>https://wordpress.org/?v=5.4.1</generator>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
 
 <image>
 	<url>https://branditechture.com/wp-content/uploads/2020/05/cropped-Favicon-32x32.png</url>
@@ -173,7 +173,7 @@
 				<div class="elementor-element elementor-element-675d elementor-widget elementor-widget-unlimited-charts" data-id="675d" data-element_type="widget" data-widget_type="unlimited-charts.default">
 				<div class="elementor-widget-container">
 						<div class="gt3_unlimited_chart_wrapper" data-chart-type="bar" data-chart-data='{"labels":["2016","2017","2018","2019"],"datasets":[{"data":["25","45"],"label":"Dataset #1","backgroundColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderWidth":1,"fill":false,"borderJoinStyle":[12,15]}]}' data-chart-options='{"responsive":true,"maintainAspectRatio":false,"animation":{"duration":1500},"layout":{"padding":{"top":0}},"legend":{"display":false,"position":"bottom","labels":{"usePointStyle":false}},"tooltips":{"enabled":true},"scales":{"xAxes":[{"gridLines":{"display":false,"color":"#c0c0c0"},"scaleLabel":{"display":false,"labelString":"","fontColor":"#3b3663","fontSize":"12"},"ticks":{"fontSize":"18","fontColor":"#3b3663"}}],"yAxes":[{"gridLines":{"display":true,"color":"#c0c0c0"},"scaleLabel":{"display":false,"labelString":"","fontColor":"#3b3663","fontSize":"18"},"ticks":{"beginAtZero":true,"suggestedMax":1,"fontSize":"18","fontColor":"#3b3663"}}]}}'>
-				<canvas class="gt3_unlimited_chart gt3_chart_1602" width="400" height="400"></canvas>
+				<canvas class="gt3_unlimited_chart gt3_chart_9531" width="400" height="400"></canvas>
 			</div>		</div>
 				</div>
 				<div class="elementor-element-custom_font_size elementor-element-custom_line_height elementor-element-custom_font_weight elementor-element-custom_color elementor-element elementor-element-8d2 elementor-widget elementor-widget-text-editor" data-id="8d2" data-element_type="widget" data-widget_type="text-editor.default">
@@ -244,7 +244,7 @@
 				<div class="elementor-element elementor-element-50f7 elementor-widget elementor-widget-unlimited-charts" data-id="50f7" data-element_type="widget" data-widget_type="unlimited-charts.default">
 				<div class="elementor-widget-container">
 						<div class="gt3_unlimited_chart_wrapper" data-chart-type="doughnut" data-chart-data='{"labels":["Done","Achieved","Queue","Loaded"],"datasets":[{"data":["25","45"],"label":"Dataset #1","backgroundColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderWidth":1,"fill":false,"borderJoinStyle":[12,15]}]}' data-chart-options='{"responsive":true,"maintainAspectRatio":false,"cutoutPercentage":"50","rotation":2.443460952792061,"animation":{"duration":1500},"layout":{"padding":{"top":0}},"legend":{"display":true,"position":"bottom","labels":{"usePointStyle":true}},"tooltips":{"enabled":true}}'>
-				<canvas class="gt3_unlimited_chart gt3_chart_3533" width="400" height="400"></canvas>
+				<canvas class="gt3_unlimited_chart gt3_chart_4057" width="400" height="400"></canvas>
 			</div>		</div>
 				</div>
 						</div>
@@ -464,7 +464,7 @@
 				<div class="elementor-element elementor-element-468d elementor-widget elementor-widget-unlimited-charts" data-id="468d" data-element_type="widget" data-widget_type="unlimited-charts.default">
 				<div class="elementor-widget-container">
 						<div class="gt3_unlimited_chart_wrapper" data-chart-type="bar" data-chart-data='{"labels":["2016","2017","2018","2019"],"datasets":[{"data":["25","45"],"label":"Dataset #1","backgroundColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderWidth":1,"fill":false,"borderJoinStyle":[12,15]}]}' data-chart-options='{"responsive":true,"maintainAspectRatio":false,"animation":{"duration":1500},"layout":{"padding":{"top":0}},"legend":{"display":false,"position":"bottom","labels":{"usePointStyle":false}},"tooltips":{"enabled":true},"scales":{"xAxes":[{"gridLines":{"display":false,"color":"#c0c0c0"},"scaleLabel":{"display":false,"labelString":"","fontColor":"#3b3663","fontSize":"12"},"ticks":{"fontSize":"18","fontColor":"#3b3663"}}],"yAxes":[{"gridLines":{"display":true,"color":"#c0c0c0"},"scaleLabel":{"display":false,"labelString":"","fontColor":"#3b3663","fontSize":"18"},"ticks":{"beginAtZero":true,"suggestedMax":1,"fontSize":"18","fontColor":"#3b3663"}}]}}'>
-				<canvas class="gt3_unlimited_chart gt3_chart_8180" width="400" height="400"></canvas>
+				<canvas class="gt3_unlimited_chart gt3_chart_348" width="400" height="400"></canvas>
 			</div>		</div>
 				</div>
 				<div class="elementor-element-custom_font_size elementor-element-custom_line_height elementor-element-custom_font_weight elementor-element-custom_color elementor-element elementor-element-3042 elementor-widget elementor-widget-text-editor" data-id="3042" data-element_type="widget" data-widget_type="text-editor.default">
@@ -535,7 +535,7 @@
 				<div class="elementor-element elementor-element-3ca7 elementor-widget elementor-widget-unlimited-charts" data-id="3ca7" data-element_type="widget" data-widget_type="unlimited-charts.default">
 				<div class="elementor-widget-container">
 						<div class="gt3_unlimited_chart_wrapper" data-chart-type="doughnut" data-chart-data='{"labels":["Done","Achieved","Queue","Loaded"],"datasets":[{"data":["25","45"],"label":"Dataset #1","backgroundColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderWidth":1,"fill":false,"borderJoinStyle":[12,15]}]}' data-chart-options='{"responsive":true,"maintainAspectRatio":false,"cutoutPercentage":"50","rotation":2.443460952792061,"animation":{"duration":1500},"layout":{"padding":{"top":0}},"legend":{"display":true,"position":"bottom","labels":{"usePointStyle":true}},"tooltips":{"enabled":true}}'>
-				<canvas class="gt3_unlimited_chart gt3_chart_3634" width="400" height="400"></canvas>
+				<canvas class="gt3_unlimited_chart gt3_chart_7679" width="400" height="400"></canvas>
 			</div>		</div>
 				</div>
 						</div>
@@ -755,7 +755,7 @@
 				<div class="elementor-element elementor-element-39a8 elementor-widget elementor-widget-unlimited-charts" data-id="39a8" data-element_type="widget" data-widget_type="unlimited-charts.default">
 				<div class="elementor-widget-container">
 						<div class="gt3_unlimited_chart_wrapper" data-chart-type="bar" data-chart-data='{"labels":["2016","2017","2018","2019"],"datasets":[{"data":["25","45"],"label":"Dataset #1","backgroundColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderWidth":1,"fill":false,"borderJoinStyle":[12,15]}]}' data-chart-options='{"responsive":true,"maintainAspectRatio":false,"animation":{"duration":1500},"layout":{"padding":{"top":0}},"legend":{"display":false,"position":"bottom","labels":{"usePointStyle":false}},"tooltips":{"enabled":true},"scales":{"xAxes":[{"gridLines":{"display":false,"color":"#c0c0c0"},"scaleLabel":{"display":false,"labelString":"","fontColor":"#3b3663","fontSize":"12"},"ticks":{"fontSize":"18","fontColor":"#3b3663"}}],"yAxes":[{"gridLines":{"display":true,"color":"#c0c0c0"},"scaleLabel":{"display":false,"labelString":"","fontColor":"#3b3663","fontSize":"18"},"ticks":{"beginAtZero":true,"suggestedMax":1,"fontSize":"18","fontColor":"#3b3663"}}]}}'>
-				<canvas class="gt3_unlimited_chart gt3_chart_1748" width="400" height="400"></canvas>
+				<canvas class="gt3_unlimited_chart gt3_chart_9510" width="400" height="400"></canvas>
 			</div>		</div>
 				</div>
 				<div class="elementor-element-custom_font_size elementor-element-custom_line_height elementor-element-custom_font_weight elementor-element-custom_color elementor-element elementor-element-6cc1 elementor-widget elementor-widget-text-editor" data-id="6cc1" data-element_type="widget" data-widget_type="text-editor.default">
@@ -826,7 +826,7 @@
 				<div class="elementor-element elementor-element-44a elementor-widget elementor-widget-unlimited-charts" data-id="44a" data-element_type="widget" data-widget_type="unlimited-charts.default">
 				<div class="elementor-widget-container">
 						<div class="gt3_unlimited_chart_wrapper" data-chart-type="doughnut" data-chart-data='{"labels":["Done","Achieved","Queue","Loaded"],"datasets":[{"data":["25","45"],"label":"Dataset #1","backgroundColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderWidth":1,"fill":false,"borderJoinStyle":[12,15]}]}' data-chart-options='{"responsive":true,"maintainAspectRatio":false,"cutoutPercentage":"50","rotation":2.443460952792061,"animation":{"duration":1500},"layout":{"padding":{"top":0}},"legend":{"display":true,"position":"bottom","labels":{"usePointStyle":true}},"tooltips":{"enabled":true}}'>
-				<canvas class="gt3_unlimited_chart gt3_chart_4624" width="400" height="400"></canvas>
+				<canvas class="gt3_unlimited_chart gt3_chart_7101" width="400" height="400"></canvas>
 			</div>		</div>
 				</div>
 						</div>
@@ -1046,7 +1046,7 @@
 				<div class="elementor-element elementor-element-32f8db2e elementor-widget elementor-widget-unlimited-charts" data-id="32f8db2e" data-element_type="widget" data-widget_type="unlimited-charts.default">
 				<div class="elementor-widget-container">
 						<div class="gt3_unlimited_chart_wrapper" data-chart-type="bar" data-chart-data='{"labels":["2016","2017","2018","2019"],"datasets":[{"data":["25","45"],"label":"Dataset #1","backgroundColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderWidth":1,"fill":false,"borderJoinStyle":[12,15]}]}' data-chart-options='{"responsive":true,"maintainAspectRatio":false,"animation":{"duration":1500},"layout":{"padding":{"top":0}},"legend":{"display":false,"position":"bottom","labels":{"usePointStyle":false}},"tooltips":{"enabled":true},"scales":{"xAxes":[{"gridLines":{"display":false,"color":"#c0c0c0"},"scaleLabel":{"display":false,"labelString":"","fontColor":"#3b3663","fontSize":"12"},"ticks":{"fontSize":"18","fontColor":"#3b3663"}}],"yAxes":[{"gridLines":{"display":true,"color":"#c0c0c0"},"scaleLabel":{"display":false,"labelString":"","fontColor":"#3b3663","fontSize":"18"},"ticks":{"beginAtZero":true,"suggestedMax":1,"fontSize":"18","fontColor":"#3b3663"}}]}}'>
-				<canvas class="gt3_unlimited_chart gt3_chart_3723" width="400" height="400"></canvas>
+				<canvas class="gt3_unlimited_chart gt3_chart_6655" width="400" height="400"></canvas>
 			</div>		</div>
 				</div>
 				<div class="elementor-element-custom_font_size elementor-element-custom_line_height elementor-element-custom_font_weight elementor-element-custom_color elementor-element elementor-element-1e5d8ffa elementor-widget elementor-widget-text-editor" data-id="1e5d8ffa" data-element_type="widget" data-widget_type="text-editor.default">
@@ -1117,7 +1117,7 @@
 				<div class="elementor-element elementor-element-c13dc70 elementor-widget elementor-widget-unlimited-charts" data-id="c13dc70" data-element_type="widget" data-widget_type="unlimited-charts.default">
 				<div class="elementor-widget-container">
 						<div class="gt3_unlimited_chart_wrapper" data-chart-type="doughnut" data-chart-data='{"labels":["Done","Achieved","Queue","Loaded"],"datasets":[{"data":["25","45"],"label":"Dataset #1","backgroundColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderWidth":1,"fill":false,"borderJoinStyle":[12,15]}]}' data-chart-options='{"responsive":true,"maintainAspectRatio":false,"cutoutPercentage":"50","rotation":2.443460952792061,"animation":{"duration":1500},"layout":{"padding":{"top":0}},"legend":{"display":true,"position":"bottom","labels":{"usePointStyle":true}},"tooltips":{"enabled":true}}'>
-				<canvas class="gt3_unlimited_chart gt3_chart_4435" width="400" height="400"></canvas>
+				<canvas class="gt3_unlimited_chart gt3_chart_697" width="400" height="400"></canvas>
 			</div>		</div>
 				</div>
 						</div>
@@ -1319,7 +1319,7 @@
 				<div class="elementor-element elementor-element-3bc0d52 elementor-widget elementor-widget-unlimited-charts" data-id="3bc0d52" data-element_type="widget" data-widget_type="unlimited-charts.default">
 				<div class="elementor-widget-container">
 						<div class="gt3_unlimited_chart_wrapper" data-chart-type="bar" data-chart-data='{"labels":["2016","2017","2018","2019"],"datasets":[{"data":["25","45"],"label":"Dataset #1","backgroundColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderWidth":1,"fill":false,"borderJoinStyle":[12,15]}]}' data-chart-options='{"responsive":true,"maintainAspectRatio":false,"animation":{"duration":1500},"layout":{"padding":{"top":0}},"legend":{"display":false,"position":"bottom","labels":{"usePointStyle":false}},"tooltips":{"enabled":true},"scales":{"xAxes":[{"gridLines":{"display":false,"color":"#c0c0c0"},"scaleLabel":{"display":false,"labelString":"","fontColor":"#3b3663","fontSize":"12"},"ticks":{"fontSize":"18","fontColor":"#3b3663"}}],"yAxes":[{"gridLines":{"display":true,"color":"#c0c0c0"},"scaleLabel":{"display":false,"labelString":"","fontColor":"#3b3663","fontSize":"18"},"ticks":{"beginAtZero":true,"suggestedMax":1,"fontSize":"18","fontColor":"#3b3663"}}]}}'>
-				<canvas class="gt3_unlimited_chart gt3_chart_8531" width="400" height="400"></canvas>
+				<canvas class="gt3_unlimited_chart gt3_chart_2645" width="400" height="400"></canvas>
 			</div>		</div>
 				</div>
 				<div class="elementor-element-custom_font_size elementor-element-custom_line_height elementor-element-custom_font_weight elementor-element-custom_color elementor-element elementor-element-462db66 elementor-widget elementor-widget-text-editor" data-id="462db66" data-element_type="widget" data-widget_type="text-editor.default">
@@ -1390,7 +1390,7 @@
 				<div class="elementor-element elementor-element-1f43964 elementor-widget elementor-widget-unlimited-charts" data-id="1f43964" data-element_type="widget" data-widget_type="unlimited-charts.default">
 				<div class="elementor-widget-container">
 						<div class="gt3_unlimited_chart_wrapper" data-chart-type="doughnut" data-chart-data='{"labels":["Done","Achieved","Queue","Loaded"],"datasets":[{"data":["25","45"],"label":"Dataset #1","backgroundColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderColor":["rgb(254,98,131)","rgb(54,162,235)"],"borderWidth":1,"fill":false,"borderJoinStyle":[12,15]}]}' data-chart-options='{"responsive":true,"maintainAspectRatio":false,"cutoutPercentage":"50","rotation":2.443460952792061,"animation":{"duration":1500},"layout":{"padding":{"top":0}},"legend":{"display":true,"position":"bottom","labels":{"usePointStyle":true}},"tooltips":{"enabled":true}}'>
-				<canvas class="gt3_unlimited_chart gt3_chart_9991" width="400" height="400"></canvas>
+				<canvas class="gt3_unlimited_chart gt3_chart_3772" width="400" height="400"></canvas>
 			</div>		</div>
 				</div>
 						</div>

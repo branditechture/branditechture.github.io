@@ -4,8 +4,8 @@
 
 <channel>
 	<title>Branditechture</title>
-	<link href="./index.html" rel="self" type="application/rss+xml">
-	<link>./../index.html
+	<link href="https://branditechture.com/feed/" rel="self" type="application/rss+xml">
+	<link>https://branditechture.com/
 	<description>Web &times; Design; Branditechture is an hybrid creative design agency.</description>
 	<lastbuilddate>Thu, 07 May 2020 16:37:14 +0000</lastbuilddate>
 	<language>en-US</language>
@@ -13,38 +13,38 @@
 	hourly	</updateperiod>
 	<updatefrequency>
 	1	</updatefrequency>
-	<generator>https://wordpress.org/?v=5.4.1</generator>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
 
 <image>
-	<url>./../wp-content/uploads/2020/05/cropped-Favicon-32x32.png</url>
+	<url>https://branditechture.com/wp-content/uploads/2020/05/cropped-Favicon-32x32.png</url>
 	<title>Branditechture</title>
-	<link>./../index.html
+	<link>https://branditechture.com/
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>./../2020/05/07/hello-world/index.html
-					<comments>./../2020/05/07/hello-world/index.html#comments</comments>
+		<link>https://branditechture.com/2020/05/07/hello-world/
+					<comments>https://branditechture.com/2020/05/07/hello-world/#comments</comments>
 		
 		<creator></creator>
 		<pubdate>Thu, 07 May 2020 16:37:14 +0000</pubdate>
 				<category></category>
-		<guid ispermalink="false">./../index.html?p=1</guid>
+		<guid ispermalink="false">https://branditechture.com/?p=1</guid>
 
 					<description></description>
 										<encoded>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!
 ]]&gt;</encoded>
 					
-					<commentrss>./../2020/05/07/hello-world/feed/index.html</commentrss>
+					<commentrss>https://branditechture.com/2020/05/07/hello-world/feed/</commentrss>
 			<comments>1</comments>
 		
 		
 			</item>
 		<item>
 		<title>How to Increase Your ROI Through scientific SEM?</title>
-		<link>./../2019/08/02/how-to-increase-your-roi-through-scientific-sem/index.html
-					<comments>./../2019/08/02/how-to-increase-your-roi-through-scientific-sem/index.html#comments</comments>
+		<link>https://branditechture.com/2019/08/02/how-to-increase-your-roi-through-scientific-sem/
+					<comments>https://branditechture.com/2019/08/02/how-to-increase-your-roi-through-scientific-sem/#comments</comments>
 		
 		<creator></creator>
 		<pubdate>Fri, 02 Aug 2019 05:37:34 +0000</pubdate>
@@ -236,15 +236,15 @@
 		
 		]]&gt;</encoded>
 					
-					<commentrss>./../2019/08/02/how-to-increase-your-roi-through-scientific-sem/feed/index.html</commentrss>
+					<commentrss>https://branditechture.com/2019/08/02/how-to-increase-your-roi-through-scientific-sem/feed/</commentrss>
 			<comments>2</comments>
 		
 		
 			</item>
 		<item>
 		<title>Compare Photo Views</title>
-		<link>./../2019/08/02/post-02/index.html
-					<comments>./../2019/08/02/post-02/index.html#respond</comments>
+		<link>https://branditechture.com/2019/08/02/post-02/
+					<comments>https://branditechture.com/2019/08/02/post-02/#respond</comments>
 		
 		<creator></creator>
 		<pubdate>Fri, 02 Aug 2019 04:00:20 +0000</pubdate>
@@ -436,15 +436,15 @@
 		
 		]]&gt;</encoded>
 					
-					<commentrss>./../2019/08/02/post-02/feed/index.html</commentrss>
+					<commentrss>https://branditechture.com/2019/08/02/post-02/feed/</commentrss>
 			<comments>0</comments>
 		
 		
 			</item>
 		<item>
 		<title>Twice Profit Than Before You Ever Got</title>
-		<link>./../2019/08/01/twice-profit-than-before-you-ever-got/index.html
-					<comments>./../2019/08/01/twice-profit-than-before-you-ever-got/index.html#respond</comments>
+		<link>https://branditechture.com/2019/08/01/twice-profit-than-before-you-ever-got/
+					<comments>https://branditechture.com/2019/08/01/twice-profit-than-before-you-ever-got/#respond</comments>
 		
 		<creator></creator>
 		<pubdate>Thu, 01 Aug 2019 14:36:48 +0000</pubdate>
@@ -636,15 +636,15 @@
 		
 		]]&gt;</encoded>
 					
-					<commentrss>./../2019/08/01/twice-profit-than-before-you-ever-got/feed/index.html</commentrss>
+					<commentrss>https://branditechture.com/2019/08/01/twice-profit-than-before-you-ever-got/feed/</commentrss>
 			<comments>0</comments>
 		
 		
 			</item>
 		<item>
 		<title>Cloud Hosting Growing Faster Ever</title>
-		<link>./../2019/08/01/cloud-hosting-growing-faster-ever/index.html
-					<comments>./../2019/08/01/cloud-hosting-growing-faster-ever/index.html#respond</comments>
+		<link>https://branditechture.com/2019/08/01/cloud-hosting-growing-faster-ever/
+					<comments>https://branditechture.com/2019/08/01/cloud-hosting-growing-faster-ever/#respond</comments>
 		
 		<creator></creator>
 		<pubdate>Thu, 01 Aug 2019 13:47:09 +0000</pubdate>
@@ -835,15 +835,15 @@
 		
 		]]&gt;</encoded>
 					
-					<commentrss>./../2019/08/01/cloud-hosting-growing-faster-ever/feed/index.html</commentrss>
+					<commentrss>https://branditechture.com/2019/08/01/cloud-hosting-growing-faster-ever/feed/</commentrss>
 			<comments>0</comments>
 		
 		
 			</item>
 		<item>
 		<title>Best Domain Name for Student Ever</title>
-		<link>./../2019/08/01/best-domain-name-for-student-ever/index.html
-					<comments>./../2019/08/01/best-domain-name-for-student-ever/index.html#respond</comments>
+		<link>https://branditechture.com/2019/08/01/best-domain-name-for-student-ever/
+					<comments>https://branditechture.com/2019/08/01/best-domain-name-for-student-ever/#respond</comments>
 		
 		<creator></creator>
 		<pubdate>Thu, 01 Aug 2019 13:00:01 +0000</pubdate>
@@ -1035,15 +1035,15 @@
 		
 		]]&gt;</encoded>
 					
-					<commentrss>./../2019/08/01/best-domain-name-for-student-ever/feed/index.html</commentrss>
+					<commentrss>https://branditechture.com/2019/08/01/best-domain-name-for-student-ever/feed/</commentrss>
 			<comments>0</comments>
 		
 		
 			</item>
 		<item>
 		<title>3 Ways to Transform Your Blog Into a SEO Machine</title>
-		<link>./../2019/08/01/post-with-quote/index.html
-					<comments>./../2019/08/01/post-with-quote/index.html#respond</comments>
+		<link>https://branditechture.com/2019/08/01/post-with-quote/
+					<comments>https://branditechture.com/2019/08/01/post-with-quote/#respond</comments>
 		
 		<creator></creator>
 		<pubdate>Thu, 01 Aug 2019 12:59:51 +0000</pubdate>
@@ -1232,15 +1232,15 @@
 		
 		]]&gt;</encoded>
 					
-					<commentrss>./../2019/08/01/post-with-quote/feed/index.html</commentrss>
+					<commentrss>https://branditechture.com/2019/08/01/post-with-quote/feed/</commentrss>
 			<comments>0</comments>
 		
 		
 			</item>
 		<item>
 		<title>Social media changes the relationship between companies</title>
-		<link>./../2019/08/01/link-post/index.html
-					<comments>./../2019/08/01/link-post/index.html#respond</comments>
+		<link>https://branditechture.com/2019/08/01/link-post/
+					<comments>https://branditechture.com/2019/08/01/link-post/#respond</comments>
 		
 		<creator></creator>
 		<pubdate>Thu, 01 Aug 2019 12:56:10 +0000</pubdate>
@@ -1431,15 +1431,15 @@
 		
 		]]&gt;</encoded>
 					
-					<commentrss>./../2019/08/01/link-post/feed/index.html</commentrss>
+					<commentrss>https://branditechture.com/2019/08/01/link-post/feed/</commentrss>
 			<comments>0</comments>
 		
 		
 			</item>
 		<item>
 		<title>Simple Ways To Optimize Your Website For SEO</title>
-		<link>./../2019/08/01/image-post/index.html
-					<comments>./../2019/08/01/image-post/index.html#respond</comments>
+		<link>https://branditechture.com/2019/08/01/image-post/
+					<comments>https://branditechture.com/2019/08/01/image-post/#respond</comments>
 		
 		<creator></creator>
 		<pubdate>Thu, 01 Aug 2019 09:14:44 +0000</pubdate>
@@ -1631,15 +1631,15 @@
 		
 		]]&gt;</encoded>
 					
-					<commentrss>./../2019/08/01/image-post/feed/index.html</commentrss>
+					<commentrss>https://branditechture.com/2019/08/01/image-post/feed/</commentrss>
 			<comments>0</comments>
 		
 		
 			</item>
 		<item>
 		<title>The Basics of Blogging Search Engine Optimization</title>
-		<link>./../2019/08/01/standart-post/index.html
-					<comments>./../2019/08/01/standart-post/index.html#respond</comments>
+		<link>https://branditechture.com/2019/08/01/standart-post/
+					<comments>https://branditechture.com/2019/08/01/standart-post/#respond</comments>
 		
 		<creator></creator>
 		<pubdate>Thu, 01 Aug 2019 09:13:53 +0000</pubdate>
@@ -1831,7 +1831,7 @@
 		
 		]]&gt;</encoded>
 					
-					<commentrss>./../2019/08/01/standart-post/feed/index.html</commentrss>
+					<commentrss>https://branditechture.com/2019/08/01/standart-post/feed/</commentrss>
 			<comments>0</comments>
 		
 		
