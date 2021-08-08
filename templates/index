@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Branditechture | Minimal Blog HTML Template</title>
+    <title>Nemesis | Minimal Blog HTML Template</title>
 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:900%7CNunito:400,700%7COswald%7CRoboto" rel="stylesheet">
     <link href="css/animate.min.css" rel="stylesheet" media="screen">
@@ -28,16 +28,17 @@
 
     <div id="page-wrapper" class="feed-view">
 
-        <nav class="navbar navbar-expand-xl navbar-fbt fbt-nav-skin">
+        <nav class="navbar navbar-expand-xl navbar-fbt fbt-nav-skin fbt_sticky_nav">
             <div class="container nav-mobile-px clearfix">
                 <div class="navbar-brand order-2 order-xl-1 m-auto">
-                    <a href="index-2.html"><img alt="Branditechture" src="images/logo.svg"></a>
+                    <a href="index-2.html"><img alt="Nemesis" src="images/logo_nemesis.png"></a>
                 </div>
                 <button aria-expanded="false" aria-label="Toggle navigation"
                     class="navbar-toggler order-1 order-xl-2" data-target="#navbar-menu" data-toggle="collapse"
                     type="button">☰</button>
                 <div class="header-buttons order-3 order-lg-4">
                     <span class="fa fa-search navbar-search search-trigger"></span>
+                    <span class="fbt-sidenav ml-1 active" onclick="openNav()">☰</span>
                 </div>
                 <div class="collapse navbar-collapse order-4 order-xl-3 clearfix" id="navbar-menu">
                     <ul class="navbar-nav m-auto clearfix">
@@ -613,6 +614,86 @@
 
                     </div><!-- .fbt-main-wrapper -->
 
+                    <!-- Sidebar Wrapper -->
+                    <div class="sidebar-wrapper" id="sidebar-wrapper">
+                        <div class="sidebar-wrapper__content">
+                            <div class="navigation-container clearfix">
+                                <span class="closebtn" onclick="closeNav()">×</span>
+                            </div>
+                            <div class="sidebar-top section" id="menu_sidebar">
+                                <div class="widget LinkList">
+                                    <div class="widget-content fbt-sidebar--menu">
+                                        <ul class="list-group">
+                                            <li class="list-group-item"><a href="https://fbtemplates.net/">HOME</a></li>
+                                            <li class="list-group-item"><a href="#">ABOUT</a></li>
+                                            <li class="list-group-item"><a href="#">SERVICES</a></li>
+                                            <li class="list-group-item"><a href="#">CONTACT</a></li>
+                                            <li class="list-group-item"><a href="#">PRIVACY</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="sidebar section" id="main_sidebar">
+                                <div class="widget Label">
+
+                                    <div class="fbt-sep-title">
+                                        <h4 class="title title-heading-left">Categories</h4>
+                                        <div class="title-sep-container">
+                                            <div class="title-sep sep-double"></div>
+                                        </div>
+                                    </div>
+
+                                    <div class="widget-content cloud-label--widget-content">
+                                        <a href="#"><span class="badge badge-success py-1 px-2 mb-1">Business</span></a>
+                                        <a href="#"><span class="badge badge-success py-1 px-2 mb-1">Carousel</span></a>
+                                        <a href="#"><span class="badge badge-success py-1 px-2 mb-1">Design</span></a>
+                                        <a href="#"><span class="badge badge-success py-1 px-2 mb-1">Entertainment</span></a>
+                                        <a href="#"><span class="badge badge-success py-1 px-2 mb-1">Featured</span></a>
+                                        <a href="#"><span class="badge badge-success py-1 px-2 mb-1">Friends</span></a>
+                                        <a href="#"><span class="badge badge-success py-1 px-2 mb-1">Home</span></a>
+                                        <a href="#"><span class="badge badge-success py-1 px-2 mb-1">Lifestyle</span></a>
+                                        <a href="#"><span class="badge badge-success py-1 px-2 mb-1">People</span></a>
+                                        <a href="#"><span class="badge badge-success py-1 px-2 mb-1">Slider</span></a>
+                                        <a href="#"><span class="badge badge-success py-1 px-2 mb-1">Sport</span></a>
+                                        <a href="#"><span class="badge badge-success py-1 px-2 mb-1">Technology</span></a>
+                                        <a href="#"><span class="badge badge-success py-1 px-2 mb-1">Training</span></a>
+                                    </div>
+                                </div>
+                                <div class="widget BlogArchive">
+                                    <div class="fbt-sep-title">
+                                        <h4 class="title title-heading-left">Archive</h4>
+                                        <div class="title-sep-container">
+                                            <div class="title-sep sep-double"></div>
+                                        </div>
+                                    </div>
+                                    <div class="widget-content">
+                                        <div id="ArchiveList">
+                                            <div id="BlogArchive1_ArchiveList">
+                                                <ul class="flat list-unstyled">
+                                                    <li class="archivedate">
+                                                        <a href="#">June<span class="post-count float-right badge badge-primary">2</span></a>
+                                                    </li>
+                                                    <li class="archivedate">
+                                                        <a href="#">September<span class="post-count float-right badge badge-primary">1</span></a>
+                                                    </li>
+                                                    <li class="archivedate">
+                                                        <a href="#">May<span class="post-count float-right badge badge-primary">1</span></a>
+                                                    </li>
+                                                    <li class="archivedate">
+                                                        <a href="#">April<span class="post-count float-right badge badge-primary">1</span></a>
+                                                    </li>
+                                                    <li class="archivedate">
+                                                        <a href="#">March<span class="post-count float-right badge badge-primary">26</span></a>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div><!-- #sidebar-wrapper -->
                 </div>
             </div>
         </div>
@@ -656,13 +737,89 @@
           
         </div>
 
-        <div class="footer-dark" id="footer-content">
+        <div class="footer-dark pt-5" id="footer-content">
+            <div class="container pb-4">
+                <div class="row clearfix">
+                    <div class="col-lg-4">
+                        <div class="footer-1" id="footer-1">
+                            <div class="logoImage">
+                                <div class="widget-content">
+                                    <img alt="" src="images/logo-light.png">
+                                </div>
+                            </div>
+                            <div class="widget Text">
+                                <div class="widget-content">
+                                    <p>
+                                        Phasellus deserunt. Convallis perspiciatis fusce fermentum accumsan, arcu
+                                        aliquam, velit venenatis augue proin, enim etiam dolor.
+                                        Mi ac lectus vitae cum, fusce purus posuere.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 ml-lg-auto">
+                        <div class="footer-2 section" id="footer-2">
+                            <div class="widget">
+                                <h4 class="title title-heading">
+                                    About
+                                </h4>
+                                <div class="widget-content list-label-widget-content">
+                                    <ul class="list-unstyled">
+                                        <li><a class="label-name" href="#">Home</a></li>
+                                        <li><a class="label-name" href="#">Lifestyle</a></li>
+                                        <li><a class="label-name" href="#"> People</a></li>
+                                        <li><a class="label-name" href="#">Slider</a></li>
+                                        <li><a class="label-name" href="#">Sport</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2">
+                        <div class="footer-3 section" id="footer-3">
+                            <div class="widget">
+                                <h4 class="title title-heading">
+                                    Categories
+                                </h4>
+                                <div class="widget-content list-label-widget-content">
+                                    <ul class="list-unstyled">
+                                        <li><a class="label-name" href="#">Business</a></li>
+                                        <li><a class="label-name" href="#">Design</a></li>
+                                        <li><a class="label-name" href="#">Lifestyle</a></li>
+                                        <li><a class="label-name" href="#">Technology</a></li>
+                                        <li><a class="label-name" href="#">Training</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 last">
+                        <div class="footer-4 section" id="footer-4">
+                            <div class="widget">
+                                <h4 class="title title-heading">
+                                    Account
+                                </h4>
+                                <div class="widget-content list-label-widget-content">
+                                    <ul class="list-unstyled">
+                                        <li><a class="label-name" href="#">Business</a></li>
+                                        <li><a class="label-name" href="#">Design</a></li>
+                                        <li><a class="label-name" href="#">Entertainment</a></li>
+                                        <li><a class="label-name" href="#">Featured</a></li>
+                                        <li><a class="label-name" href="#">Technology</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
             <div id="credits">
                 <div class="container">
                     <div class="row divider py-4">
                         <div class="col-lg-6">
                             <div class="copyright-section text-center text-lg-left">
-                                © <script>document.write(new Date().getFullYear());</script> Branditechture | All Rights Reserved
+                                © <script>document.write(new Date().getFullYear());</script> Nemesis | All Rights Reserved
                             </div>
                         </div>
                         <div class="col-lg-6">
