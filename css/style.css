@@ -353,7 +353,6 @@ a.badge:focus {
 #page-wrapper {
   background: transparent;
   max-width: 100%;
-  margin-top: 25px;
   margin-bottom: 0px;
   margin-left: auto;
   margin-right: auto;
@@ -488,7 +487,6 @@ a:hover .fbt-bg-white {
 /* Navbar - Header
 ===================================== */
 .navbar {
-  margin-bottom: 40px;
   border-bottom: solid 3px darkorange; 
   position:sticky;
   top:0;
@@ -497,8 +495,7 @@ a:hover .fbt-bg-white {
 
 @media (min-width: 1200px) {
   .navbar {
-    padding-top: 0;
-    padding-bottom: 10px;
+    padding-bottom: 5px;
     border-bottom: solid 3px darkorange;    
   }
 }
