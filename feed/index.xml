@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/branditechture/feed/" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>The Official Branditechture Blog Where Topics Relating To Tech, Design and Branding Are Discussed</description>
-	<lastBuildDate>Sat, 14 Aug 2021 15:04:35 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 14 Aug 2021 16:02:00 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -34,7 +34,8 @@
 		
 		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
 		<pubDate>Sat, 14 Aug 2021 12:50:48 +0000</pubDate>
-				<category><![CDATA[Tech Talks]]></category>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Tech Talks]]></category>
 		<guid isPermaLink="false">./../index.html?p=17</guid>
 
 					<description><![CDATA[Hello. Here’s Yusuf again. In this blog post, we would explain the reason behind our decision to move our website away from WordPress. Well, we didnt actually move from WordPress. We still use WP, but our website is now fully static. What led to this drastic decision? Well, I will tell you why. Two years [&#8230;]]]></description>
@@ -66,7 +67,8 @@
 		
 		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
 		<pubDate>Sat, 14 Aug 2021 12:50:01 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Featured]]></category>
+		<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">./../index.html?p=15</guid>
 
 					<description><![CDATA[This might sound like you’re very boring topic but I’m content marketing is actually the future of advertising. People might not tell you this but this is the ultimate budget silver. reasons why content marketing is the best for your business. &#160;content marketing is a new idea for most businesses and because of its long-term [&#8230;]]]></description>
