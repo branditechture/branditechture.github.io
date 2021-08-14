@@ -44,11 +44,11 @@ Author URI: https://branditechture.agency/author/designops/
 /* Root
 ===================================== */
 :root {
-  --primary:   #007bff;
-  --secondary: #6c757d;
+  --primary:   #76B50A;
+  --secondary: #3b3663;
   --success:   #9adca1;
   --info:      #17a2b8;
-  --warning:   #ffc107;
+  --warning:   darkorange;
   --danger:    #dc3545;
   --light:     #f1f4f9;
   --dark:      #343a40;
@@ -504,7 +504,7 @@ a:hover .fbt-bg-white {
   text-transform: uppercase;
   font-family: "Roboto", sans-serif;
   font-size: 13px;
-  font-weight: 400;
+  font-weight: 600;
   letter-spacing: 0.2px;
 }
 
@@ -790,7 +790,7 @@ a:hover .fbt-bg-white {
   width: 150px;
   height: 150px;
   border-radius: 2000px;
-  background-color: #ff4ac2;
+  background-color: orange;
   right: 0px;
   bottom: 40px;
 }
@@ -2060,37 +2060,46 @@ a:hover .fbt-bg-white {
 
 .post-share .facebook-share {
   background-color: #516eab;
+  border-radius: 100%;
 }
 
 .post-share .twitter-share {
   background-color: #29c5f6;
+  border-radius: 100%;
 }
 
 .post-share .linkedin-share {
+  border-radius: 100%;
   background-color: #0077b5;
 }
 
 .post-share .pinterest-share {
+  border-radius: 100%;
   background-color: #ca212a;
 }
 
 .post-share .email.fbt-email {
+  border-radius: 100%;
   background-color: #676869;
 }
 
 a.facebook.fbt-share {
+  border-radius: 100%;
   background-color: #516eab;
 }
 
 a.twitter.fbt-share {
+  border-radius: 100%;
   background-color: #29c5f6;
 }
 
 a.linkedin.fbt-linkedin {
+  border-radius: 100%;
   background-color: #0077b5;
 }
 
 a.pinterest.fbt-pinterest {
+  border-radius: 100%;
   background-color: #ca212a;
 }
 
