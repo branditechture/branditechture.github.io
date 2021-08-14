@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments for Blog by Branditechture	</title>
-	<atom:link href="http://localhost/branditechture/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	Comments on: Our employment process at Branditechture	</title>
+	<atom:link href="http://localhost/branditechture/our-employment-process-at-branditechture/feed/" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>The Official Branditechture Blog Where Topics Relating To Tech, Design and Branding Are Discussed</description>
-	<lastBuildDate>Sat, 14 Aug 2021 15:07:39 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 14 Aug 2021 15:00:24 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

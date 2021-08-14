@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments for Blog by Branditechture	</title>
-	<atom:link href="http://localhost/branditechture/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	Comments on: Why We Are Moving Our Blog Away From WordPress	</title>
+	<atom:link href="http://localhost/branditechture/why-we-are-moving-our-blog-away-from-wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>The Official Branditechture Blog Where Topics Relating To Tech, Design and Branding Are Discussed</description>
-	<lastBuildDate>Sat, 14 Aug 2021 15:07:39 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 14 Aug 2021 15:04:35 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
