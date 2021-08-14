@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8</generator>
+	
 
 <image>
 	<url>./../wp-content/uploads/2021/08/cropped-favicon-32x32.png</url>
@@ -30,7 +30,6 @@
 	<item>
 		<title>Our employment process at Branditechture</title>
 		<link>./../our-employment-process-at-branditechture/index.html</link>
-					<comments>./../our-employment-process-at-branditechture/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
 		<pubDate>Sat, 14 Aug 2021 10:26:43 +0000</pubDate>
@@ -57,15 +56,12 @@
 <p>The post <a rel="nofollow" href="./../our-employment-process-at-branditechture/index.html">Our employment process at Branditechture</a> appeared first on <a rel="nofollow" href="./../index.html">Blog by Branditechture</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../our-employment-process-at-branditechture/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Content Marketing is the future of Advertising</title>
 		<link>./../content-marketing-is-the-future-of-advertisement/index.html</link>
-					<comments>./../content-marketing-is-the-future-of-advertisement/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
 		<pubDate>Sat, 14 Aug 2021 10:17:49 +0000</pubDate>
@@ -88,15 +84,12 @@
 <p>The post <a rel="nofollow" href="./../content-marketing-is-the-future-of-advertisement/index.html">Content Marketing is the future of Advertising</a> appeared first on <a rel="nofollow" href="./../index.html">Blog by Branditechture</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../content-marketing-is-the-future-of-advertisement/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Why We Are Moving Our Blog Away From WordPress</title>
 		<link>./../why-we-are-moving-our-blog-away-from-wordpress/index.html</link>
-					<comments>./../why-we-are-moving-our-blog-away-from-wordpress/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
 		<pubDate>Sat, 14 Aug 2021 10:00:43 +0000</pubDate>
@@ -123,8 +116,6 @@
 <p>The post <a rel="nofollow" href="./../why-we-are-moving-our-blog-away-from-wordpress/index.html">Why We Are Moving Our Blog Away From WordPress</a> appeared first on <a rel="nofollow" href="./../index.html">Blog by Branditechture</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../why-we-are-moving-our-blog-away-from-wordpress/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
