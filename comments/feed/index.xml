@@ -10,8 +10,8 @@
 	Comments for Blog by Branditechture	</title>
 	<atom:link href="http://localhost/branditechture/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
-	<description>The Official Branditechture Blog Where Topics Relating To Tech, Design and Branding Are Discussed</description>
-	<lastBuildDate>Sun, 15 Aug 2021 16:38:14 +0000</lastBuildDate>
+	<description>The Official Branditechture Blog</description>
+	<lastBuildDate>Mon, 16 Aug 2021 02:03:36 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
