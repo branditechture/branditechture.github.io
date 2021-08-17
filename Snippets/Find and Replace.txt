@@ -6,5 +6,5 @@ https://0.gra
 http://1.gra
 https://1.gra
 
-https://branditechture.com/
+http://localhost/branditechture/
 https://branditechture.com/
