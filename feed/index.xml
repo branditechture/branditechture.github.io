@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Blog by Branditechture</title>
-	<atom:link href="https://branditechture.com/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/branditechture/feed/" rel="self" type="application/rss+xml" />
 	<link>https://branditechture.com</link>
 	<description>The Official Branditechture Blog</description>
 	<lastBuildDate>Tue, 17 Aug 2021 00:43:36 +0000</lastBuildDate>
