@@ -5,11 +5,11 @@
 
 @font-face {
 	font-family: "WPDA_icon";
-	src: url(./../../font/Flaticon.68498eca.eot);
-	src: url(./../../font/Flaticon.68498eca.eot#iefix) format("embedded-opentype"),
-	url(./../../font/Flaticon.96a8f330.woff) format("woff"),
-	url(./../../font/Flaticon.9f177ca7.ttf) format("truetype"),
-	url(./../../img/Flaticon.e478d2a2.svg#Flaticon) format("svg");
+	src: url(https://branditechture.com/wp-content/plugins/wpdaddy-header-builder/dist/font/Flaticon.68498eca.eot);
+	src: url(https://branditechture.com/wp-content/plugins/wpdaddy-header-builder/dist/font/Flaticon.68498eca.eot#iefix) format("embedded-opentype"),
+	url(https://branditechture.com/wp-content/plugins/wpdaddy-header-builder/dist/font/Flaticon.96a8f330.woff) format("woff"),
+	url(https://branditechture.com/wp-content/plugins/wpdaddy-header-builder/dist/font/Flaticon.9f177ca7.ttf) format("truetype"),
+	url(https://branditechture.com/wp-content/plugins/wpdaddy-header-builder/dist/img/Flaticon.e478d2a2.svg#Flaticon) format("svg");
 	font-weight: normal;
 	font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
 	@font-face {
 		font-family: "WPDA_icon";
-		src: url(./../../img/Flaticon.e478d2a2.svg#Flaticon) format("svg");
+		src: url(https://branditechture.com/wp-content/plugins/wpdaddy-header-builder/dist/img/Flaticon.e478d2a2.svg#Flaticon) format("svg");
 	}
 }
 
