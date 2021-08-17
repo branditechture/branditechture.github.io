@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for Blog by Branditechture	</title>
-	<atom:link href="http://localhost/branditechture/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	Comments on: How To Handle Clients That Won&#8217;t Pay Your Balance	</title>
+	<atom:link href="http://localhost/branditechture/how-to-handle-clients-that-wont-pay-your-balance/feed/" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>The Official Branditechture Blog</description>
 	<lastBuildDate>Tue, 17 Aug 2021 00:43:36 +0000</lastBuildDate>
 	<sy:updatePeriod>

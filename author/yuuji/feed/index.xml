@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/branditechture/author/yuuji/feed/" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>The Official Branditechture Blog</description>
-	<lastBuildDate>Sun, 15 Aug 2021 16:38:14 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 17 Aug 2021 00:43:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,190 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>How To Handle Clients That Won&#8217;t Pay Your Balance</title>
+		<link>./../../../how-to-handle-clients-that-wont-pay-your-balance/index.html</link>
+					<comments>./../../../how-to-handle-clients-that-wont-pay-your-balance/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Mon, 16 Aug 2021 16:30:18 +0000</pubDate>
+				<category><![CDATA[Web Design]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=169</guid>
+
+					<description><![CDATA[<p>This article would help you to better manage stubborn clients who do not always want to pay your balance. I'll be very brief with my points but I'll try to make them as helpful as I can. </p>
+<p>The post <a rel="nofollow" href="./../../../how-to-handle-clients-that-wont-pay-your-balance/index.html">How To Handle Clients That Won&#8217;t Pay Your Balance</a> appeared first on <a rel="nofollow" href="./../../../index.html">Blog by Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-image"><figure class="aligncenter size-full"><img loading="lazy" width="720" height="709" src="./../../../wp-content/uploads/2021/08/Sad-Pablo-Escobar.jpeg" alt="Sad Pablo Escobar" class="wp-image-174" srcset="./../../../wp-content/uploads/2021/08/Sad-Pablo-Escobar.jpeg 720w, ./../../../wp-content/uploads/2021/08/Sad-Pablo-Escobar-300x295.jpeg 300w" sizes="(max-width: 720px) 100vw, 720px" /><figcaption>MEME: Freelancer Waiting for payment after submitting work.</figcaption></figure></div>
+
+
+
+<p>This article would help you to better manage stubborn clients who do not always want to pay your balance. I&#8217;ll be very brief with my points but I&#8217;ll try to make them as helpful as I can. </p>
+
+
+
+<p>I brought this up because I have faced a series of challenges like this in the past, so I thought it&#8217;ll be an interesting discussion, especially for entry-level website designers and developers who seem to be quite inexperienced with the business side of website development.</p>
+
+
+
+<p>First off, here are some of the crucial things you should put in place when starting a website design business. </p>
+
+
+
+<ol><li>An invoicing system (a.k.a bookkeeping system) with auto-remind feature. </li><li>A business logo, website and corporate email address. </li><li>Basic business sense. </li></ol>
+
+
+
+<p>Now let&#8217;s start. </p>
+
+
+
+<h2 id="h-1-have-a-payment-policy-and-stand-firm-by-it">1. Have a Payment Policy and stand firm by it.</h2>
+
+
+
+<p>You&#8217;ll lose some clients and that&#8217;s okay &#8211; Put a very brief summary of this payment policy (or Payment Terms) on your invoice, alongside your banking details. Also ensure that every invoice you send has a due date.</p>
+
+
+
+<p>See the example below; </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="583" src="./../../../wp-content/uploads/2021/08/Screen-Shot-2021-08-16-at-10.06.06-PM-1024x583.png" alt="Screen Shot 2021 08 16 at 10.06.06 PM" class="wp-image-185" srcset="./../../../wp-content/uploads/2021/08/Screen-Shot-2021-08-16-at-10.06.06-PM-1024x583.png 1024w, ./../../../wp-content/uploads/2021/08/Screen-Shot-2021-08-16-at-10.06.06-PM-300x171.png 300w, ./../../../wp-content/uploads/2021/08/Screen-Shot-2021-08-16-at-10.06.06-PM-768x437.png 768w, ./../../../wp-content/uploads/2021/08/Screen-Shot-2021-08-16-at-10.06.06-PM-1536x874.png 1536w, ./../../../wp-content/uploads/2021/08/Screen-Shot-2021-08-16-at-10.06.06-PM.png 1624w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Sample Invoice with payment notes/terms.</figcaption></figure>
+
+
+
+<h2>2. Write and pubish your Terms of Service </h2>
+
+
+
+<p>Create and publish your Terms of Service (ToS) on a dedicated page on your website. You&#8217;ll need to let your client know that by using your service, they&#8217;ve accepted your <strong>Terms of Use</strong>. You may need to redirect them to this ToS page as a reference when they default or abuse those terms. </p>
+
+
+
+<p>For your inspiration, <a class="extlink" href="https://branditechture.agency/terms-of-service/" target="_blank" rel="noreferrer noopener">here is an example.</a> </p>
+
+
+
+<h2>3. Declare a Grace Period </h2>
+
+
+
+<p>A Grace Period is as important to the client as your balance is to you. A grace period is basically a period in which your customer is allowed to delay payment beyond the agreed due date. During this period, no late fees are charged and the website can still be left to work fully. This period is also an opportunity for you to get a little bit closer to your client in order to show them that you are concerned about their unresponsiveness. I personally give a grace period between 7 and 14 days. </p>
+
+
+
+<p>Depending on the client&#8217;s attitude, after the Grace period elapses, you may want to charge them an additional 1% of the balance every day until they make their payment. This can be termed as a <strong>&#8220;Late Fee&#8221;</strong>, which is payable on top of the balance due. But you may keep yours simple and not charge the Late Fee. </p>
+
+
+
+<h2>4. Notify them at every stage of their billing cycle. </h2>
+
+
+
+<p>Expectedly, every invoice should have a due date appended to it. The due date is the &#8220;maximum date&#8221; when an invoice is expected to be settled.</p>
+
+
+
+<p>It is important that you notify the customer at every stage of the billing cycle viz; Due date, grace period and restrictions. This is where invoice auto-reminders can help. You can either schedule the reminders to automatically fire, for example,<em> 3 days before the due date, <em>7 days after the due date,</em></em> <em>etc</em>, or you can do it manually. </p>
+
+
+
+<p>I sometimes do mine manually because I love to personalize my tone when communicating with clients. You know,  not all clients are the same. </p>
+
+
+
+<pre class="wp-block-preformatted">TIP: For invoices and reminders, use <em>a</em> mail address like billing@yourwebsite.com or accounting@yourwebsite.com.</pre>
+
+
+
+<h2>5. Finally, impose a restriction on their website </h2>
+
+
+
+<p>If all your due date reminders and grace period alert are ignored, you should now send them a final email ( or WhatsApp message ) asking about their wellbeing whilst politely informing them that their Grace period has passed and their website has been restricted as a result. It is important to mention that this is their last notice and they may not recieve further alerts from you. </p>
+
+
+
+<p>Now, here is the most important part; Do not send them further alerts or notifications after this final notice. I repeat, DO NOT send the customer further alerts after imposing this restriction on their website. Breaking this rule would not only make you look beggy and pitiful, it would also dilute the efficacy of the restriction. </p>
+
+
+
+<p>There are two ways to impose a restriction on their website; </p>
+
+
+
+<h3>(i.) Use a modified index.html file</h3>
+
+
+
+<p>Go to the website root folder and rename their index.php (as in WordPress-based websites) or index.html (found in static html websites) file to something like &#8220;indexxxx.php&#8221; or indexxx.html. The idea is to change the default index.html page. Next, upload this <strong>Website_Suspended.HTML</strong> file in their website root folder (usually named public_html) and rename the <meta charset="utf-8"><strong>Website_Suspended.HTML</strong> file to <strong><em>index.html. </em></strong></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="1024" height="640" src="./../../../wp-content/uploads/2021/08/Screen-Shot-2021-08-16-at-9.23.08-PM-1024x640.png" alt="Screen Shot 2021 08 16 at 9.23.08 PM" class="wp-image-172" srcset="./../../../wp-content/uploads/2021/08/Screen-Shot-2021-08-16-at-9.23.08-PM-1024x640.png 1024w, ./../../../wp-content/uploads/2021/08/Screen-Shot-2021-08-16-at-9.23.08-PM-300x188.png 300w, ./../../../wp-content/uploads/2021/08/Screen-Shot-2021-08-16-at-9.23.08-PM-768x480.png 768w, ./../../../wp-content/uploads/2021/08/Screen-Shot-2021-08-16-at-9.23.08-PM-1536x960.png 1536w, ./../../../wp-content/uploads/2021/08/Screen-Shot-2021-08-16-at-9.23.08-PM-2048x1280.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Screenshot &#8211; Account Suspended </figcaption></figure></div>
+
+
+
+<p>Now, anytime they visit that website through the homepage, it&#8217;ll always serve the new index.html (which is the website suspended HTML page). </p>
+
+
+
+<pre class="wp-block-preformatted">Click <a href="https://raw.githubusercontent.com/branditechture/branditechture.github.io/master/Downloads/Website_Suspended.html" rel="nofollow"><strong>HERE</strong></a> to download the Website_Suspended.HTML file. 
+<strong><span class="has-inline-color has-luminous-vivid-orange-color">TIP:</span></strong> You may need to manually save it (using Ctrl+S or CMD + S) if it opens as a text. Don't forget to rename the file to index.html before or after uploading.</pre>
+
+
+
+<p>I like to use this method with non-techy clients because it&#8217;s very easy to undo once they settle their overdue balance. </p>
+
+
+
+<p>The only disadvantage of this method is that the client would still be able to bypass the restriction by accessing their website via its sub directories, e.g https://website.com/subdir.</p>
+
+
+
+<p>This should be seen as a soft restriction because it doesn&#8217;t harm their SEO as much, since other pages other than the homepage can still be accessed via the search engine result pages (or SERP). </p>
+
+
+
+<h3>(ii.) Put the website in Coming Soon mode </h3>
+
+
+
+<p>If you used WordPress, a much easier way would be to install a <strong>Coming Soon</strong> or <strong>Maintenance mode</strong> plugin, and then customize the message to display what you want. You can decide to put ads on it (But I guess that would be too extreme). </p>
+
+
+
+<p>This method when used for long periods can send a bad signal to Google (due to the 503 Website Temporarily Unavailable HTTP header), thereby potentially hurting their search engine rankings.</p>
+
+
+
+<p>After exhausting all the steps above, it is time to shift your focus to other jobs. </p>
+
+
+
+<p>If you follow(ed) these tips religiously, I can assure you that your client would naturally &#8220;concede defeat&#8221; and chase after you with your full balance. It might take weeks or months, but they&#8217;ll almost certainly get back to you with your full balance. </p>
+
+
+
+<p>Now, that&#8217;s cool and classy. <img loading="lazy" height="16" width="16" alt="😎" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t22/2/16/1f60e.png"> You&#8217;ve handled a difficult issue the way big businesses do.</p>
+
+
+
+<p>The best part? What transpired between you will usually not deter them from contacting you for other projects in the future. In fact, managing the situation using this strategy further proves that you are a professional.  </p>
+
+
+
+<p></p>
+<p>The post <a rel="nofollow" href="./../../../how-to-handle-clients-that-wont-pay-your-balance/index.html">How To Handle Clients That Won&#8217;t Pay Your Balance</a> appeared first on <a rel="nofollow" href="./../../../index.html">Blog by Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../how-to-handle-clients-that-wont-pay-your-balance/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Why We Are Moving Our Blog Away From WordPress</title>
 		<link>./../../../why-we-are-moving-our-blog-away-from-wordpress/index.html</link>
 					<comments>./../../../why-we-are-moving-our-blog-away-from-wordpress/index.html#respond</comments>
