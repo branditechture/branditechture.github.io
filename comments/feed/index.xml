@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments for Blog by Branditechture	</title>
-	<atom:link href="http://localhost/branditechture/comments/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://branditechture.com/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://branditechture.com</link>
 	<description>The Official Branditechture Blog</description>
 	<lastBuildDate>Thu, 19 Aug 2021 06:49:34 +0000</lastBuildDate>
