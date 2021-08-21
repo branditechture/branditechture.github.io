@@ -1,9 +1,9 @@
 Find Replace Keywords
 
-https://0.gra 
+http://0.gra 
 https://0.gra
 
-https://1.gra
+http://1.gra
 https://1.gra
 
 http://localhost/branditechture/
