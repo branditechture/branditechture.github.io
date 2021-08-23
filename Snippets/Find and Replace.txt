@@ -1,6 +1,6 @@
 Find Replace Keywords
 
-http://0.gra 
+http://0.gra
 https://0.gra
 
 http://1.gra
