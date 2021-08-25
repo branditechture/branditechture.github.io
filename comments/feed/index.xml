@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments for Blog by Branditechture	</title>
-	<atom:link href="https://branditechture.com/comments/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/branditechture/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://branditechture.com</link>
 	<description>The Official Branditechture Blog</description>
-	<lastBuildDate>Mon, 23 Aug 2021 14:50:57 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 25 Aug 2021 07:50:18 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
