@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Yusuf Odukoya &#8211; Blog by Branditechture</title>
-	<atom:link href="https://branditechture.com/author/yuuji/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/branditechture/author/yuuji/feed/" rel="self" type="application/rss+xml" />
 	<link>https://branditechture.com</link>
 	<description>The Official Branditechture Blog</description>
 	<lastBuildDate>Wed, 25 Aug 2021 06:49:16 +0000</lastBuildDate>
