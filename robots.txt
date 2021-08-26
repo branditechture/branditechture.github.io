@@ -2,3 +2,4 @@ User-Agent: *
 Allow: /
 
 Sitemap: https://branditechture.com/sitemap.xml
+Sitemap: https://branditechture.com/sitemap.rss
