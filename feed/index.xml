@@ -12,7 +12,7 @@
 	<atom:link href="https://branditechture.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://branditechture.com</link>
 	<description>The Official Branditechture Blog</description>
-	<lastBuildDate>Sat, 04 Sep 2021 07:14:12 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 Sep 2021 07:53:57 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -66,10 +66,10 @@
 
 
 <ol>
-<li><a href="https://namecheap.pxf.io/x9NojO" target="_blank" rel="noreferrer noopener sponsored nofollow">A Domain From Namecheap </a></li>
-<li><a href="https://github.com/signup" target="_blank" rel="noreferrer noopener nofollow">A Github Account </a></li>
-<li><a href="https://desktop.github.com/" target="_blank" rel="noreferrer noopener nofollow">Github Desktop</a></li>
-<li><a href="https://www.mamp.info/en/downloads/" target="_blank" rel="noreferrer noopener nofollow">MAMP Server </a></li>
+<li><span style="color: #ff6600;"><strong><a style="color: #ff6600;" href="https://namecheap.pxf.io/x9NojO" target="_blank" rel="noreferrer noopener sponsored nofollow">A Domain From Namecheap </a></strong></span></li>
+<li><span style="color: #ff6600;"><strong><a style="color: #ff6600;" href="https://github.com/signup" target="_blank" rel="noreferrer noopener nofollow">A Github Account </a></strong></span></li>
+<li><span style="color: #ff6600;"><strong><a style="color: #ff6600;" href="https://desktop.github.com/" target="_blank" rel="noreferrer noopener nofollow">Github Desktop</a></strong></span></li>
+<li><span style="color: #ff6600;"><strong><a style="color: #ff6600;" href="https://www.mamp.info/en/downloads/" target="_blank" rel="noreferrer noopener nofollow">MAMP Server </a></strong></span></li>
 </ol>
 
 
@@ -162,16 +162,11 @@
 
 
 
-<ol>
-<li>Launch Github Desktop</li>
-<li>Sign in with the same Github account which you used to <strong>create a repo</strong> in <strong>step 2</strong>. To sign in, click <strong>Github </strong>&gt; <strong>Preferences</strong> &gt; <strong>Accounts</strong> &gt; <strong>Sign In</strong> under <strong>Github.com</strong> (Not Enterprise). But if you use Windows, then that would be <strong>File </strong>&gt; <strong>Options </strong>&gt; <strong>Accounts</strong> &gt; <strong>Sign In</strong></li>
-<li>After successful authentication, it&#8217;s time to clone the repo we had created earlier on to our local storage. To do that, go to <strong>File</strong> &gt; <strong>Clone Repository</strong>. You will notice an option to choose a <strong>local path</strong> to clone to. Create a Folder named <strong>Github</strong> in your <strong>Documents</strong> folder. and choose to clone your repo into it. Your local path should look something like <strong>/Users/apple/Documents/Github/</strong><em>mystaticwebsite</em></li>
-<li>After setting your local path, choose the repo you created in <strong>Step 2</strong> and click on the <strong>Clone</strong> button on the lower right corner of the modal.</li>
-</ol>
-
-
-
-<p>If everything goes well, you should have a local version of your repo in Documents &gt; Github (depending on the local path set above)</p>
+<p>Launch Github Desktop</p>
+<p>1️⃣ Sign in with the same Github account which you used to <strong>create the repo</strong> in <strong>step 2 </strong>(above). To sign in, click <strong>Github </strong>&gt; <strong>Preferences</strong> &gt; <strong>Accounts</strong> &gt; <strong>Sign In</strong> under <strong>Github.com</strong> (Not Enterprise). But if you use Windows, then that would be <strong>File </strong>&gt; <strong>Options </strong>&gt; <strong>Accounts</strong> &gt; <strong>Sign In</strong></p>
+<p>2️⃣ After successful authentication, it&#8217;s time to clone the repo we had created earlier on to our local storage. To do that, go to <strong>File</strong> &gt; <strong>Clone Repository</strong>. You will notice an option to choose a <strong>local path</strong> to clone to. Create a Folder named <strong>Github</strong> in your <strong>Documents</strong> folder. and choose to clone your repo into it. Your local path should look something like <strong>/Users/apple/Documents/Github/</strong><em>mystaticwebsite</em></p>
+<p>3️⃣ After setting your local path, choose the repo you created in <strong>Step 2</strong> and click on the <strong>Clone</strong> button on the lower right corner of the modal.</p>
+<p>If everything goes well, you should have a local version of your repo in <strong>Documents &gt; Github</strong> (depending on the local path set above)</p>
 
 
 
@@ -284,59 +279,54 @@
 <p>Login to your Namecheap account.</p>
 <p>Navigate to the <strong>Domain List</strong> and click on <strong>Manage</strong> to the far right of your domain name.</p>
 <p>From there, click on the <strong>Advanced DNS</strong> tab. Click <strong>Add New Record</strong> to add each of the following five records:</p>
-<div class="table-wrapper-paragraph">
-<table class=" aligncenter">
+<table class="tg">
 <thead>
 <tr>
-<th>Type</th>
-<th>Host</th>
-<th>Value</th>
-<th>TTL</th>
+<th class="tg-0lax"><span style="font-weight: normal; font-style: normal; text-decoration: none;">Type</span></th>
+<th class="tg-0lax"><span style="font-weight: normal; font-style: normal; text-decoration: none;">Host</span></th>
+<th class="tg-0lax"><span style="font-weight: normal; font-style: normal; text-decoration: none;">Value</span></th>
+<th class="tg-0lax"><span style="font-weight: normal; font-style: normal; text-decoration: none;">TTL</span></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>CNAME Record</td>
-<td>www</td>
-<td>
-<p>Your GitHub pages URL</p>
-<p>(e.g https://you.github.io/yourrepo)</p>
+<td class="tg-0lax"><span style="font-weight: normal; font-style: normal; text-decoration: none;">CNAME Record</span></td>
+<td class="tg-0lax"><span style="font-weight: normal; font-style: normal; text-decoration: none;">www</span></td>
+<td class="tg-0lax">
+<p><span style="font-weight: normal; font-style: normal; text-decoration: none;">Your GitHub pages URL</span><br /><span style="font-weight: normal; font-style: normal; text-decoration: none;">(</span><span style="font-weight: normal; font-style: normal; text-decoration: none;">https://you.github.io/repo)</span></p>
 </td>
-<td>Automatic</td>
+<td class="tg-0lax"><span style="font-weight: normal; font-style: normal; text-decoration: none;">Automatic</span></td>
 </tr>
 <tr>
-<td>A Record</td>
-<td>@</td>
-<td>185.199.108.153</td>
-<td>Automatic</td>
+<td class="tg-0lax"><span style="font-weight: normal; font-style: normal; text-decoration: none;">A Record</span></td>
+<td class="tg-0lax"><span style="font-weight: normal; font-style: normal; text-decoration: none;">@</span></td>
+<td class="tg-0lax"><span style="font-weight: normal; font-style: normal; text-decoration: none;">185.199.108.153</span></td>
+<td class="tg-0lax"><span style="font-weight: normal; font-style: normal; text-decoration: none;">Automatic</span></td>
 </tr>
 <tr>
-<td>A Record</td>
-<td>@</td>
-<td>185.199.109.153</td>
-<td>Automatic</td>
+<td class="tg-0lax"><span style="font-weight: normal; font-style: normal; text-decoration: none;">A Record</span></td>
+<td class="tg-0lax"><span style="font-weight: normal; font-style: normal; text-decoration: none;">@</span></td>
+<td class="tg-0lax"><span style="font-weight: normal; font-style: normal; text-decoration: none;">185.199.109.153</span></td>
+<td class="tg-0lax"><span style="font-weight: normal; font-style: normal; text-decoration: none;">Automatic</span></td>
 </tr>
 <tr>
-<td>A Record</td>
-<td>@</td>
-<td>185.199.110.153</td>
-<td>Automatic</td>
+<td class="tg-0lax"><span style="font-weight: normal; font-style: normal; text-decoration: none;">A Record</span></td>
+<td class="tg-0lax"><span style="font-weight: normal; font-style: normal; text-decoration: none;">@</span></td>
+<td class="tg-0lax"><span style="font-weight: normal; font-style: normal; text-decoration: none;">185.199.110.153</span></td>
+<td class="tg-0lax"><span style="font-weight: normal; font-style: normal; text-decoration: none;">Automatic</span></td>
 </tr>
 <tr>
-<td>A Record</td>
-<td>@</td>
-<td>185.199.111.153</td>
-<td>Automatic</td>
+<td class="tg-0lax"><span style="font-weight: normal; font-style: normal; text-decoration: none;">A Record</span></td>
+<td class="tg-0lax"><span style="font-weight: normal; font-style: normal; text-decoration: none;">@</span></td>
+<td class="tg-0lax"><span style="font-weight: normal; font-style: normal; text-decoration: none;">185.199.111.153</span></td>
+<td class="tg-0lax"><span style="font-weight: normal; font-style: normal; text-decoration: none;">Automatic</span></td>
 </tr>
 </tbody>
 </table>
-</div>
 <p>Click <strong>Save All Changes</strong> and delete any additional records that may conflict with those you&#8217;ve just entered.</p>
 <p>Please give approximately <strong>30 minutes</strong> for the changes to go into effect. </p>
 <p>Congratulations! You have just successfully deployed a static WordPress Website with a custom domain, free forever on Github Pages!</p>
 <p>You should now be able to access the content in your GitHub Pages repository from the custom domain you registered with Namecheap.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>The post <a rel="nofollow" href="https://branditechture.com/free-static-website-hosting-with-namecheap-wordpress-github-pages-and-namecheap/">Free Static Website Hosting with WordPress, Namecheap, and Github Pages</a> appeared first on <a rel="nofollow" href="https://branditechture.com">Blog by Branditechture</a>.</p>
 ]]></content:encoded>
 					
@@ -436,7 +426,7 @@
 
 <div class="wp-block-image">
 <figure class="aligncenter size-large"><img loading="lazy" width="1024" height="594" class="wp-image-541" src="https://branditechture.com/wp-content/uploads/2021/09/Blog-by-Branditechture-min-e1630570443386-1024x594.png" alt="Blog by Branditechture min" srcset="https://branditechture.com/wp-content/uploads/2021/09/Blog-by-Branditechture-min-e1630570443386-1024x594.png 1024w, https://branditechture.com/wp-content/uploads/2021/09/Blog-by-Branditechture-min-e1630570443386-300x174.png 300w, https://branditechture.com/wp-content/uploads/2021/09/Blog-by-Branditechture-min-e1630570443386-768x445.png 768w, https://branditechture.com/wp-content/uploads/2021/09/Blog-by-Branditechture-min-e1630570443386-1536x890.png 1536w, https://branditechture.com/wp-content/uploads/2021/09/Blog-by-Branditechture-min-e1630570443386-2048x1187.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />
-<figcaption>Blog by Branditechture min</figcaption>
+<figcaption>Blog by Branditechture</figcaption>
 </figure>
 </div>
 
