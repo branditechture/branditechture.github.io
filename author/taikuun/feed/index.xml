@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Yusuf Odukoya &#8211; Blog by Branditechture</title>
+	<atom:link href="https://branditechture.com/author/taikuun/feed/" rel="self" type="application/rss+xml" />
+	<link>https://branditechture.com</link>
+	<description>The Official Branditechture Blog</description>
+	<lastBuildDate>Sat, 04 Sep 2021 06:08:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+
+<image>
+	<url>https://branditechture.com/wp-content/uploads/2021/08/favicon-150x150.png</url>
+	<title>Yusuf Odukoya &#8211; Blog by Branditechture</title>
+	<link>https://branditechture.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Free Static Website Hosting with WordPress, Namecheap, and Github Pages</title>
+		<link>https://branditechture.com/free-static-website-hosting-with-namecheap-wordpress-github-pages-and-namecheap/</link>
+					<comments>https://branditechture.com/free-static-website-hosting-with-namecheap-wordpress-github-pages-and-namecheap/#respond</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Sat, 04 Sep 2021 05:27:01 +0000</pubDate>
+				<category><![CDATA[Tuts]]></category>
+		<guid isPermaLink="false">https://branditechture.com/?p=520</guid>
+
+					<description><![CDATA[<p>In this article, I will show you how to generate very beautiful static websites using WordPress and how you can host and plug them to a custom domain (www.yourbusiness.com) for free on Github Pages. I am about to share a secret that I have used to save my clients a lot of money, keep their [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.com/free-static-website-hosting-with-namecheap-wordpress-github-pages-and-namecheap/">Free Static Website Hosting with WordPress, Namecheap, and Github Pages</a> appeared first on <a rel="nofollow" href="https://branditechture.com">Blog by Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>In this article, I will show you how to generate very beautiful static websites using WordPress and how you can host and plug them to a custom domain (www.yourbusiness.com) for free on Github Pages.</p>
+<p>I am about to share a secret that I have used to save my clients a lot of money, keep their website blazing fast, secure, and maintenance-free.</p>
+
+
+
+<p>The secret: I build their websites on localhost using WordPress, then I generate a static HTML version of the website and host it on GitHub Pages. To ensure the website loads over HTTPS, I use the SSL provided with the Cloudflare Free Plan.</p>
+
+
+
+
+
+<p>With WordPress, you have <a class="extlink" href="https://themeforest.net/category/wordpress" target="_blank" rel="noreferrer noopener nofollow">hundreds of thousands of free and premium themes</a> and <a class="extlink" href="https://wordpress.org/plugins/" target="_blank" rel="noreferrer noopener nofollow">plugins</a> to choose from. You can also build your own custom templates using Elementor Pro.</p>
+<pre><span style="color: #ff6600;"><strong>TIP:</strong></span>  If you want to see a full list of the <a href="https://branditechture.com/when-to-choose-a-static-website-over-a-dynamic-website-and-why-you-should/">advantages of using static websites</a>, quickly glance through <a href="https://branditechture.com/when-to-choose-a-static-website-over-a-dynamic-website-and-why-you-should/">this post</a> and come back here.</pre>
+
+
+
+
+
+
+
+<h2 id="h-prerequisites">Prerequisites</h2>
+
+
+
+<ol>
+<li><a href="https://namecheap.pxf.io/x9NojO" target="_blank" rel="noreferrer noopener sponsored nofollow">A Domain From Namecheap </a></li>
+<li><a href="https://github.com/signup" target="_blank" rel="noreferrer noopener nofollow">A Github Account </a></li>
+<li><a href="https://desktop.github.com/" target="_blank" rel="noreferrer noopener nofollow">Github Desktop</a></li>
+<li><a href="https://www.mamp.info/en/downloads/" target="_blank" rel="noreferrer noopener nofollow">MAMP Server </a></li>
+</ol>
+
+
+
+<h2>1. Set Up Your Domain Name</h2>
+
+
+
+<p>Click <a class="extlink" href="https://namecheap.pxf.io/x9NojO" target="_blank" rel="noreferrer noopener sponsored nofollow">HERE</a> to grab a domain name on <a href="https://namecheap.pxf.io/x9NojO" target="_blank" rel="noreferrer noopener sponsored nofollow">Namecheap</a></p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" width="1024" height="508" class="wp-image-563" src="https://branditechture.com/wp-content/uploads/2021/09/Register-A-Domain-Name-on-NameCheap-min-2-1-1024x508.png" alt="Register A Domain Name on NameCheap min 2 1" srcset="https://branditechture.com/wp-content/uploads/2021/09/Register-A-Domain-Name-on-NameCheap-min-2-1-1024x508.png 1024w, https://branditechture.com/wp-content/uploads/2021/09/Register-A-Domain-Name-on-NameCheap-min-2-1-300x149.png 300w, https://branditechture.com/wp-content/uploads/2021/09/Register-A-Domain-Name-on-NameCheap-min-2-1-768x381.png 768w, https://branditechture.com/wp-content/uploads/2021/09/Register-A-Domain-Name-on-NameCheap-min-2-1-1536x763.png 1536w, https://branditechture.com/wp-content/uploads/2021/09/Register-A-Domain-Name-on-NameCheap-min-2-1-2048x1017.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<figcaption>Register A Domain Name on NameCheap</figcaption>
+</figure>
+</div>
+
+
+
+<h2>2. Create Github Repository</h2>
+
+
+
+<p>You&#8217;ll need to create a repository (or repo) from which your website would be served.</p>
+
+
+
+<p>To do this, you first have to <strong><a class="extlink" href="https://github.com/signup" target="_blank" rel="noreferrer noopener nofollow">create a Github account</a></strong> if you don&#8217;t have one.</p>
+
+
+
+<p>After logging in, create a repo with name of your website.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="704" height="350" class="wp-image-564" src="https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-02-at-12.42.21-PM.png" alt="Screen Shot 2021 09 02 at 12.42.21 PM" srcset="https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-02-at-12.42.21-PM.png 704w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-02-at-12.42.21-PM-300x149.png 300w" sizes="(max-width: 704px) 100vw, 704px" /></figure>
+
+
+
+<p>Click on the <strong>New</strong> button coloured green.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1014" height="1024" class="wp-image-565" src="https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-02-at-12.44.32-PM-1014x1024.png" alt="Screen Shot 2021 09 02 at 12.44.32 PM" srcset="https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-02-at-12.44.32-PM-1014x1024.png 1014w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-02-at-12.44.32-PM-297x300.png 297w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-02-at-12.44.32-PM-150x150.png 150w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-02-at-12.44.32-PM-768x775.png 768w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-02-at-12.44.32-PM.png 1254w" sizes="(max-width: 1014px) 100vw, 1014px" /></figure>
+
+
+
+<p>Put the name of your website In the text field under <strong>Repository name *</strong>.</p>
+
+
+
+<p>As explained earlier, a repo acts like a folder that will hold the website&#8217;s source files. I named mine <strong>&#8220;my staticwebsite&#8221;</strong> but you can give yours any name.</p>
+
+
+
+<h2 id="h-3-install-github-desktop">3. Install Github Desktop</h2>
+
+
+
+<p>I am a busy <a class="extlink" href="https://dribbble.com/designeryusuf" target="_blank" rel="noreferrer noopener">Graphic Designer</a> with a phobia for command line errors so I avoid Git CLI. I prefer to use Github Desktop instead.</p>
+
+
+
+<p>If you are someone who doesn&#8217;t like Command Line Interface like me, <a class="extlink" href="https://desktop.github.com/" target="_blank" rel="noreferrer noopener nofollow">Github Desktop</a> is a very good alternative to Git CLI.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="540" class="wp-image-566" src="https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-02-at-1.36.37-PM-min-1024x540.png" alt="Screen Shot 2021 09 02 at 1.36.37 PM min" srcset="https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-02-at-1.36.37-PM-min-1024x540.png 1024w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-02-at-1.36.37-PM-min-300x158.png 300w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-02-at-1.36.37-PM-min-768x405.png 768w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-02-at-1.36.37-PM-min-1536x809.png 1536w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-02-at-1.36.37-PM-min-2048x1079.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>To Install Github Desktop, Go to <a class="extlink" href="https://desktop.github.com/" target="_blank" rel="noreferrer noopener">desktop.github.com</a>. Click on the big purple <strong>Download for [Your OS]</strong> button to <strong>download</strong> the installer, then install it on your machine.</p>
+
+
+
+<h2 id="h-4-create-an-offline-clone-of-your-repo">4. Create An Offline Clone of Your Repo</h2>
+
+
+
+<p>Luckily, Github Desktop allows us to <strong>clone</strong> repositories to our local drives, so we will use it to clone the repo we just created.</p>
+
+
+
+<p>It will also <strong>track and sync changes</strong> to files in the repo;<strong> both on Github.com and your local offline copy</strong> (which is basically a folder).</p>
+
+
+
+<p>To clone the repo we created on Github.com;</p>
+
+
+
+<ol>
+<li>Launch Github Desktop</li>
+<li>Sign in with the same Github account which you used to <strong>create a repo</strong> in <strong>step 2</strong>. To sign in, click <strong>Github </strong>&gt; <strong>Preferences</strong> &gt; <strong>Accounts</strong> &gt; <strong>Sign In</strong> under <strong>Github.com</strong> (Not Enterprise). But if you use Windows, then that would be <strong>File </strong>&gt; <strong>Options </strong>&gt; <strong>Accounts</strong> &gt; <strong>Sign In</strong></li>
+<li>After successful authentication, it&#8217;s time to clone the repo we had created earlier on to our local storage. To do that, go to <strong>File</strong> &gt; <strong>Clone Repository</strong>. You will notice an option to choose a <strong>local path</strong> to clone to. Create a Folder named <strong>Github</strong> in your <strong>Documents</strong> folder. and choose to clone your repo into it. Your local path should look something like <strong>/Users/apple/Documents/Github/</strong><em>mystaticwebsite</em></li>
+<li>After setting your local path, choose the repo you created in <strong>Step 2</strong> and click on the <strong>Clone</strong> button on the lower right corner of the modal.</li>
+</ol>
+
+
+
+<p>If everything goes well, you should have a local version of your repo in Documents &gt; Github (depending on the local path set above)</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" width="1024" height="639" class="wp-image-570" src="https://branditechture.com/wp-content/uploads/2021/09/repo-clone-1024x639.png" alt="repo clone" srcset="https://branditechture.com/wp-content/uploads/2021/09/repo-clone-1024x639.png 1024w, https://branditechture.com/wp-content/uploads/2021/09/repo-clone-300x187.png 300w, https://branditechture.com/wp-content/uploads/2021/09/repo-clone-768x479.png 768w, https://branditechture.com/wp-content/uploads/2021/09/repo-clone.png 1206w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<figcaption>repo clone</figcaption>
+</figure>
+</div>
+
+
+
+<h2 id="h-5-install-mamp">5. Install MAMP</h2>
+
+
+
+<p>MAMP is a local web development solution that allows us to develop PHP-powered websites on a local machine without having to purchase a <a class="extlink" href="https://support.branditechture.agency/docs/what-is-website-hosting/" target="_blank" rel="noopener">web hosting</a> plan.</p>
+
+
+
+<p>WordPress is powered by PHP, hence to create a WordPress website with our local machine, we would need a local server such as the one MAMP offers.</p>
+
+
+
+<p>To download and install MAMP, go to <a class="extlink" href="https://mamp.info/" target="_blank" rel="noreferrer noopener nofollow">mamp.info</a> and click on the ⬇️<strong> Free Download</strong> button. Wait for download to complete and install on your computer as usual.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="467" class="wp-image-572" src="https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-03-at-6.53.07-AM-min-1024x467.png" alt="Screen Shot 2021 09 03 at 6.53.07 AM min" srcset="https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-03-at-6.53.07-AM-min-1024x467.png 1024w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-03-at-6.53.07-AM-min-300x137.png 300w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-03-at-6.53.07-AM-min-768x350.png 768w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-03-at-6.53.07-AM-min-1536x701.png 1536w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-03-at-6.53.07-AM-min-2048x934.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>Now that you have installed MAMP. It is time to Install WordPress on your local machine. Which takes us to the next step.</p>
+
+
+
+<h2 id="h-6-install-wordpress">6. Install WordPress</h2>
+
+
+
+<p>Installing WordPress is a little bit tricky for beginners because the process is not the same on Windows and Mac. This is due to the varying directory structure on both OS, and maybe the subtle differences between the MAMP UI on both platforms.</p>
+
+
+
+<ol>
+<li>Go to <a class="extlink" href="https://wordpress.org/" target="_blank" rel="noreferrer noopener nofollow">wordpress.org/download</a> and scroll down until you see the Download Wordpress button.</li>
+<li>Download the WordPress .zip archive by clicking on the button.</li>
+</ol>
+
+
+
+<p>Follow the guide below for a step by step installation of WordPress for your OS;</p>
+
+
+
+<ul>
+<li><a href="https://athemes.com/tutorials/install-wordpress-locally-using-mamp/" target="_blank" rel="noreferrer nofollow noopener">Installing WordPress on MAMP (Windows PC)</a></li>
+<li><a href="https://leonardcucos.com/how-to-install-mamp-with-wordpress-on-macos-2021/" target="_blank" rel="noreferrer nofollow noopener">Installing WordPress on MAMP (Apple Mac OS)</a></li>
+</ul>
+
+
+
+<pre class="wp-block-preformatted"><strong>TIP:</strong> You can also use any existing WordPress installation; whether on localhost or on a live server.</pre>
+
+
+
+<h2 id="h-7-generate-static-html-files-from-wordpress">7. Generate Static HTML Files From WordPress</h2>
+
+
+
+<p>There are a few other plugins that can do this, but I found the <strong>Simply Static</strong> plugin to be very straightforward.</p>
+<p><img loading="lazy" class="wp-image-577 size-full" title="Screen Shot 2021 09 03 at 2.09.16 PM" src="https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-03-at-2.09.16-PM.png" alt="Screen Shot 2021 09 03 at 2.09.16 PM" width="1914" height="870" srcset="https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-03-at-2.09.16-PM.png 1914w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-03-at-2.09.16-PM-300x136.png 300w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-03-at-2.09.16-PM-1024x465.png 1024w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-03-at-2.09.16-PM-768x349.png 768w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-03-at-2.09.16-PM-1536x698.png 1536w" sizes="(max-width: 1914px) 100vw, 1914px" /></p>
+
+
+
+<p>From your WordPress Admin</p>
+
+
+
+<p>Go to <strong>Plugins</strong> &gt;&gt;<strong> Add new</strong></p>
+
+
+
+<p>Search for “<a class="extlink" href="https://wordpress.org/plugins/simply-static/" target="_blank" rel="noreferrer noopener">Simply Static</a>”. <strong>Install</strong> and <strong>activate</strong> it.</p>
+<p>Copy the directory path of your repo and paste it as shown in the screenshot below;</p>
+<p><img loading="lazy" class="wp-image-586 size-full" title="Simply Static Settings" src="https://branditechture.com/wp-content/uploads/2021/09/Simply-Static-Settings.png" alt="Simply Static Settings" width="1548" height="1390" srcset="https://branditechture.com/wp-content/uploads/2021/09/Simply-Static-Settings.png 1548w, https://branditechture.com/wp-content/uploads/2021/09/Simply-Static-Settings-300x269.png 300w, https://branditechture.com/wp-content/uploads/2021/09/Simply-Static-Settings-1024x919.png 1024w, https://branditechture.com/wp-content/uploads/2021/09/Simply-Static-Settings-768x690.png 768w, https://branditechture.com/wp-content/uploads/2021/09/Simply-Static-Settings-1536x1379.png 1536w" sizes="(max-width: 1548px) 100vw, 1548px" /></p>
+<p>Click <strong>Save Changes. </strong></p>
+<p>Now, <strong>Simply Static</strong> &gt; <strong>Generate </strong>then click <strong>Generate Static Files</strong></p>
+<p>If all goes well, your static WordPress site will be exported as static HTML pages in the repo folder path.</p>
+<p><img loading="lazy" class="wp-image-587 size-full" title="Screen Shot 2021 09 04 at 4.06.57 AM" src="https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-04-at-4.06.57-AM.png" alt="Screen Shot 2021 09 04 at 4.06.57 AM" width="1664" height="1002" srcset="https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-04-at-4.06.57-AM.png 1664w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-04-at-4.06.57-AM-300x181.png 300w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-04-at-4.06.57-AM-1024x617.png 1024w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-04-at-4.06.57-AM-768x462.png 768w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-04-at-4.06.57-AM-1536x925.png 1536w" sizes="(max-width: 1664px) 100vw, 1664px" /></p>
+<p>Good! now, Launch <strong>Github Desktop, </strong> <strong>Commit</strong> and <strong>Push the changes</strong> to your Github Repo as shown in the screenshots below;</p>
+<p><img loading="lazy" class="alignnone wp-image-588 size-full" title="Commit Changes" src="https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-04-at-4.14.38-AM.png" alt="Commit Changes" width="2560" height="1600" srcset="https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-04-at-4.14.38-AM.png 2560w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-04-at-4.14.38-AM-300x188.png 300w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-04-at-4.14.38-AM-1024x640.png 1024w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-04-at-4.14.38-AM-768x480.png 768w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-04-at-4.14.38-AM-1536x960.png 1536w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-04-at-4.14.38-AM-2048x1280.png 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
+<p>Step 1 &#8211; Click <strong>Commit to main </strong>(or sometimes, commit to <strong>master</strong>)</p>
+<p>Step 2 &#8211; <strong>Publish Branch </strong></p>
+<p><img loading="lazy" class="size-full wp-image-590" title="Screen Shot 2021 09 04 at 4.25.22 AM" src="https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-04-at-4.25.22-AM.png" alt="Screen Shot 2021 09 04 at 4.25.22 AM" width="2560" height="1600" srcset="https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-04-at-4.25.22-AM.png 2560w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-04-at-4.25.22-AM-300x188.png 300w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-04-at-4.25.22-AM-1024x640.png 1024w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-04-at-4.25.22-AM-768x480.png 768w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-04-at-4.25.22-AM-1536x960.png 1536w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-04-at-4.25.22-AM-2048x1280.png 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
+<pre>⚠️ The button says <strong>"Publish Branch"</strong> because we want to publish to an <strong>empty</strong> <strong>Github.com </strong>repo. <br /><br />Next time we regenerate our static WordPress file, and want to <strong>Push the changes to Github.com,</strong> the button won't display <strong>Publish Branch</strong>, but <strong>Push Origin.</strong><br /><br />Don't get confused, they both do the same job of pushing your changes to Github. </pre>
+<p>Now, it is time to covert our repo from just an ordinary repo to <strong>Github Pages.</strong> To do this, go to <a class="extlink" href="https://github.com/" target="_blank" rel="noopener">https://github.com/</a>, make sure you are logged in with your account as usual.</p>
+<p>Click on the repo we have been working on, then click on <strong>Settings &gt; Pages. </strong>Set your Github Pages branch to <strong>Main </strong>as shown in the screenshot below; </p>
+<p><img loading="lazy" class="size-full wp-image-591" title="Screen Shot 2021 09 04 at 4.41.36 AM" src="https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-04-at-4.41.36-AM.png" alt="Screen Shot 2021 09 04 at 4.41.36 AM" width="2560" height="1600" srcset="https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-04-at-4.41.36-AM.png 2560w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-04-at-4.41.36-AM-300x188.png 300w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-04-at-4.41.36-AM-1024x640.png 1024w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-04-at-4.41.36-AM-768x480.png 768w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-04-at-4.41.36-AM-1536x960.png 1536w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-04-at-4.41.36-AM-2048x1280.png 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
+<p>Click <strong>Save.</strong></p>
+<p>A link would be autogenerated for you something like <strong>https://you.github.io/yourrepo</strong>.</p>
+<pre>⚠️ Clicking on the link may return a <strong>Server not found error</strong>. Why? Because of the <strong>Destination URL settings</strong> we had specified in <strong>Simply Static</strong> <strong>in step 7 above</strong> before generating our static files.  <strong>DO NOT PANIC.</strong></pre>
+<p>Our website will not work until we complete the final step below 👇🏾, so you have to be a little bit patient here. </p>
+<h1>8. Connect GitHub Pages to Your Namecheap Domain</h1>
+<h3>Github Setup</h3>
+<p>This part explains how to connect your Namecheap domain to a GitHub Pages repository in GitHub.</p>
+<p>Be sure you are on the <strong>Pages</strong> settings of your repository. (<strong>Choose</strong> <strong>Repo </strong>&gt; <strong>Settings</strong> &gt; <strong>Pages</strong>)</p>
+<p>In the <strong>Custom Domain</strong> box, enter the domain you registered with Namecheap, and click <strong>Save</strong>.</p>
+<pre><span style="color: #ff6600;"><strong>Note:</strong></span> You may notice a new file called CNAME when you return to your repository's <strong>Code</strong> tab. This is completely normal, and it occurs after setting a custom domain. The CNAME is a very important file for your custom domain to work with Github. This file will include just one line of code; which is the domain you added in the Custom Domain Box.</pre>
+<h3>Namecheap Setup</h3>
+<p>Login to your Namecheap account.</p>
+<p>Navigate to the <strong>Domain List</strong> and click on <strong>Manage</strong> to the far right of your domain name.</p>
+<p>From there, click on the <strong>Advanced DNS</strong> tab. Click <strong>Add New Record</strong> to add each of the following five records:</p>
+<div class="table-wrapper-paragraph">
+<table class=" aligncenter">
+<thead>
+<tr>
+<th>Type</th>
+<th>Host</th>
+<th>Value</th>
+<th>TTL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CNAME Record</td>
+<td>www</td>
+<td>
+<p>Your GitHub pages URL</p>
+<p>(e.g https://you.github.io/yourrepo)</p>
+</td>
+<td>Automatic</td>
+</tr>
+<tr>
+<td>A Record</td>
+<td>@</td>
+<td>185.199.108.153</td>
+<td>Automatic</td>
+</tr>
+<tr>
+<td>A Record</td>
+<td>@</td>
+<td>185.199.109.153</td>
+<td>Automatic</td>
+</tr>
+<tr>
+<td>A Record</td>
+<td>@</td>
+<td>185.199.110.153</td>
+<td>Automatic</td>
+</tr>
+<tr>
+<td>A Record</td>
+<td>@</td>
+<td>185.199.111.153</td>
+<td>Automatic</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>Click <strong>Save All Changes</strong> and delete any additional records that may conflict with those you&#8217;ve just entered.</p>
+<p>Please give approximately <strong>30 minutes</strong> for the changes to go into effect. </p>
+<p>Congratulations! You have just successfully deployed a static WordPress Website with a custom domain, free forever on Github Pages!</p>
+<p>You should now be able to access the content in your GitHub Pages repository from the custom domain you registered with Namecheap.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="https://branditechture.com/free-static-website-hosting-with-namecheap-wordpress-github-pages-and-namecheap/">Free Static Website Hosting with WordPress, Namecheap, and Github Pages</a> appeared first on <a rel="nofollow" href="https://branditechture.com">Blog by Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.com/free-static-website-hosting-with-namecheap-wordpress-github-pages-and-namecheap/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

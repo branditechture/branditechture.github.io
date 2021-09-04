@@ -12,7 +12,7 @@
 	<atom:link href="https://branditechture.com/author/yuuji/feed/" rel="self" type="application/rss+xml" />
 	<link>https://branditechture.com</link>
 	<description>The Official Branditechture Blog</description>
-	<lastBuildDate>Wed, 25 Aug 2021 06:49:16 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 Sep 2021 06:10:17 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,208 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>When To Choose A Static Website Over A Dynamic Website And Why You Should</title>
+		<link>https://branditechture.com/when-to-choose-a-static-website-over-a-dynamic-website-and-why-you-should/</link>
+					<comments>https://branditechture.com/when-to-choose-a-static-website-over-a-dynamic-website-and-why-you-should/#respond</comments>
+		
+		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
+		<pubDate>Fri, 03 Sep 2021 07:01:38 +0000</pubDate>
+				<category><![CDATA[Tech Talks]]></category>
+		<guid isPermaLink="false">https://branditechture.com/?p=522</guid>
+
+					<description><![CDATA[<p>Websites can be built using a variety of languages; programming, markup, and markdown languages. They come in different sizes and shapes, but no matter what, a website is either static or dynamic. What is a Static Website? A static website is the most basic form of website. It is rendered on the browser exactly as [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.com/when-to-choose-a-static-website-over-a-dynamic-website-and-why-you-should/">When To Choose A Static Website Over A Dynamic Website And Why You Should</a> appeared first on <a rel="nofollow" href="https://branditechture.com">Blog by Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Websites can be built using a variety of languages; programming, markup, and markdown languages. They come in different sizes and shapes, but no matter what, a website is either <strong>static</strong> or <strong>dynamic</strong>.</p>
+
+
+
+<p><strong>What is a Static Website?</strong></p>
+
+
+
+<p>A static website is the most basic form of website. It is rendered on the browser exactly as stored, and nothing changes on a per-user basis. This means that the same content is served for every user.</p>
+
+
+
+<p><strong>What is a Dynamic Website?</strong></p>
+
+
+
+<p>A dynamic website is the type of website that renders the webpage <strong>at the time of request</strong>. Dynamic websites are usually built using one or more programming languages and they feature a database. They support features like user authentication, personalisation, per-user preferences, e-commerce, cookies etc.</p>
+
+
+
+<p><strong>Facebook.com</strong> is an example of a dynamic website. The name on my profile, my friends list, my newsfeed etc, will always differ from yours. These variables are generated from a database and rendered at the time of requesting each page.</p>
+
+
+
+
+<pre class="wp-block-preformatted"><strong>Need to build a website that truly works? Branditechture Design Agency offers <a class="extlink" href="https://branditechture.agency/lets-build-your-website/" target="_blank" rel="noreferrer noopener">bespoke website solutions</a> that you can truly call your own.</strong>
+
+<strong>Click <a class="extlink" href="https://branditechture.agency/lets-build-your-website/" target="_blank" rel="noreferrer noopener">HERE</a> to get started ASAP.</strong><strong> </strong></pre>
+
+
+
+<h2 id="h-advantages-of-static-websites">Advantages of Static Websites</h2>
+
+
+
+<p>You may be tempted to ask, &#8220;with all the awesome features of dynamic websites, why would someone opt for a static website?&#8221; </p>
+
+
+
+<p>Well, here are some genuine reasons to choose a static website over a dynamic website;</p>
+
+
+
+<ul>
+<li>Static websites do not require a database to render pages.</li>
+<li>SEO Benefits; Search Engine Crawlers don&#8217;t have a hard time crawling Static HTML websites.</li>
+<li>They are not resource-intensive, meaning that they&#8217;ll still respond relatively well on high concurrent usage (i.e The number of multiple website users at any given time).</li>
+<li>Static websites are unbelievably fast since no real time server preprocessing is required.</li>
+<li>They are secure and maintenance-free, which means static websites are rid of any security vulnerability even if left unmaintained for several years.</li>
+<li>The codebase of any static website can be easily read by any human with basic understanding of HTML, CSS &amp; JS, leading to easier bug fixes.</li>
+<li>Migrating static websites from one server to another server is relatively easy. It only involves copying the files from one server location to another. No additional steps such as database reconnection would be required.</li>
+</ul>
+
+
+
+<p>Some of the advantages listed above are hard to ignore, so whenever I am contracted to build a website, I first consider whether or not a static site would be enough to meet my client’s needs, and most of the times, it is. </p>
+
+
+
+<h2>Types of websites that can be made static.</h2>
+
+
+
+<p>Just in case you are wondering what types of websites can be made static, here are some use cases;</p>
+
+
+
+<h3 id="h-1-blog">1. Blog</h3>
+
+
+
+<p>This is hard to believe, but static websites can also be used for fully-featured blogs. </p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" width="1024" height="594" class="wp-image-541" src="https://branditechture.com/wp-content/uploads/2021/09/Blog-by-Branditechture-min-e1630570443386-1024x594.png" alt="Blog by Branditechture min" srcset="https://branditechture.com/wp-content/uploads/2021/09/Blog-by-Branditechture-min-e1630570443386-1024x594.png 1024w, https://branditechture.com/wp-content/uploads/2021/09/Blog-by-Branditechture-min-e1630570443386-300x174.png 300w, https://branditechture.com/wp-content/uploads/2021/09/Blog-by-Branditechture-min-e1630570443386-768x445.png 768w, https://branditechture.com/wp-content/uploads/2021/09/Blog-by-Branditechture-min-e1630570443386-1536x890.png 1536w, https://branditechture.com/wp-content/uploads/2021/09/Blog-by-Branditechture-min-e1630570443386-2048x1187.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<figcaption>Blog by Branditechture min</figcaption>
+</figure>
+</div>
+
+
+
+<p>This blog post you are currently reading is an example of a static blog. This page is originally an HTML file that was rendered as-is. As a matter of fact, no server-side preprocessing was needed. This was made possible by a WordPress plugin called Simply Static &#8211; A WordPress-powered static website generator.</p>
+
+
+
+<p>Are you still in doubt? You can verify by copying and pasting this link in your browser; <br />👉🏾 <strong>https://branditechture.com/index.html</strong></p>
+
+
+
+<pre class="wp-block-preformatted">If you are interested in building your own static blog/website using WordPress, then <strong><a href="https://branditechture.com/free-static-website-hosting-with-namecheap-wordpress-github-pages-and-cloudflare/">read this post.</a> </strong> </pre>
+
+
+
+<p><a href="https://branditechture.com/">This blog</a> has Yoast SEO tools, Google Analytics, Dedicated Author Pages, Navigational Menus, and pretty much anything that can be found on any WordPress blog. All thanks to Simply Static, a WordPress Static Site Generator.</p>
+
+
+
+<p>Blogs are nothing but content rendered via templates. You don’t need a heavy-weight application to parse every request before rendering a new page.</p>
+
+
+
+<p>If you want a fast-loading blog and a customised design in record time, a <a href="https://branditechture.com/free-static-website-hosting-with-namecheap-wordpress-github-pages-and-cloudflare/">static site generated from WordPress</a> is the perfect option for you. </p>
+
+
+
+<h3 id="h-2-one-page-website">2. One-page Website</h3>
+
+
+
+<p>As opposed to a multi-page website, a single-page website is a website having only one HTML page, which is usually the index-page.</p>
+
+
+
+<p>Despite having just a single page, One-page websites can still have navigation menu items that scroll up or down to the target section when clicked on. For easier navigation, the nav bar can be made sticky. </p>
+
+
+
+<h3 id="h-3-landing-pages">3. Landing Pages</h3>
+
+
+
+<p>If you just launched a new app, but you need a platform to spread the word and feature links to both the App Store (iOS) and Google Play (Android) versions of the app, you&#8217;ll need is a Landing page.</p>
+
+
+
+<p>Landing pages are used to provide information on (and ultimately sell) a certain product or concept. A landing page is similar to a One-page website, but there is no rule restricting it to only one page – It can have dedicated pages for <strong>Frequently Asked Questions (FAQ)</strong> and <strong>About Us.</strong></p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" width="1024" height="575" class="wp-image-537" src="https://branditechture.com/wp-content/uploads/2021/09/The-Abeg-App-Landing-Page-1024x575.png" alt="The Abeg App Landing Page" srcset="https://branditechture.com/wp-content/uploads/2021/09/The-Abeg-App-Landing-Page-1024x575.png 1024w, https://branditechture.com/wp-content/uploads/2021/09/The-Abeg-App-Landing-Page-300x169.png 300w, https://branditechture.com/wp-content/uploads/2021/09/The-Abeg-App-Landing-Page-768x431.png 768w, https://branditechture.com/wp-content/uploads/2021/09/The-Abeg-App-Landing-Page-1536x863.png 1536w, https://branditechture.com/wp-content/uploads/2021/09/The-Abeg-App-Landing-Page-2048x1150.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<figcaption>Abeg app landing page</figcaption>
+</figure>
+</div>
+
+
+
+<p>The <a class="extlink" href="https://abeg.app/" target="_blank" rel="noreferrer noopener nofollow">Abeg.app</a> website homepage is a good example of a landing page. </p>
+
+
+
+<h3 id="h-4-business-corporate-websites">4. Business/Corporate Websites</h3>
+
+
+
+<p>Most businesses employ a brochureware design, which typically involves transferring information on their company brochure on to their official website. Brochureware is the most common type of website in the corporate sector.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" width="1024" height="574" class="wp-image-534" src="https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-02-at-8.46.08-AM-1024x574.png" alt="Bostrad - Designed by Branditechture" />
+<figcaption>Bostrad.com &#8211; A business Website <a href="https://branditechture.agency/lets-build-your-website/" target="_blank" rel="noreferrer noopener">(designed by Branditechture)</a></figcaption>
+</figure>
+</div>
+
+
+
+<p>Business/Corporate websites are typically multi-paged. They reflect the services offered by an organisation or business, and they contain information such as about, testimonials, case studies, portfolio, related images, staff, and a contact page.</p>
+
+
+
+<h3 id="h-5-portfolio-and-cv-website">5. Portfolio and CV Website</h3>
+
+
+
+<p>A portfolio website displays professional information about an individual or a company and helps showcase their work.</p>
+
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-large"><img loading="lazy" width="1024" height="574" class="wp-image-533" src="https://branditechture.com/wp-content/uploads/2021/09/Portfolio-Landing-Page-1024x574.png" alt="Portfolio Landing Page" srcset="https://branditechture.com/wp-content/uploads/2021/09/Portfolio-Landing-Page-1024x574.png 1024w, https://branditechture.com/wp-content/uploads/2021/09/Portfolio-Landing-Page-300x168.png 300w, https://branditechture.com/wp-content/uploads/2021/09/Portfolio-Landing-Page-768x431.png 768w, https://branditechture.com/wp-content/uploads/2021/09/Portfolio-Landing-Page-1536x862.png 1536w, https://branditechture.com/wp-content/uploads/2021/09/Portfolio-Landing-Page-2048x1149.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<figcaption>Portfolio/CV Landing Page. (Image: <a href="https://designeryusuf.github.io/" target="_blank" rel="noreferrer noopener">https://designeryusuf.github.io/</a>)</figcaption>
+</figure>
+</div>
+
+
+
+<p>Now that you&#8217;ve seen all the advantages of static websites, follow this tutorial to learn<a href="https://branditechture.com/free-static-website-hosting-with-namecheap-wordpress-github-pages-and-cloudflare/"> how to generate and host your static website for free using WordPress, Github Pages, and Cloudflare for SSL.</a></p>
+<p>The post <a rel="nofollow" href="https://branditechture.com/when-to-choose-a-static-website-over-a-dynamic-website-and-why-you-should/">When To Choose A Static Website Over A Dynamic Website And Why You Should</a> appeared first on <a rel="nofollow" href="https://branditechture.com">Blog by Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.com/when-to-choose-a-static-website-over-a-dynamic-website-and-why-you-should/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>8 Businesses You Can Add To Your POS Business</title>
 		<link>https://branditechture.com/8-businesses-you-can-add-to-your-pos-business/</link>
 					<comments>https://branditechture.com/8-businesses-you-can-add-to-your-pos-business/#respond</comments>
@@ -35,7 +237,6 @@
 		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
 		<pubDate>Tue, 24 Aug 2021 18:34:30 +0000</pubDate>
 				<category><![CDATA[Business Tips]]></category>
-		<category><![CDATA[Featured]]></category>
 		<guid isPermaLink="false">https://branditechture.com/?p=446</guid>
 
 					<description><![CDATA[<p>POS business is arguably the most popular financial business in Nigeria. It has found its way into every nigerian street and district; from the streets of Ikeja — home to the biggest technology hub in West Africa (porpularly called Computer Village) to the most remote rural areas of Northern Nigeria. In fact, the widespread adoption [&#8230;]</p>
@@ -46,7 +247,7 @@
 
 
 
-<p>In fact, the widespread adoption of the POS business model in Nigeria has significantly contributed to Opay&#8217;s 2bn US Dollar milestone (~ 1 trillion Naira), comfortably superseding Flutterwave&#8217;s $1bn+ valuation to make it the <a class="extlink" href="https://techcrunch.com/2021/08/23/african-fintech-opay-valued-at-2b-in-softbank-vision-fund-2-led-400m-funding/" target="_blank" rel="noreferrer noopener nofollow">most valuable unicorn startup in Nigeria.</a>  </p>
+<p>In fact, the widespread adoption of the POS business model in Nigeria has significantly contributed to <a class="extlink" href="https://techcrunch.com/2021/08/23/african-fintech-opay-valued-at-2b-in-softbank-vision-fund-2-led-400m-funding/" target="_blank" rel="noreferrer noopener nofollow">Opay&#8217;s 2bn US Dollar milestone</a> (~ 1 trillion Naira), comfortably superseding Flutterwave&#8217;s $1bn+ valuation to make it the most valuable unicorn startup in Nigeria.  </p>
 
 
 
@@ -66,11 +267,11 @@
 
 
 
-<p>There are several other business ventures you can add to your POS Business but let&#8217;s talk about at 8 of them.</p>
+<p>There are several other business ventures you can add to&nbsp;your POS Business&nbsp;but let&#8217;s talk about at 8 of them.</p>
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" width="1024" height="682" src="https://branditechture.com/wp-content/uploads/2021/08/POS1.jpg" alt="POS1" class="wp-image-460" srcset="https://branditechture.com/wp-content/uploads/2021/08/POS1.jpg?v=1629831936 1024w, https://branditechture.com/wp-content/uploads/2021/08/POS1-300x200.jpg?v=1629831936 300w, https://branditechture.com/wp-content/uploads/2021/08/POS1-768x512.jpg?v=1629831936 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" width="1024" height="682" src="https://branditechture.com/wp-content/uploads/2021/08/POS1.jpg" alt="POS1" class="wp-image-460" srcset="https://branditechture.com/wp-content/uploads/2021/08/POS1.jpg 1024w, https://branditechture.com/wp-content/uploads/2021/08/POS1-300x200.jpg 300w, https://branditechture.com/wp-content/uploads/2021/08/POS1-768x512.jpg 768w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -158,7 +359,7 @@
 
 
 
-<figure class="wp-block-gallery aligncenter columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="600" height="576" src="https://branditechture.com/wp-content/uploads/2021/08/PureWater-Business.jpeg" alt="PureWater Business" data-id="471" data-full-url="https://branditechture.com/wp-content/uploads/2021/08/PureWater-Business.jpeg" data-link="https://branditechture.com/6-businesses-you-can-add-to-your-pos-business/purewater-business/" class="wp-image-471" srcset="https://branditechture.com/wp-content/uploads/2021/08/PureWater-Business.jpeg?v=1629869031 600w, https://branditechture.com/wp-content/uploads/2021/08/PureWater-Business-300x288.jpeg?v=1629869031 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption class="blocks-gallery-item__caption">Cold Pure Water</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1500" height="2000" src="https://branditechture.com/wp-content/uploads/2021/08/Pure-Water.jpg" alt="Pure Water" data-id="468" data-full-url="https://branditechture.com/wp-content/uploads/2021/08/Pure-Water.jpg" data-link="https://branditechture.com/6-businesses-you-can-add-to-your-pos-business/pure-water/" class="wp-image-468" srcset="https://branditechture.com/wp-content/uploads/2021/08/Pure-Water.jpg?v=1629863818 1500w, https://branditechture.com/wp-content/uploads/2021/08/Pure-Water-225x300.jpg?v=1629863818 225w, https://branditechture.com/wp-content/uploads/2021/08/Pure-Water-768x1024.jpg?v=1629863818 768w, https://branditechture.com/wp-content/uploads/2021/08/Pure-Water-1152x1536.jpg?v=1629863818 1152w" sizes="(max-width: 1500px) 100vw, 1500px" /><figcaption class="blocks-gallery-item__caption">Lukewarm Pure Water</figcaption></figure></li></ul></figure>
+<figure class="wp-block-gallery aligncenter columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="600" height="576" src="https://branditechture.com/wp-content/uploads/2021/08/PureWater-Business.jpeg" alt="PureWater Business" data-id="471" data-full-url="https://branditechture.com/wp-content/uploads/2021/08/PureWater-Business.jpeg" data-link="https://branditechture.com/6-businesses-you-can-add-to-your-pos-business/purewater-business/" class="wp-image-471" srcset="https://branditechture.com/wp-content/uploads/2021/08/PureWater-Business.jpeg 600w, https://branditechture.com/wp-content/uploads/2021/08/PureWater-Business-300x288.jpeg 300w" sizes="(max-width: 600px) 100vw, 600px" /><figcaption class="blocks-gallery-item__caption">Cold Pure Water</figcaption></figure></li><li class="blocks-gallery-item"><figure><img loading="lazy" width="1500" height="2000" src="https://branditechture.com/wp-content/uploads/2021/08/Pure-Water.jpg" alt="Pure Water" data-id="468" data-full-url="https://branditechture.com/wp-content/uploads/2021/08/Pure-Water.jpg" data-link="https://branditechture.com/6-businesses-you-can-add-to-your-pos-business/pure-water/" class="wp-image-468" srcset="https://branditechture.com/wp-content/uploads/2021/08/Pure-Water.jpg 1500w, https://branditechture.com/wp-content/uploads/2021/08/Pure-Water-225x300.jpg 225w, https://branditechture.com/wp-content/uploads/2021/08/Pure-Water-768x1024.jpg 768w, https://branditechture.com/wp-content/uploads/2021/08/Pure-Water-1152x1536.jpg 1152w" sizes="(max-width: 1500px) 100vw, 1500px" /><figcaption class="blocks-gallery-item__caption">Lukewarm Pure Water</figcaption></figure></li></ul></figure>
 
 
 
@@ -214,7 +415,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" width="830" height="1024" src="https://branditechture.com/wp-content/uploads/2021/08/Puff-Puff-830x1024.jpeg" alt="Puff Puff" class="wp-image-472" srcset="https://branditechture.com/wp-content/uploads/2021/08/Puff-Puff-830x1024.jpeg?v=1629869276 830w, https://branditechture.com/wp-content/uploads/2021/08/Puff-Puff-243x300.jpeg?v=1629869276 243w, https://branditechture.com/wp-content/uploads/2021/08/Puff-Puff-768x948.jpeg?v=1629869276 768w, https://branditechture.com/wp-content/uploads/2021/08/Puff-Puff.jpeg?v=1629869276 875w" sizes="(max-width: 830px) 100vw, 830px" /><figcaption>Puff Puff</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" width="830" height="1024" src="https://branditechture.com/wp-content/uploads/2021/08/Puff-Puff-830x1024.jpeg" alt="Puff Puff" class="wp-image-472" srcset="https://branditechture.com/wp-content/uploads/2021/08/Puff-Puff-830x1024.jpeg 830w, https://branditechture.com/wp-content/uploads/2021/08/Puff-Puff-243x300.jpeg 243w, https://branditechture.com/wp-content/uploads/2021/08/Puff-Puff-768x948.jpeg 768w, https://branditechture.com/wp-content/uploads/2021/08/Puff-Puff.jpeg 875w" sizes="(max-width: 830px) 100vw, 830px" /><figcaption>Puff Puff</figcaption></figure>
 
 
 
@@ -242,7 +443,7 @@
 
 
 
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><a href="https://branditechture.com/wp-content/uploads/2021/08/Ponmo-Alata.jpeg"><img loading="lazy" width="768" height="1024" src="https://branditechture.com/wp-content/uploads/2021/08/Ponmo-Alata-768x1024.jpeg" alt="Ponmo Alata" data-id="470" data-full-url="https://branditechture.com/wp-content/uploads/2021/08/Ponmo-Alata.jpeg" data-link="https://branditechture.com/6-businesses-you-can-add-to-your-pos-business/ponmo-alata/" class="wp-image-470" srcset="https://branditechture.com/wp-content/uploads/2021/08/Ponmo-Alata-768x1024.jpeg?v=1629869030 768w, https://branditechture.com/wp-content/uploads/2021/08/Ponmo-Alata-225x300.jpeg?v=1629869030 225w, https://branditechture.com/wp-content/uploads/2021/08/Ponmo-Alata-1152x1536.jpeg?v=1629869030 1152w, https://branditechture.com/wp-content/uploads/2021/08/Ponmo-Alata.jpeg?v=1629869030 1536w" sizes="(max-width: 768px) 100vw, 768px" /></a><figcaption class="blocks-gallery-item__caption">Ponmo Alata</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://branditechture.com/wp-content/uploads/2021/08/Fried-Meat.jpeg"><img loading="lazy" width="768" height="1024" src="https://branditechture.com/wp-content/uploads/2021/08/Fried-Meat.jpeg" alt="Fried Meat" data-id="469" data-full-url="https://branditechture.com/wp-content/uploads/2021/08/Fried-Meat.jpeg" data-link="https://branditechture.com/6-businesses-you-can-add-to-your-pos-business/fried-meat/" class="wp-image-469" srcset="https://branditechture.com/wp-content/uploads/2021/08/Fried-Meat.jpeg?v=1629869027 768w, https://branditechture.com/wp-content/uploads/2021/08/Fried-Meat-225x300.jpeg?v=1629869027 225w" sizes="(max-width: 768px) 100vw, 768px" /></a><figcaption class="blocks-gallery-item__caption">Fried Meat</figcaption></figure></li></ul></figure>
+<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><a href="https://branditechture.com/wp-content/uploads/2021/08/Ponmo-Alata.jpeg"><img loading="lazy" width="768" height="1024" src="https://branditechture.com/wp-content/uploads/2021/08/Ponmo-Alata-768x1024.jpeg" alt="Ponmo Alata" data-id="470" data-full-url="https://branditechture.com/wp-content/uploads/2021/08/Ponmo-Alata.jpeg" data-link="https://branditechture.com/6-businesses-you-can-add-to-your-pos-business/ponmo-alata/" class="wp-image-470" srcset="https://branditechture.com/wp-content/uploads/2021/08/Ponmo-Alata-768x1024.jpeg 768w, https://branditechture.com/wp-content/uploads/2021/08/Ponmo-Alata-225x300.jpeg 225w, https://branditechture.com/wp-content/uploads/2021/08/Ponmo-Alata-1152x1536.jpeg 1152w, https://branditechture.com/wp-content/uploads/2021/08/Ponmo-Alata.jpeg 1536w" sizes="(max-width: 768px) 100vw, 768px" /></a><figcaption class="blocks-gallery-item__caption">Ponmo Alata</figcaption></figure></li><li class="blocks-gallery-item"><figure><a href="https://branditechture.com/wp-content/uploads/2021/08/Fried-Meat.jpeg"><img loading="lazy" width="768" height="1024" src="https://branditechture.com/wp-content/uploads/2021/08/Fried-Meat.jpeg" alt="Fried Meat" data-id="469" data-full-url="https://branditechture.com/wp-content/uploads/2021/08/Fried-Meat.jpeg" data-link="https://branditechture.com/6-businesses-you-can-add-to-your-pos-business/fried-meat/" class="wp-image-469" srcset="https://branditechture.com/wp-content/uploads/2021/08/Fried-Meat.jpeg 768w, https://branditechture.com/wp-content/uploads/2021/08/Fried-Meat-225x300.jpeg 225w" sizes="(max-width: 768px) 100vw, 768px" /></a><figcaption class="blocks-gallery-item__caption">Fried Meat</figcaption></figure></li></ul></figure>
 
 
 
@@ -318,8 +519,7 @@
 		
 		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
 		<pubDate>Mon, 23 Aug 2021 10:41:23 +0000</pubDate>
-				<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Tech Talks]]></category>
+				<category><![CDATA[Tech Talks]]></category>
 		<guid isPermaLink="false">https://branditechture.com/?p=384</guid>
 
 					<description><![CDATA[<p>The concept of being able to access collateral-free loans by just downloading an app seems incredible to many Nigerians — This reality has effectively made loan apps the most notable invention of the fastest-growing sector in the tech industry in Nigeria; Fintech. Loan apps like Branch, Carbon, Quick Check and FairMoney have started seeing competition [&#8230;]</p>
@@ -785,8 +985,7 @@
 		
 		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
 		<pubDate>Sat, 14 Aug 2021 12:50:48 +0000</pubDate>
-				<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Tech Talks]]></category>
+				<category><![CDATA[Tech Talks]]></category>
 		<guid isPermaLink="false">https://branditechture.com/?p=17</guid>
 
 					<description><![CDATA[<p>Hello. Here’s Yusuf again. In this blog post, we would explain the reason behind our decision to move our website away from WordPress. Well, we didnt actually move from WordPress. We still use WP, but our website is now fully static. What led to this drastic decision? Well, I will tell you why. Two years [&#8230;]</p>
@@ -821,8 +1020,7 @@
 		
 		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
 		<pubDate>Sat, 14 Aug 2021 12:50:01 +0000</pubDate>
-				<category><![CDATA[Featured]]></category>
-		<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Tips]]></category>
 		<guid isPermaLink="false">https://branditechture.com/?p=15</guid>
 
 					<description><![CDATA[<p>This might sound like you’re very boring topic but I’m content marketing is actually the future of advertising. People might not tell you this but this is the ultimate budget silver. reasons why content marketing is the best for your business. &#160;content marketing is a new idea for most businesses and because of its long-term [&#8230;]</p>
@@ -853,7 +1051,7 @@
 		
 		<dc:creator><![CDATA[Yusuf Odukoya]]></dc:creator>
 		<pubDate>Sat, 14 Aug 2021 12:49:25 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
+				<category><![CDATA[Featured]]></category>
 		<guid isPermaLink="false">https://branditechture.com/?p=13</guid>
 
 					<description><![CDATA[<p>Our agency despite being a small company operates most similar to a large cooperation. And in this post, we will be giving you an insight on our recruitment and hiring process. Branditechture always seek the best talent and as a matter fact requires highly skilled professionals with with a fair educational qualification. I know some [&#8230;]</p>
