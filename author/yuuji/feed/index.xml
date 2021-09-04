@@ -12,7 +12,7 @@
 	<atom:link href="https://branditechture.com/author/yuuji/feed/" rel="self" type="application/rss+xml" />
 	<link>https://branditechture.com</link>
 	<description>The Official Branditechture Blog</description>
-	<lastBuildDate>Sat, 04 Sep 2021 07:53:57 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 Sep 2021 08:12:03 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -164,7 +164,7 @@
 
 <p>Launch Github Desktop</p>
 <p>1️⃣ Sign in with the same Github account which you used to <strong>create the repo</strong> in <strong>step 2 </strong>(above). To sign in, click <strong>Github </strong>&gt; <strong>Preferences</strong> &gt; <strong>Accounts</strong> &gt; <strong>Sign In</strong> under <strong>Github.com</strong> (Not Enterprise). But if you use Windows, then that would be <strong>File </strong>&gt; <strong>Options </strong>&gt; <strong>Accounts</strong> &gt; <strong>Sign In</strong></p>
-<p>2️⃣ After successful authentication, it&#8217;s time to clone the repo we had created earlier on to our local storage. To do that, go to <strong>File</strong> &gt; <strong>Clone Repository</strong>. You will notice an option to choose a <strong>local path</strong> to clone to. Create a Folder named <strong>Github</strong> in your <strong>Documents</strong> folder. and choose to clone your repo into it. Your local path should look something like <strong>/Users/apple/Documents/Github/</strong><em>mystaticwebsite</em></p>
+<p>2️⃣ After successful authentication, it&#8217;s time to clone the repo we had created earlier on to our local storage. To do that, go to <strong>File</strong> &gt; <strong>Clone Repository</strong>. You will notice an option to choose a <strong>local path</strong> to clone to. Create a Folder named <strong>Github</strong> in your <strong>Documents</strong> folder. and choose to clone your repo into it. Your local path should look something like; <strong>/Users/apple/Documents/Github</strong></p>
 <p>3️⃣ After setting your local path, choose the repo you created in <strong>Step 2</strong> and click on the <strong>Clone</strong> button on the lower right corner of the modal.</p>
 <p>If everything goes well, you should have a local version of your repo in <strong>Documents &gt; Github</strong> (depending on the local path set above)</p>
 
