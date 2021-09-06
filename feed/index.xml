@@ -12,7 +12,7 @@
 	<atom:link href="https://branditechture.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://branditechture.com</link>
 	<description>The Official Branditechture Blog</description>
-	<lastBuildDate>Sat, 04 Sep 2021 09:25:08 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 06 Sep 2021 14:49:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -254,6 +254,7 @@
 <p><img loading="lazy" class="wp-image-586 size-full" title="Simply Static Settings" src="https://branditechture.com/wp-content/uploads/2021/09/Simply-Static-Settings.png" alt="Simply Static Settings" width="1548" height="1390" srcset="https://branditechture.com/wp-content/uploads/2021/09/Simply-Static-Settings.png 1548w, https://branditechture.com/wp-content/uploads/2021/09/Simply-Static-Settings-300x269.png 300w, https://branditechture.com/wp-content/uploads/2021/09/Simply-Static-Settings-1024x919.png 1024w, https://branditechture.com/wp-content/uploads/2021/09/Simply-Static-Settings-768x690.png 768w, https://branditechture.com/wp-content/uploads/2021/09/Simply-Static-Settings-1536x1379.png 1536w" sizes="(max-width: 1548px) 100vw, 1548px" /></p>
 <p>Click <strong>Save Changes. </strong></p>
 <p>Now, <strong>Simply Static</strong> &gt; <strong>Generate </strong>then click <strong>Generate Static Files</strong></p>
+<pre>⚠️ <strong>IMPORTANT</strong>: If you have been following this tutorial using a web host or a live server, your server may not be able to write directly to your local repo and you would get the error; <strong>unable to create destination directory</strong>. In this case, you must use the  <strong>ZIP Archive </strong>Delivery Method ( <strong>Simply Static</strong> &gt; <strong>Settings</strong> &gt; <strong>Delivery Method</strong> &gt; <strong>ZIP Archive</strong>) and manually extract the generated static html and other assets into your local repo folder. <br /><br />If you are using MAMP, ignore this message and continue reading below.</pre>
 <p>If all goes well, your static WordPress site will be exported as static HTML pages in the repo folder path.</p>
 <p><img loading="lazy" class="wp-image-587 size-full" title="Screen Shot 2021 09 04 at 4.06.57 AM" src="https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-04-at-4.06.57-AM.png" alt="Screen Shot 2021 09 04 at 4.06.57 AM" width="1664" height="1002" srcset="https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-04-at-4.06.57-AM.png 1664w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-04-at-4.06.57-AM-300x181.png 300w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-04-at-4.06.57-AM-1024x617.png 1024w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-04-at-4.06.57-AM-768x462.png 768w, https://branditechture.com/wp-content/uploads/2021/09/Screen-Shot-2021-09-04-at-4.06.57-AM-1536x925.png 1536w" sizes="(max-width: 1664px) 100vw, 1664px" /></p>
 <p>Good! now, Launch <strong>Github Desktop, </strong> <strong>Commit</strong> and <strong>Push the changes</strong> to your Github Repo as shown in the screenshots below;</p>
@@ -326,7 +327,7 @@
 <p>Click <strong>Save All Changes</strong> and delete any additional records that may conflict with those you&#8217;ve just entered.</p>
 <p>Please give approximately <strong>30 minutes</strong> for the changes to go into effect. </p>
 <p>Congratulations! You have just successfully deployed a static WordPress Website with a custom domain, free forever on Github Pages!</p>
-<p>You should now be able to access the content in your GitHub Pages repository from the custom domain you registered with Namecheap.</p>
+<p>You should now be able to access your static website from your custom domain.</p>
 <p>The post <a rel="nofollow" href="https://branditechture.com/free-static-website-hosting-with-namecheap-wordpress-github-pages-and-namecheap/">Free Static Website Hosting with WordPress, Namecheap, and Github Pages</a> appeared first on <a rel="nofollow" href="https://branditechture.com">Blog by Branditechture</a>.</p>
 ]]></content:encoded>
 					
