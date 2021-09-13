@@ -12,7 +12,7 @@
 	<atom:link href="https://branditechture.com/author/lightwrites/feed/" rel="self" type="application/rss+xml" />
 	<link>https://branditechture.com</link>
 	<description>The Official Branditechture Blog</description>
-	<lastBuildDate>Sat, 04 Sep 2021 06:09:27 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 13 Sep 2021 05:47:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,83 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Is Hive OS Worth It?</title>
+		<link>https://branditechture.com/is-hive-os-worth-it/</link>
+					<comments>https://branditechture.com/is-hive-os-worth-it/#respond</comments>
+		
+		<dc:creator><![CDATA[Chukwudi Favour]]></dc:creator>
+		<pubDate>Mon, 13 Sep 2021 05:11:27 +0000</pubDate>
+				<category><![CDATA[Crypto]]></category>
+		<guid isPermaLink="false">https://branditechture.com/?p=778</guid>
+
+					<description><![CDATA[<p>Who wouldn’t fancy making $30- $150 per day, without having to negotiate or interact with anyone? Well, I think you do. Yes, You!  If that&#8217;s not what lead you to this article, then I can only wonder what else. Before we get started, let&#8217;s briefly explain what Hive OS is.  What is Hive OS? Hive OS [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://branditechture.com/is-hive-os-worth-it/">Is Hive OS Worth It?</a> appeared first on <a rel="nofollow" href="https://branditechture.com">Blog by Branditechture</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Who wouldn’t fancy making $30- $150 per day, without having to negotiate or interact with anyone? Well, I think you do.</p>
+<p>Yes, You!  <span style="font-weight: 400;">If that&#8217;s not what lead you to this article, then I can only wonder what else. </span></p>
+<p><span style="font-weight: 400;">Before we get started, let&#8217;s briefly explain what Hive OS is. </span></p>
+<h2>What is Hive OS?</h2>
+<p>Hive OS is <b>an operating system developed on top of the popular Linux distro, Ubuntu</b>. Let&#8217;s just say that it is a modified version of Ubuntu. Its main mission is to provide you with a convenient interface for mining cryptocurrencies on GPU and managing your rigs.</p>
+<p>Hive OS gives you the interface to mine Ethereum and Bitcoin, but network<a target="_blank" class="extlink" rel="nofollow noopener" href="https://hiveos.farm/statistics/"> usage statistics</a> show that over 70% of miners prefer to use Hive OS to mine ETH.</p>
+<p><span style="font-weight: 400;">In this article, we would be taking a closer look at the cost of setting up a Hive OS-powered mining rig versus the gains or profits, which leads us to the ultimate question; <strong>Is Hive OS Worth it?</strong></span></p>
+<p><span style="font-weight: 400;">First, let me tell you about a guy named JP.</span></p>
+<p><span style="font-weight: 400;">JP got into cryptocurrency mining at the age of 16, he’s 23 now and so that’s about 7 years ago; 2014 to be precise. He and his friend invested their life savings, which was a sum of $100,000 to acquire 100 Ethereum (ETH) miners at the time. They were mining 30 ETH daily. </span><span style="font-weight: 400;">In today’s economy, that would be worth over a million US dollars per day! Unfortunately, they had to keep reinvesting over 80% of their generated revenue, to foot the cost of operating the miners.</span></p>
+<p><span style="font-weight: 400;">You see, an uninterrupted supply of the appropriate quantity of power (emphasis on ‘</span><b>appropriate</b><span style="font-weight: 400;">’) and stable, unrestricted access to the internet are the major resources needed to start mining. Good news, 5G will definitely soon go viral and make its way into developing nations (If you happen to live in one).</span></p>
+<p><span style="font-weight: 400;">After you acquire your hardware (as your budget may permit you), you have to <a class="extlink" href="https://hiveos.farm/install/" target="_blank" rel="noopener nofollow">begin the installation of Hive OS</a> on your miner. The Hive OS installer is available for both Windows, Mac and Linux, however, Hive OS itself is a linux-based operating system. It is a modified version of the Ubutu Linux distro. So your mining rig would always need to be booted into HiveOS to use it. </span></p>
+<p><span style="font-weight: 400;">A piece of warning; the learning curve is steep — You&#8217;ll have to become accustomed to words like GPU, ASIC, PXE, Hive OS Deploy, Block, Block Reward, Cloud Mining, <strong>Hash Rate, </strong>Mining Pool, Confirmations etc.  </span></p>
+<p>To start mining Hive OS, here are some non-negotiable requirements/expenses;</p>
+<h2>Mining Rig</h2>
+<p>A mining rig is <b>a computer system used for mining cryptocurrencies</b>. A mining rig might be a specialised computer that does no other work than to mine crypto (e.g the ASICs) or it could otherwise be a computer that fills other needs, such as performing as a gaming system, and is used to mine only on a part-time basis (e.g everyday,  before you retire to bed.)</p>
+<p><span style="font-weight: 400;"> There are essentially three kinds of hardware you can use for mining cryptocurrency; </span></p>
+<ol>
+<li><span style="font-weight: 400;">ASIC (Application-Specific Integrated Circuit Miners)</span></li>
+<li><span style="font-weight: 400;">GPU (Graphics Processing Units)</span></li>
+<li><span style="font-weight: 400;">CPU (Central Processing Units)</span></li>
+</ol>
+<p><span style="font-weight: 400;"> HiveOS is only compatible with ASIC and GPU miners, which means investing on a higher end CPU would not result in an increased turnover on Hive OS.  </span></p>
+<figure id="attachment_996" aria-describedby="caption-attachment-996" style="width: 488px" class="wp-caption aligncenter"><img loading="lazy" class="size-full wp-image-996" title="ASIC Miner" src="https://branditechture.com/wp-content/uploads/2021/09/ASIC-Miner.jpg" alt="ASIC Miner" width="488" height="356" srcset="https://branditechture.com/wp-content/uploads/2021/09/ASIC-Miner.jpg 488w, https://branditechture.com/wp-content/uploads/2021/09/ASIC-Miner-300x219.jpg 300w" sizes="(max-width: 488px) 100vw, 488px" /><figcaption id="caption-attachment-996" class="wp-caption-text">The Antminer L7 ASIC Miner</figcaption></figure>
+<p>The Antminer L7 ASIC Miner shown above is sold for around $17565 as at November 2020, it is capable 0f generating an estimated $116/day. How long would it take you to break even? That&#8217;s about 152 days, but it could be longer depending on unforeseen factors.</p>
+<p><img loading="lazy" class="size-full wp-image-1102" title="GPUs for Mining" src="https://branditechture.com/wp-content/uploads/2021/09/rtsymbdb5r271.jpg" alt="GPUs for Mining " width="640" height="480" srcset="https://branditechture.com/wp-content/uploads/2021/09/rtsymbdb5r271.jpg 640w, https://branditechture.com/wp-content/uploads/2021/09/rtsymbdb5r271-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+<figure id="attachment_1003" aria-describedby="caption-attachment-1003" style="width: 640px" class="wp-caption aligncenter"><img loading="lazy" class="size-full wp-image-1003" title="GPU Mining Rig" src="https://branditechture.com/wp-content/uploads/2021/09/3wpmqcdb5r271.jpg" alt="GPU Mining Rig " width="640" height="480" srcset="https://branditechture.com/wp-content/uploads/2021/09/3wpmqcdb5r271.jpg 640w, https://branditechture.com/wp-content/uploads/2021/09/3wpmqcdb5r271-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /><figcaption id="caption-attachment-1003" class="wp-caption-text">A GPU Mining Rig. Credit: r/MiningRigPics</figcaption></figure>
+<p>Above is a combo of Nvidia GeForce FX 5700, GeForce 3060ti (x2) and 3080 GPU Models, running at 217Mh/s (or 217 Megahash per second). It can mine around 18 USD worth of ETH per day, but could slightly vary.</p>
+<pre>Have you followed us on <a class="extlink" target="_blank" href="https://branditechture.medium.com/" rel="noopener"><strong>Medium? </strong></a></pre>
+<h2>Broadband Internet</h2>
+<p><span style="font-weight: 400;">Now I’ll start with a list of countries and their average cost of data, to help you put this in perspective. I had to get help from a 2019 study carried out by </span><a class="extlink" href="https://www.statista.com/chart/17247/the-average-cost-of-mobile-data-in-selected-countries/" target="_blank" rel="noopener"><span style="font-weight: 400;">statista.com</span></a><span style="font-weight: 400;">:</span></p>
+<p><b>The Cost of Mobile Internet Around The World (in U.S. dollars)</b></p>
+<figure id="attachment_841" aria-describedby="caption-attachment-841" style="width: 960px" class="wp-caption aligncenter"><img loading="lazy" class="size-full wp-image-841" title="The Cost of Mobile Internet Around The World" src="https://branditechture.com/wp-content/uploads/2021/09/The-Cost-of-Mobile-Internet-Around-The-World-.jpeg" alt="The Cost of Mobile Internet Around The World" width="960" height="684" srcset="https://branditechture.com/wp-content/uploads/2021/09/The-Cost-of-Mobile-Internet-Around-The-World-.jpeg 960w, https://branditechture.com/wp-content/uploads/2021/09/The-Cost-of-Mobile-Internet-Around-The-World--300x214.jpeg 300w, https://branditechture.com/wp-content/uploads/2021/09/The-Cost-of-Mobile-Internet-Around-The-World--768x547.jpeg 768w" sizes="(max-width: 960px) 100vw, 960px" /><figcaption id="caption-attachment-841" class="wp-caption-text">The Cost of Mobile Internet Around The World</figcaption></figure>
+<h2>Electric Power</h2>
+<p>Mining cryptocurrencies such as Ethereum is a GPU-intensive activity. After electric power, the GPUs, also called Graphics Processing Unit are the most important component of your mining setup. The more powerful your GPU is, the higher its hash rate (measured in h/s) would be. The higher your hash rate is, the lesser the time required to complete a &#8220;proof of work&#8221;. To be rewarded, you need a proof of work.</p>
+<p>Your hash rate can be drastically increased by using multiple GPUs in a rig. Unfortunately GPUs are power-hungry devices. A single GPU can consume up to 300W. They also produce a lot of heat in the process. Your PSU (or Power Supply Unit) is also an important factor to consider. Its capacity has to be enough for the energy requirements of the GPUs.</p>
+<p><span style="font-weight: 400;">Alright, now that you are able to envision the relationship between GPUs, PSUs, and Electricity Usage, let’s examine the cost of electric power in the following countries. </span></p>
+<p><b>Electricity prices in U.S. dollars per kilowatt hour</b></p>
+<figure id="attachment_1024" aria-describedby="caption-attachment-1024" style="width: 1618px" class="wp-caption aligncenter"><img loading="lazy" class="size-full wp-image-1024" title="Screenshot 2021 09 12 at 8.40.04 PM" src="https://branditechture.com/wp-content/uploads/2021/09/Screenshot-2021-09-12-at-8.40.04-PM.png" alt="Screenshot 2021 09 12 at 8.40.04 PM" width="1618" height="1186" srcset="https://branditechture.com/wp-content/uploads/2021/09/Screenshot-2021-09-12-at-8.40.04-PM.png 1618w, https://branditechture.com/wp-content/uploads/2021/09/Screenshot-2021-09-12-at-8.40.04-PM-300x220.png 300w, https://branditechture.com/wp-content/uploads/2021/09/Screenshot-2021-09-12-at-8.40.04-PM-1024x751.png 1024w, https://branditechture.com/wp-content/uploads/2021/09/Screenshot-2021-09-12-at-8.40.04-PM-768x563.png 768w, https://branditechture.com/wp-content/uploads/2021/09/Screenshot-2021-09-12-at-8.40.04-PM-1536x1126.png 1536w" sizes="(max-width: 1618px) 100vw, 1618px" /><figcaption id="caption-attachment-1024" class="wp-caption-text">Source: Statista, 2021. (If your country is not listed, please, click <a target="_blank" rel="nofollow noopener" href="https://www.statista.com/statistics/263492/electricity-prices-in-selected-countries/">here</a> to see full report)</figcaption></figure>
+<p><a href="http://whattomine.com/"><span style="font-weight: 400;">Whattomine.com</span></a><span style="font-weight: 400;"> is a tool that helps with calculating your profitability. This is very helpful if you wish to have an idea of how long it&#8217;ll take for you to break even with your current setup. </span></p>
+<p><span style="font-weight: 400;">But then HiveOS offers something worth considering; MSKMINER is one of the largest and most experienced developers of firmware for Antminers. They offer an entire lineup on Antminer firmware, and provide very fast support for ASIC owners.</span></p>
+<p><span style="font-weight: 400;">Hive OS on the other hand, is the most popular system for managing and monitoring workers. With it, you can actually be assured of stability, 24/7 support service system, and a seamless management of even the largest farms.</span></p>
+<p><span style="font-weight: 400;">In an Avengers-like combo, MSKMINER and HiveOS decided to collaborate. This gave birth to what we now call the <a class="extlink" target="_blank" rel="nofollow noopener" href="https://hiveos.farm/asic/">Hiveon ASIC firmware powered by MSKMINER.</a></span></p>
+<p>With this supercharged firmware, you&#8217;d get up to 80.1 Terahashes per second. That&#8217;s crazy!</p>
+<figure id="attachment_1071" aria-describedby="caption-attachment-1071" style="width: 2334px" class="wp-caption aligncenter"><img loading="lazy" class="size-full wp-image-1071" title="HiveOS and MSKMINER" src="https://branditechture.com/wp-content/uploads/2021/09/Screenshot-2021-09-13-at-5.47.01-AM.png" alt="HiveOS and MSKMINER" width="2334" height="696" srcset="https://branditechture.com/wp-content/uploads/2021/09/Screenshot-2021-09-13-at-5.47.01-AM.png 2334w, https://branditechture.com/wp-content/uploads/2021/09/Screenshot-2021-09-13-at-5.47.01-AM-300x89.png 300w, https://branditechture.com/wp-content/uploads/2021/09/Screenshot-2021-09-13-at-5.47.01-AM-1024x305.png 1024w, https://branditechture.com/wp-content/uploads/2021/09/Screenshot-2021-09-13-at-5.47.01-AM-768x229.png 768w, https://branditechture.com/wp-content/uploads/2021/09/Screenshot-2021-09-13-at-5.47.01-AM-1536x458.png 1536w, https://branditechture.com/wp-content/uploads/2021/09/Screenshot-2021-09-13-at-5.47.01-AM-2048x611.png 2048w" sizes="(max-width: 2334px) 100vw, 2334px" /><figcaption id="caption-attachment-1071" class="wp-caption-text">HiveOS and MSKMINER</figcaption></figure>
+<p><span style="font-weight: 400;">The S17+ model is reported to deliver up to 95Th/s with a Standard PSU. It provides its users with incredibly higher hashrate of up to 95Th/s, reliable security, and numerous monitoring features for free (Hive OS is free of charge for Hiveon ASIC firmware users). With this increased hashrate, you could mine more cryptocurrencies, in less time. </span></p>
+<p><span style="font-weight: 400;">So, back to the original question we’re trying to answer; <strong>is HiveOS worth it? </strong></span></p>
+<p><span style="font-weight: 400;">Consider the following;</span></p>
+<ul>
+<li><span style="font-weight: 400;">Your choice of hardware; ASIC or GPU-based miners?</span></li>
+<li><span style="font-weight: 400;">Your location; which invariably determines the availability and cost of uninterrupted power supply and broadband internet. </span></li>
+<li><span style="font-weight: 400;">Your $3 monthly fee for each of your workers (Hive OS requires that you pay a monthly fee of $3 if you are using more than 4 workers.)<br />
+<strong>💡TIP: A worker</strong> is a term used to describe any type of mining hardware that is supported by Hive OS: a rig — a computer built with GPUs; and ASIC.</span></li>
+</ul>
+<p>With all the factors highlighted above, I will leave you to decide.</p>
+<hr />
+<p>Fancy having a website? Read <a href="https://branditechture.com/when-to-choose-a-static-website-over-a-dynamic-website-and-why-you-should/">this article</a> before you decide.</p>
+<p>The post <a rel="nofollow" href="https://branditechture.com/is-hive-os-worth-it/">Is Hive OS Worth It?</a> appeared first on <a rel="nofollow" href="https://branditechture.com">Blog by Branditechture</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://branditechture.com/is-hive-os-worth-it/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>What is Abeg Naira? And How Does it Measure Up To The Naira?</title>
 		<link>https://branditechture.com/what-is-abeg-naira/</link>
 					<comments>https://branditechture.com/what-is-abeg-naira/#respond</comments>
