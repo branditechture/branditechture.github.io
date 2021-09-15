@@ -19,7 +19,7 @@
     var defaults = {
         messageLocales: {
             it: 'Utilizziamo i cookie per essere sicuri che tu possa avere la migliore esperienza sul nostro sito. Se continui ad utilizzare questo sito assumiamo che tu ne sia felice.',
-            en: 'We use cookies to ensure that you have the best experience on our website. If you continue to use this site we assume that you accept this.',
+            en: 'We use cookies to ensure that you have the best experience on our website. By using our website, you consent to our use of Cookies in accordance to our',
             fr: 'Nous utilisons des cookies afin d\'être sûr que vous pouvez avoir la meilleure expérience sur notre site. Si vous continuez à utiliser ce site, nous supposons que vous acceptez.',
             pt: 'Utilizamos cookies para garantir que você tenha a melhor experiência em nosso site. Se você continuar a usar este site, assumimos que você aceita isso.',
             es: 'Utilizamos cookies para asegurarnos de que usted tenga la mejor experiencia en nuestro sitio web. Si continúa usando este sitio, asumimos que lo acepta.',
@@ -30,13 +30,13 @@
 
         cookieNoticePosition: 'bottom',
 
-        learnMoreLinkEnabled: false,
+        learnMoreLinkEnabled: true,
 
-        learnMoreLinkHref: '/cookie-banner-information.html',
+        learnMoreLinkHref: 'https://branditechture.com/cookie-policy/',
 
         learnMoreLinkText: {
             it: 'Saperne di più',
-            en: 'Learn more',
+            en: 'Cookie Policy.',
             fr: 'En savoir plus',
             pt: 'Saber mais',
             es: 'Aprende más.',
@@ -46,19 +46,19 @@
         },
 
         buttonLocales: {
-            en: 'OK'
+            en: 'I Agree'
         },
 
         expiresIn: 30,
 
-        fontFamily: 'inherit',
+        fontFamily: 'nunito',
         fontSize: '12px',
 
-        buttonBgColor: '#ca5000',
+        buttonBgColor: '#76B50A',
         buttonTextColor: '#fff',
-        noticeBgColor: '#000',
+        noticeBgColor: '#3B3663',
         noticeTextColor: '#fff',
-        linkColor: '#009fdd',
+        linkColor: 'orange',
         linkBgColor: '#000',
         linkTarget: '_blank',
         debug: false
