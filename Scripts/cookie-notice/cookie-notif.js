@@ -2,7 +2,7 @@
  * Cookie Notice JS
  * @author Alessandro Benoit
  */
-(function () {
+ (function () {
 
     "use strict";
 
