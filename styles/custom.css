@@ -1,0 +1,6 @@
+table{
+    table-layout: fixed;
+   min-width: auto !important;
+   word-break: break-word;
+   width:100%;
+   }
