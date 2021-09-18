@@ -4,3 +4,7 @@ table{
    word-break: break-word;
    width:100% !important;
    }
+
+thead {
+    background: #fefe
+}
