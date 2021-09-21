@@ -8,3 +8,12 @@ table{
 thead {
     background: #fefe !important;
 }
+
+[type=button], [type=submit], button {
+    border: 1px solid #3b3663;
+}
+[type=button]:focus, [type=button]:hover, [type=submit]:focus, [type=submit]:hover, button:focus, button:hover {
+    color: #fff;
+    background-color: #76b50a;
+    text-decoration: none;
+}
