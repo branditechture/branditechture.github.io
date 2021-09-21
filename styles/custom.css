@@ -10,10 +10,10 @@ thead {
 }
 
 [type=button], [type=submit], button {
-    border: 1px solid #3b3663;
+    border: 1px solid #3b3663 !important;
 }
 [type=button]:focus, [type=button]:hover, [type=submit]:focus, [type=submit]:hover, button:focus, button:hover {
     color: #fff;
-    background-color: #76b50a;
+    background-color: #76b50a !important;
     text-decoration: none;
 }
